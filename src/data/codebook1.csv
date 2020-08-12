@@ -1,0 +1,48 @@
+﻿qValue,qlong
+201,Country
+202,Which department do you work in?
+203,Industry sector
+204,Number of product users
+205,Number of employees
+206,Percentage of users in company
+207,Position in company
+208,Region
+210,Which data management product would you like to review?
+211,Why was the product chosen?
+215,"What, if any, are the most serious problems in the use of your data management product?"
+212,Would you recommend others to buy your data management product?
+213,To what degree are you satisfied with your data management tool?
+214,For which tasks do you use your data management tool?
+216,How would you rate the adaptability of your product?
+217,How would you rate the availability of skilled users of your product?
+218,How would you rate the data accessibility of your product?
+219,How would you rate the developer productivity of your product?
+220,How would you rate the maintenance efficiency of your product?
+221,How would you rate the performance of your product?
+222,How would you rate the price-to-value of your product?
+223,How would you rate the scalability of your product?
+224,How would you rate the support for compliance requirements of your product?
+225,How would you rate the support for data governance of your product?
+229,What challenges do you currently face in your data warehouse landscape?
+226,What kind of approaches have you implemented to modernize data warehousing?
+233,What kind of technology have you implemented to modernize data warehousing?
+227,Which benefits have you achieved by implementing these technologies / approaches?
+228,Which benefits would you expect if these technologies / approaches were to be implemented?
+230,"What are the biggest challenges your company faced in modernizing its data
+warehouse landscape?"
+232,What is the best way to describe your data warehouse and analytics landscape?
+234,How important do you consider API management?
+235,How important do you consider cloud BI and data management?
+236,How important do you consider data as a service/insights as a service?
+237,How important do you consider data catalogs and data hubs?
+238,How important do you consider data governance?
+239,How important do you consider data lakes?
+240,How important do you consider data preparation?
+241,How important do you consider data vault?
+242,How important do you consider data virtualization?
+243,How important do you consider data warehouse automation?
+244,How important do you consider data quality/master data management?
+245,How important do you consider new data sources/open data?
+246,How important do you consider real-time analytics and streaming?
+247,How important do you consider self-service BI / data discovery?
+248,How important do you consider semantic modeling and linked data?
