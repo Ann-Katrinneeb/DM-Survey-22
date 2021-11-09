@@ -4,9 +4,9 @@ export function initProdComp() {
 
 
 
-  var valueID, prodId = ["2150 Datavault Builder", "AnalyticsCreator", "Informatica PowerCenter"],
-    KPIID = ["Product satisfaction", "Recommendation"];
-  var KPIComp = "Product satisfaction",
+  var valueID, prodId = ["Amazon Redshift", "AnalyticsCreator", "Exasol Database"],
+    KPIID = ["Product Satisfaction", "Recommendation"];
+  var KPIComp = "Product Satisfaction",
     KPICompDataFil, peerSelect5, prodSelection5, KPISelection5, svg5Up, vendors, peerSelectHelper = 0, sorting=0;
   var initDisable = 0;
 

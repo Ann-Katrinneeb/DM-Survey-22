@@ -3,7 +3,7 @@ import data3 from './data/all_new.csv';
 
 export function initProdKPI() {
 
-  var product = "2150 Datavault Builder";
+  var product = "Datavault Builder";
   var yLegend = -125;
   var tranx2 = 92;
   var tranx3 = 112;
@@ -13,12 +13,12 @@ export function initProdKPI() {
 
   var xRankpeer = -50;
   var ySpace = 22.5;
-  var labelxSpac = -140;
+  var labelxSpac = -150;
   var SpaceLine = 22.5;
-  var xLine = 280;
+  var xLine = 290;
   var xLine2 = xLine - 8;
   var peerGroupDummy = "All products",
-    productDummy = "2150 Datavault Builder",
+    productDummy = "Datavault Builder",
     peerSelectDataUp, prodSelectDataUp, productSelect, peerSelectUp;
   var legend = {
     left: -70,
@@ -27,9 +27,6 @@ export function initProdKPI() {
   var countRank = 0;
 
   var formatValue = d3.format(".1f");
-
-
-
 
   var chart3 = d3.select("#chart3");
 
@@ -55,13 +52,13 @@ export function initProdKPI() {
   };
 
   var w = widthHelper3 - margin.left - margin.right;
-  var h = 500 - margin.top - margin.bottom;
+  var h = 550 - margin.top - margin.bottom;
 
-  var widthRanks = 165;
+  var widthRanks = 140;
   var barHeight5 = 12;
   var spacing = 14.5;
   var barHeight4 = 4;
-  var productSelecter = "2150 Datavault Builder";
+  var productSelecter = "Datavault Builder";
   var peerSelecter = "All products";
   var prodSelectData;
 
@@ -413,7 +410,7 @@ export function initProdKPI() {
     .data(productRank)
     .enter().append("text")
     .attr("class", "KPItext")
-    .attr("x", tranx3 - 180)
+    .attr("x", tranx3 - 150)
     .attr("y", function(d, i) {
       return (barHeight5 / 2) + spacing + (ySpace * i)
     })
@@ -851,176 +848,255 @@ export function initProdKPI() {
 
   // KPI Group 1 Lines
 
+  // KPI Group 1 Lines
+
   var count5 = 0;
-  var LineGroupBegin5 = 8;
+  var LineGroupBegin5 = 27;
 
   svg3.append("line")
     .attr("class", "head")
     .attr("x1", -xLine)
     .attr("y1", LineGroupBegin5)
     .attr("x2", -xLine)
-    .attr("y2", LineGroupBegin5 + 10 + (11 * SpaceLine))
-    .attr("stroke", "white")
-    .attr("stroke-width", "1");
+    .attr("y2", LineGroupBegin5 + 12 + (4 * SpaceLine))
+    .attr("stroke", "grey")
+    .attr("stroke-width", "0.3");
 
-  for (count5 = 0; count5 < 12; count5++) {
+  for (count5 = 0; count5 < 5; count5++) {
 
     svg3.append("line")
       .attr("class", "head")
       .attr("x1", -xLine)
-      .attr("y1", LineGroupBegin5 + 10 + (SpaceLine * count5))
+      .attr("y1", LineGroupBegin5 + 12 + (SpaceLine * count5))
       .attr("x2", -xLine2)
-      .attr("y2", LineGroupBegin5 + 10 + (SpaceLine * count5))
-      .attr("stroke", "white")
-      .attr("stroke-width", "1");
+      .attr("y2", LineGroupBegin5 + 12 + (SpaceLine * count5))
+      .attr("stroke", "grey")
+      .attr("stroke-width", "0.3");
+  }
+
+  // KPI Group 2 Lines
+
+  var count = 0;
+  var LineGroupBegin = 162;
+
+  svg3.append("line")
+    .attr("class", "head")
+    .attr("x1", -xLine)
+    .attr("y1", LineGroupBegin)
+    .attr("x2", -xLine)
+    .attr("y2", LineGroupBegin + 12 + (3 * SpaceLine))
+    .attr("stroke", "grey")
+    .attr("stroke-width", "0.3");
+
+  for (count = 0; count < 4; count++) {
+
+    svg3.append("line")
+      .attr("class", "head")
+      .attr("x1", -xLine)
+      .attr("y1", LineGroupBegin + 12 + (SpaceLine * count))
+      .attr("x2", -xLine2)
+      .attr("y2", LineGroupBegin + 12 + (SpaceLine * count))
+      .attr("stroke", "grey")
+      .attr("stroke-width", "0.3");
+  }
+
+
+  // KPI Group 3 Lines
+
+  var count1 = 0;
+  var LineGroupBegin2 = 277;
+
+  svg3.append("line")
+    .attr("class", "head")
+    .attr("x1", -xLine)
+    .attr("y1", LineGroupBegin2)
+    .attr("x2", -xLine)
+    .attr("y2", LineGroupBegin2 + 12 + (1 * SpaceLine))
+    .attr("stroke", "grey")
+    .attr("stroke-width", "0.3");
+
+  for (count1 = 0; count1 < 2; count1++) {
+
+    svg3.append("line")
+      .attr("class", "head")
+      .attr("x1", -xLine)
+      .attr("y1", LineGroupBegin2 + 12 + (SpaceLine * count1))
+      .attr("x2", -xLine2)
+      .attr("y2", LineGroupBegin2 + 12 + (SpaceLine * count1))
+      .attr("stroke", "grey")
+      .attr("stroke-width", "0.3");
+  }
+
+
+// KPI Group 5 Lines
+
+  var count3 = 0;
+  var LineGroupBegin4 = 342;
+
+  svg3.append("line")
+    .attr("class", "head")
+    .attr("x1", -xLine)
+    .attr("y1", LineGroupBegin4)
+    .attr("x2", -xLine)
+    .attr("y2", LineGroupBegin4 + 12 + (1 * SpaceLine))
+    .attr("stroke", "grey")
+    .attr("stroke-width", "0.3");
+
+  for (count3 = 0; count3 <2; count3++) {
+
+    svg3.append("line")
+      .attr("class", "head")
+      .attr("x1", -xLine)
+      .attr("y1", LineGroupBegin4 + 12 + (SpaceLine * count3))
+      .attr("x2", -xLine2)
+      .attr("y2", LineGroupBegin4 + 12 + (SpaceLine * count3))
+      .attr("stroke", "grey")
+      .attr("stroke-width", "0.3");
   }
 
   // Legend
 
-  var LegTrans3 = svg3.append("g").attr("class", "legendText")
+  var LegTrans = svg3.append("g").attr("class", "legendText")
     .attr("transform", "translate(" + legend.left + "," + legend.top + ")");
 
-  var LegTrans = LegTrans3.append("g").attr("class", "legendText3")
-    .style("display", (respHelp > 580) ? "block" : "none");
 
+    LegTrans.append("text")
+      .attr("x", 180)
+      .attr("y", 550 + yLegend)
+      .attr("class", "legendText")
+      .style("font-style", "italic")
+      .style("font-size", 9.5)
+      .text("= Average of peer group");
 
-  LegTrans.append("rect")
-    .attr("x", -127)
-    .attr("y", 461 + yLegend)
-    .attr("width", 10)
-    .attr("height", 10)
-    .style("fill", "#f2686f");
+    LegTrans.append("line")
+      .attr("x1", 177)
+      .attr("y1", 539 + yLegend)
+      .attr("x2", 177)
+      .attr("y2", 554 + yLegend)
+      .style("stroke", "#a3aeb7");
 
-  LegTrans.append("text")
-    .attr("x", -150)
-    .attr("y", 487 + yLegend)
-    .style("font-style", "italic")
-    .style("font-size", 10)
-    .text("Last ranked ")
-    .append("tspan")
-    .attr("x", -146)
-    .attr("y", 499 + yLegend)
-    .text("product in ")
-    .append("tspan")
-    .attr("x", -149)
-    .attr("y", 511 + yLegend)
-    .text("peer group");
+    LegTrans.append("text")
+      .attr("x", 21)
+      .attr("y", 550 + yLegend)
+      .style("font-style", "italic")
+      .attr("class", "legendText")
+      .style("font-size", 9.5)
+      .text("1.0");
 
-  LegTrans.append("text")
-    .attr("x", -60)
-    .attr("y", 487 + yLegend)
-    .style("font-style", "italic")
-    .style("font-size", 10)
-    .text("Best ranked ")
-    .append("tspan")
-    .attr("x", -56)
-    .attr("y", 499 + yLegend)
-    .text("product in ")
-    .append("tspan")
-    .attr("x", -58)
-    .attr("y", 511 + yLegend)
-    .text("peer group");
+    LegTrans.append("text")
+      .attr("x", 133)
+      .attr("y", 550 + yLegend)
+      .style("font-style", "italic")
+      .style("font-size", 9.5)
+      .attr("class", "legendText")
+      .text("10.0");
 
-  LegTrans.append("rect")
-    .attr("x", -105)
-    .attr("y", 461 + yLegend)
-    .attr("width", 10)
-    .attr("height", 10)
-    .style("fill", "#f79154");
+    LegTrans.append("rect")
+      .attr("x", -127)
+      .attr("y", 541 + yLegend)
+      .attr("width", 10)
+      .attr("height", 10)
+      .style("fill", "#f2686f");
 
-  LegTrans.append("rect")
-    .attr("x", -83)
-    .attr("y", 461 + yLegend)
-    .attr("width", 10)
-    .attr("height", 10)
-    .style("fill", "#ffbf00");
+    LegTrans.append("text")
+      .attr("x", -150)
+      .attr("y", 567 + yLegend)
+      .style("font-style", "italic")
+      .style("font-size", 9.5)
+      .attr("class", "legendText")
+      .text("Last ranked ")
+      .append("tspan")
+      .attr("x", -146)
+      .attr("y", 579 + yLegend)
+      .text("product in ")
+      .append("tspan")
+      .attr("x", -149)
+      .attr("y", 591 + yLegend)
+      .text("peer group");
 
-  LegTrans.append("rect")
-    .attr("x", -61)
-    .attr("y", 461 + yLegend)
-    .attr("width", 10)
-    .attr("height", 10)
-    .style("fill", "#adc537");
+    LegTrans.append("text")
+      .attr("x", -60)
+      .attr("y", 567 + yLegend)
+      .style("font-size", 9.5)
+      .style("font-style", "italic")
+      .attr("class", "legendText")
+      .text("Best ranked ")
+      .append("tspan")
+      .attr("x", -56)
+      .attr("y", 579 + yLegend)
+      .text("product in ")
+      .append("tspan")
+      .attr("x", -58)
+      .attr("y", 591 + yLegend)
+      .text("peer group");
 
-  LegTrans.append("rect")
-    .attr("x", -39)
-    .attr("y", 461 + yLegend)
-    .attr("width", 10)
-    .attr("height", 10)
-    .style("fill", "#42b648");
+    LegTrans.append("rect")
+      .attr("x", -105)
+      .attr("y", 541 + yLegend)
+      .attr("width", 10)
+      .attr("height", 10)
+      .style("fill", "#f79154");
 
+    LegTrans.append("rect")
+      .attr("x", -83)
+      .attr("y", 541 + yLegend)
+      .attr("width", 10)
+      .attr("height", 10)
+      .style("fill", "#ffbf00");
 
-  var legendleft2 = (respHelp > 580) ? 0 : -230;
+    LegTrans.append("rect")
+      .attr("x", -61)
+      .attr("y", 541 + yLegend)
+      .attr("width", 10)
+      .attr("height", 10)
+      .style("fill", "#adc537");
 
-  var LegTrans2 = LegTrans3.append("g").attr("class", "legendText2")
-    .attr("transform", "translate(" + legendleft2 + "," + 0 + ")");
+    LegTrans.append("rect")
+      .attr("x", -39)
+      .attr("y", 541 + yLegend)
+      .attr("width", 10)
+      .attr("height", 10)
+      .style("fill", "#42b648");
 
-  LegTrans2.append("rect")
-    .attr("x", 40)
-    .attr("y", 463 + yLegend)
-    .attr("width", 90)
-    .attr("height", barHeight4)
-    .style("fill", "#416ba4");
+    LegTrans.append("rect")
+      .attr("x", 40)
+      .attr("y", 543 + yLegend)
+      .attr("width", 90)
+      .attr("height", barHeight4)
+      .style("fill", "#1E3058");
 
-  LegTrans2.append("text")
-    .attr("x", 26)
-    .attr("y", 487 + yLegend)
-    .style("font-style", "italic")
-    .style("font-size", 10)
-    .text("Worst")
-    .append("tspan")
-    .attr("x", 22)
-    .attr("y", 499 + yLegend)
-    .text("product")
-    .append("tspan")
-    .attr("x", 19)
-    .attr("y", 511 + yLegend)
-    .text("(Overall)");
+    LegTrans.append("text")
+      .attr("x", 26)
+      .attr("y", 567 + yLegend)
+      .style("font-style", "italic")
+      .attr("class", "legendText")
+      .style("font-size", 9.5)
+      .text("Worst")
+      .append("tspan")
+      .attr("x", 22)
+      .attr("y", 579 + yLegend)
+      .text("product")
+      .append("tspan")
+      .attr("x", 19)
+      .attr("y", 591 + yLegend)
+      .text("(Overall)");
 
-  LegTrans2.append("text")
-    .attr("x", 118)
-    .attr("y", 487 + yLegend)
-    .style("font-style", "italic")
-    .style("font-size", 10)
-    .text("Best")
-    .append("tspan")
-    .attr("x", 110)
-    .attr("y", 499 + yLegend)
-    .text("product")
-    .append("tspan")
-    .attr("x", 107)
-    .attr("y", 511 + yLegend)
-    .text("(Overall)");
+    LegTrans.append("text")
+      .attr("x", 118)
+      .attr("y", 567 + yLegend)
+      .style("font-style", "italic")
+      .style("font-size", 9.5)
+      .attr("class", "legendText")
+      .text("Best")
+      .append("tspan")
+      .attr("x", 110)
+      .attr("y", 579 + yLegend)
+      .text("product")
+      .append("tspan")
+      .attr("x", 107)
+      .attr("y", 591 + yLegend)
+      .text("(Overall)");
 
-  LegTrans2.append("text")
-    .attr("x", 180)
-    .attr("y", 470 + yLegend)
-    .style("font-style", "italic")
-    .style("font-size", 10)
-    .text("= Average of peer group");
-
-  LegTrans2.append("line")
-    .attr("x1", 177)
-    .attr("y1", 459 + yLegend)
-    .attr("x2", 177)
-    .attr("y2", 474 + yLegend)
-    .style("stroke", "#ffffff")
-    .style("stroke-width", 3)
-    .attr("width", 2.5);
-
-  LegTrans2.append("text")
-    .attr("x", 21)
-    .attr("y", 470 + yLegend)
-    .style("font-style", "italic")
-    .style("font-size", 10)
-    .text("1.0");
-
-  LegTrans2.append("text")
-    .attr("x", 133)
-    .attr("y", 470 + yLegend)
-    .style("font-style", "italic")
-    .style("font-size", 10)
-    .text("10.0");
 
 
   function resizeProdKPIDash() {
@@ -1044,7 +1120,7 @@ export function initProdKPI() {
     };
 
     w = widthHelper3 - margin.left - margin.right;
-    h = 850 - margin.top - margin.bottom;
+    h = 550 - margin.top - margin.bottom;
 
 
     d3.select("#chart3").select("svg")

@@ -11,924 +11,1123 @@
 <body>
 
 
-
-
-  <div class="container2">
+<div class="container2">
     <div class="header">
 
       <div>
 
-        <h1 class="head1 fade-in-bottom">The Data Management Survey 19 Analyzer</h1>
+        <h1 class="head1 fade-in-bottom">The Data Management Survey 22 Analyzer</h1>
       </div>
 
-    </div>
-
-
-
-
-    <div class="tabContainer">
-      <div class="tabs" data-max-width="1024">
-        <span class="tab active triggerTest" id="nonproduct" data-tab="a">
-          <span class="icon fa fa-bar-chart"></span>
-          <span class="text">Survey results</span>
-        </span>
-        <span class="tab triggerTest" id="KPIDash2" data-tab="b">
-          <span class="icon fa fa-tachometer"></span>
-          <span class="text">KPI Dashboard</span>
-        </span>
-        <span class="tab triggerTest" id="prodKPI" data-tab="c">
-          <span class="icon fa fa-sliders"></span>
-          <span class="text">Product Dashboard</span>
-        </span>
-        <span class="tab triggerTest" id="prodComp" data-tab="d">
-          <span class="icon fa fa-balance-scale"></span>
-          <span class="text">Product Comparison</span>
-        </span>
-        <span class="tab triggerTest" data-tab="e">
-          <span class="icon fa fa-info"></span>
-          <span class="text">Documentation</span>
-        </span>
-      </div>
-    </div>
-
-    <div class="sectionsContainer">
-      <div class="sections">
-
-
-        <div class="section" data-section="a">
-
-          <section class='filler' id="filleranalyz">
-            <h2>Survey Results</h2>
-            <p class="fillerp">This screen shows the responses to a single question in The Data Management Survey. You can choose the question in the dropdown box in the top left corner of the report. The filters to the left of the screen can be
-              used to modify the chart.</p>
-
-          </section>
-          <div class="containeranal">
-            <div id="analyzer" class="row margintop2 justify-content-md-center">
-
-
-              <div id="colHeight" class="maxWidth col-md">
-                <div class="row margintopAnal">
-
-                  <div class="filter">
-                    <div>
-                      <h4 class="question">Question</h4>
-                    </div>
-                    <div>
-                      <select id="question" name="question" class="selectpicker">
-                        <optgroup label="Demographics">
-                          <option id="button4" value="201" class="single" data-sort="1">Country</option>
-                          <option id="button1" value="202" class="single" data-sort="1">Department</option>
-                          <option id="button2" value="203" class="single" data-sort="1">Industry</option>
-                          <option id="button3" value="204" class="single" data-sort="2">Number of product users</option>
-                          <option id="button3" value="205" class="single" data-sort="2">Number of employees</option>
-                          <option id="button3" value="206" class="single" data-sort="2">Percentage of users</option>
-                          <option id="button3" value="207" class="single" data-sort="1">Position</option>
-                          <option id="button3" value="208" class="single" data-sort="1">Region</option>
-
-                        <optgroup label="Selection">
-                          <option id="button2" value="210" class="single" data-sort="1">Chosen product</option>
-                          <option id="button2" value="211" class="multi" data-sort="1">Reasons to buy</option>
-                        </optgroup>
-
-                        <optgroup label="Product">
-                          <option id="button3" value="212" class="single" data-sort="2">Recommendation</option>
-                          <option id="button3" value="213" class="single" data-sort="2">Satisfaction</option>
-                          <option id="button3" value="214" class="multi" data-sort="1">Tasks</option>
-                          <option id="button3" value="215" class="multi" data-sort="1">Usage problems</option>
-                        </optgroup>
-
-                        <optgroup label="Features">
-                          <option id="button7" value="216" class="single" data-sort="2">Adaptability</option>
-                          <option id="button7" value="217" class="single" data-sort="2">Availability of skilled users</option>
-                          <option id="button7" value="218" class="single" data-sort="2">Data accessibility</option>
-                          <option id="button7" value="219" class="single" data-sort="2">Developer productivity</option>
-                          <option id="button7" value="220" class="single" data-sort="2">Maintenance efficiency</option>
-                          <option id="button7" value="221" class="single" data-sort="2">Performance</option>
-                          <option id="button7" value="222" class="single" data-sort="2">Price-to-value</option>
-                          <option id="button7" value="223" class="single" data-sort="2">Scalability</option>
-                          <option id="button7" value="224" class="single" data-sort="2">Support for compliance requirements</option>
-                          <option id="button7" value="225" class="single" data-sort="2">Support for data governance</option>
-                        </optgroup>
-
-                        <optgroup label="Data Warehouse Modernization">
-                          <option id="button7" value="226" class="multi" data-sort="1">Approaches</option>
-                          <option id="button7" value="227" class="multi" data-sort="1">Benefits achieved</option>
-                          <option id="button7" value="228" class="multi" data-sort="1">Benefits expected</option>
-                          <option id="button7" value="229" class="multi" data-sort="1">Challenges landscape</option>
-                          <option id="button7" value="230" class="multi" data-sort="1">Challenges modernization</option>
-                          <option id="button7" value="232" class="single" data-sort="1">Data warehouse landscape</option>
-                          <option id="button7" value="233" class="multi" data-sort="1">Technologies</option>
-                        </optgroup>
-
-                        <optgroup label="Trends">
-                          <option id="button7" value="234" class="single" data-sort="2">API management</option>
-                          <option id="button7" value="235" class="single" data-sort="2">Cloud BI and data management</option>
-                          <option id="button7" value="236" class="single" data-sort="2">Data as a service/insights as a service</option>
-                          <option id="button7" value="237" class="single" data-sort="2">Data catalogs and data hubs</option>
-                          <option id="button7" value="238" class="single" data-sort="2">Data governance</option>
-                          <option id="button7" value="239" class="single" data-sort="2">Data lakes</option>
-                          <option id="button7" value="240" class="single" data-sort="2">Data preparation</option>
-                          <option id="button7" value="241" class="single" data-sort="2">Data vault</option>
-                          <option id="button7" value="242" class="single" data-sort="2">Data virtualization</option>
-                          <option id="button7" value="243" class="single" data-sort="2">Data warehouse automation</option>
-                          <option id="button7" value="244" class="single" data-sort="2">Data quality/master data management</option>
-                          <option id="button7" value="245" class="single" data-sort="2">New data sources/open data</option>
-                          <option id="button7" value="246" class="single" data-sort="2">Real-time analytics and streaming</option>
-                          <option id="button7" value="247" class="single" data-sort="2">Self-service BI / data discovery</option>
-                          <option id="button7" value="248" class="single" data-sort="2">Semantic modeling and linked data</option>
-                        </optgroup>
-                      </select>
-                    </div>
-                  </div>
-                  <div class="filter">
-                    <div>
-                      <h4>Products</h4>
-                    </div>
-                    <div>
-                      <select id="products" class="selectpicker" multiple data-actions-box="true" data-selected-text-format="count>11" data-count-selected-text="All selected" data-size="3">
-                        <option value="2150 Datavault Builder">2150 Datavault Builder</option>
-                        <option value="AnalyticsCreator">AnalyticsCreator</option>
-                        <option value="Informatica PowerCenter">Informatica PowerCenter</option>
-                        <option value="Microsoft Azure">Microsoft Azure</option>
-                        <option value="Microsoft SQL Server">Microsoft SQL Server</option>
-                        <option value="Microsoft SSIS">Microsoft SSIS</option>
-                        <option value="Oracle Database">Oracle Database</option>
-                        <option value="Pentaho Data Integration">Pentaho Data Integration</option>
-                        <option value="SAP BW">SAP BW</option>
-                        <option value="SAP BW on HANA">SAP BW on HANA</option>
-                        <option value="SAP BW/4HANA">SAP BW/4HANA</option>
-                        <option value="Other">Other</option>
-                        <option value="Did not respond">Did not respond</option>
-                      </select>
-                    </div>
-                  </div>
-                  <div class="filter">
-                    <div>
-                      <h4>Region</h4>
-                    </div>
-                    <div>
-                      <select id="region" class="selectpicker" multiple data-actions-box="true" data-selected-text-format="count>5" data-count-selected-text="All selected" data-size="3">
-                        <option value="Europe">Europe</option>
-                        <option value="Asia and Pacific">Asia and Pacific</option>
-                        <option value="North America">North America</option>
-                        <option value="South America">South America</option>
-                        <option value="Rest of the world">Rest of the world</option>
-                        <option value="Did not respond">Did not respond</option>
-                      </select>
-                    </div>
-                  </div>
-                  <div class="filter">
-                    <div>
-                      <h4>Industry</h4>
-                    </div>
-                    <div>
-                      <select id="industry" class="selectpicker" multiple data-actions-box="true" data-selected-text-format="count>10" data-count-selected-text="All selected" data-size="3">
-                        <option value="Manufacturing">Manufacturing</option>
-                        <option value="Services">Services</option>
-                        <option value="Retail/Wholesale">Retail/Wholesale</option>
-                        <option value="Financial Services">Financial Services</option>
-                        <option value="IT">IT</option>
-                        <option value="Public sector and Education">Public sector/Education</option>
-                        <option value="Utilities">Utilities</option>
-                        <option value="Telecommunications">Telecommunications</option>
-                        <option value="Transport">Transport</option>
-                        <option value="Other">Other</option>
-                        <option value="Did not respond">Did not respond</option>
-                      </select>
-                    </div>
-                  </div>
-                  <div class="filter">
-                    <div>
-                      <h4>No. of employees</h4>
-                    </div>
-                    <div>
-                      <select id="employee" class="selectpicker" multiple data-actions-box="true" data-selected-text-format="count>5" data-count-selected-text="All selected" data-size="3">
-                        <option value="Less than 150">Less than 150</option>
-                        <option value="150 - 500">150 - 500</option>
-                        <option value="500 - 1500">500 - 1500</option>
-                        <option value="1500 - 6000">1500 - 6000</option>
-                        <option value="More than 6000">More than 6000</option>
-                        <option value="Did not respond">Did not respond</option>
-                      </select>
-                    </div>
-                  </div>
-                  <div class="filter">
-                    <div>
-                      <h4>User type</h4>
-                    </div>
-                    <div>
-                      <select id="itbus" class="selectpicker" multiple data-actions-box="true" data-selected-text-format="count>2" data-count-selected-text="All selected">
-                        <option value="Business">Business</option>
-                        <option value="IT">IT</option>
-                        <option value="Did not respond">Did not respond</option>
-                      </select>
-                    </div>
-                  </div>
-                  <div class="filter">
-                    <div>
-                      <h4>Country</h4>
-                    </div>
-                    <div>
-                      <select id="country" class="selectpicker" multiple data-actions-box="true" data-selected-text-format="count>56" data-count-selected-text="All selected" data-size="3">
-                        <option value="Argentina">Argentina</option>
-                        <option value="Australia">Australia</option>
-                        <option value="Austria">Austria</option>
-                        <option value="Belgium">Belgium</option>
-                        <option value="Brazil">Brazil</option>
-                        <option value="Bulgaria">Bulgaria</option>
-                        <option value="Canada">Canada</option>
-                        <option value="Chile">Chile</option>
-                        <option value="China">China</option>
-                        <option value="Colombia">Colombia</option>
-                        <option value="Costa Rica">Costa Rica</option>
-                        <option value="Côte d'Ivoire">Côte d'Ivoire</option>
-                        <option value="Croatia">Croatia</option>
-                        <option value="Denmark">Denmark</option>
-                        <option value="Ecuador">Ecuador</option>
-                        <option value="Estonia">Estonia</option>
-                        <option value="Finland">Finland</option>
-                        <option value="France">France</option>
-                        <option value="Germany">Germany</option>
-                        <option value="Greece">Greece</option>
-                        <option value="Hong Kong">Hong Kong</option>
-                        <option value="Hungary">Hungary</option>
-                        <option value="India">India</option>
-                        <option value="Israel">Israel</option>
-                        <option value="Italy">Italy</option>
-                        <option value="Japan">Japan</option>
-                        <option value="Jordan">Jordan</option>
-                        <option value="Kuwait">Kuwait</option>
-                        <option value="Liechtenstein">Liechtenstein</option>
-                        <option value="Luxembourg">Luxembourg</option>
-                        <option value="Malaysia">Malaysia</option>
-                        <option value="Mexico">Mexico</option>
-                        <option value="Netherlands">Netherlands</option>
-                        <option value="New Zealand">New Zealand</option>
-                        <option value="Norway">Norway</option>
-                        <option value="Pakistan">Pakistan</option>
-                        <option value="Papua New Guinea">Papua New Guinea</option>
-                        <option value="Paraguay">Paraguay</option>
-                        <option value="Peru">Peru</option>
-                        <option value="Poland">Poland</option>
-                        <option value="Portugal">Portugal</option>
-                        <option value="Romania">Romania</option>
-                        <option value="Russian Federation">Russian Federation</option>
-                        <option value="Saudi Arabia">Saudi Arabia</option>
-                        <option value="Serbia">Serbia</option>
-                        <option value="Singapore">Singapore</option>
-                        <option value="Slovenia">Slovenia</option>
-                        <option value="South Africa">South Africa</option>
-                        <option value="Spain">Spain</option>
-                        <option value="Sweden">Sweden</option>
-                        <option value="Switzerland">Switzerland</option>
-                        <option value="Thailand">Thailand</option>
-                        <option value="United Kingdom">United Kingdom</option>
-                        <option value="United States of America">United States of America</option>
-                        <option value="United States Virgin Islands">United States Virgin Islands</option>
-                        <option value="Uruguay">Uruguay</option>
-                        <option value="Did not respond">Did not respond</option>
-                      </select>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-md">
-                <div>
-                  <h4 id="questionlong">Which department do you work in?</h4>
-                </div>
-                <div id="nid">
-                  <p>N = <span id="ncount">1012</span></p>
-                </div>
-                <div id="chart">
-
-                </div>
-              </div>
-
-            </div>
-          </div>
+      <div class="head2 fade-in-bottom2">
 
         </div>
 
-        <div class="section" data-section="b">
+    </div>
 
-          <section class='filler' id="fillerKPIDash">
-            <h2>KPI Dashboard</h2>
-            <p class="fillerp">The KPI Dashboard allows you to compare product results by criteria (KPIs). For each KPI, values are shown for all the products in the peer group selected in the peer group filter. The peer group average is displayed
-              as a gray bar. All products displayed above the gray bar are above average in the peer group, and those below the gray bar are below average. At the top of the screen, you can choose which KPI and peer group to analyze.</p>
 
-          </section>
-          <div class="containeranal">
-            <div id="kpidash">
-              <div class="filters ">
-                <div class=" centerDiv">
+      <div class="tabContainer">
+        <div class="tabs" data-max-width="1024">
+          <span class="tab active triggerTest" id="nonproduct" data-tab="a">
+            <span class="icon fa fa-bar-chart"></span>
+            <span class="text">Survey Results</span>
+          </span>
+          <span class="tab triggerTest" id="KPIDash2" data-tab="b">
+            <span class="icon fa fa-tachometer"></span>
+            <span class="text">KPI Dashboard</span>
+          </span>
+          <span class="tab triggerTest" id="prodKPI" data-tab="c">
+            <span class="icon fa fa-sliders"></span>
+            <span class="text">Product Dashboard</span>
+          </span>
+          <span class="tab triggerTest" id="prodComp" data-tab="d">
+            <span class="icon fa fa-balance-scale"></span>
+            <span class="text">Product Comparison</span>
+          </span>
+          <span class="tab triggerTest" data-tab="e">
+            <span class="icon fa fa-info"></span>
+            <span class="text">Documentation</span>
+          </span>
+        </div>
+      </div>
 
-                  <div class=" filter ">
+      <div class="sectionsContainer">
+        <div class="sections">
 
-                    <h4 id="questionKPI">KPI filter</h4>
 
-                    <select id="KPIfilter" name="KPIfilter" class="selectpicker" data-size="4">
-                      <option id="button10006" value="Product satisfaction">Product satisfaction</option>
-                      <option id="button10007" value="Recommendation">Recommendation</option>
-                      <option id="button10008" value="Developer efficiency">Developer efficiency</option>
-                      <option id="button10009" value="Time to market">Time to market</option>
-                      <option id="button10010" value="Data access">Data access</option>
-                      <option id="button10011" value="Price-to-value">Price-to-value</option>
-                      <option id="button10012" value="Performance">Performance</option>
-                      <option id="button10013" value="Scalability">Scalability</option>
-                      <option id="button10014" value="Maintenance efficiency">Maintenance efficiency</option>
-                      <option id="button10015" value="Compliance">Compliance</option>
-                      <option id="button10016" value="Data governance">Data governance</option>
-                      <option id="button10017" value="Skills availability">Skills availability</option>
-                    </select>
+          <div class="section" data-section="a">
+
+            <section class='filler' id="filleranalyz">
+              <h2>Survey Results</h2>
+              <p class="fillerp">This screen shows the responses to a single question in The Data Management Survey. You can choose the question in the dropdown box in the top left corner of the report. The filters to the left of the screen can be
+                used to modify the chart.</p>
+
+            </section>
+            <div class="containeranal">
+              <div id="analyzer" class="row margintop2 justify-content-md-center">
+
+
+                <div id="colHeight" class="maxWidth col-md">
+                  <div class="row margintopAnal">
+
+                    <div class="filter">
+                      <div>
+                        <h4 class="question">Question</h4>
+                      </div>
+                      <div>
+                        <select id="question" name="question" class="selectpicker">
+                          <optgroup label="Demographics">
+                            <option id="button4" value="201" class="single" data-sort="1">Country</option>
+                            <option id="button1" value="202" class="single" data-sort="1">Department</option>
+                            <option id="button2" value="203" class="single" data-sort="1">Industry</option>
+                            <option id="button3" value="204" class="single" data-sort="2">Number of product users</option>
+                            <option id="button3" value="205" class="single" data-sort="2">Number of employees</option>
+                            <option id="button3" value="206" class="single" data-sort="2">Percentage of users</option>
+                            <option id="button3" value="207" class="single" data-sort="1">Position</option>
+                            <option id="button3" value="208" class="single" data-sort="1">Region</option>
+
+                          <optgroup label="Selection">
+                            <option id="button2" value="210" class="single" data-sort="1">Chosen product</option>
+                            <option id="button2" value="211" class="multi" data-sort="1">Reasons to buy</option>
+                          </optgroup>
+
+                          <optgroup label="Product">
+                            <option id="button3" value="212" class="single" data-sort="2">Recommendation</option>
+                            <option id="button3" value="213" class="single" data-sort="2">Satisfaction</option>
+                            <option id="button3" value="214" class="multi" data-sort="1">Tasks</option>
+                            <option id="button3" value="215" class="multi" data-sort="1">Usage problems</option>
+                          </optgroup>
+
+                          <optgroup label="Features">
+                            <option id="button7" value="216" class="single" data-sort="2">Automation</option>
+                            <option id="button7" value="217" class="single" data-sort="2">Connectivity</option>
+                            <option id="button7" value="218" class="single" data-sort="2">Developer efficiency</option>
+                            <option id="button7" value="219" class="single" data-sort="2">Functionality</option>
+                            <option id="button7" value="220" class="single" data-sort="2">Innovative strength</option>
+                            <option id="button7" value="221" class="single" data-sort="2">Performance</option>
+                            <option id="button7" value="222" class="single" data-sort="2">Platform reliability</option>
+                            <option id="button7" value="223" class="single" data-sort="2">Price to value</option>
+                            <option id="button7" value="224" class="single" data-sort="2">Support quality</option>
+                            <option id="button7" value="225" class="single" data-sort="2">Time to market</option>
+                            <option id="button7" value="226" class="single" data-sort="2">Usability</option>
+                          </optgroup>
+
+                          <optgroup label="Non-product related questions">
+                            <option id="button7" value="230" class="multi" data-sort="1">Initiatives driving investments </option>
+                            <option id="button7" value="231" class="single" data-sort="2">Investments in data management</option>
+                            <option id="button7" value="232" class="single" data-sort="2">Level of benefits from investments</option>
+                            <option id="button7" value="233" class="multi" data-sort="1">Measures being invested in</option>
+                            <option id="button7" value="234" class="multi" data-sort="1">Trends</option>
+                          </optgroup>
+                        </select>
+                      </div>
+                    </div>
+                    <div class="filter">
+                      <div>
+                        <h4>Products</h4>
+                      </div>
+                      <div>
+                        <select id="products" class="selectpicker" multiple data-actions-box="true" data-selected-text-format="count>11" data-count-selected-text="All selected" data-size="3">
+                          <option value="Datavault Builder">Datavault Builder</option>
+                          <option value="Alation Data Catalog">Alation Data Catalog</option>
+                          <option value="Amazon Redshift">Amazon Redshift</option>
+                          <option value="AnalyticsCreator">AnalyticsCreator</option>
+                          <option value="Collibra Data Catalog">Collibra Data Catalog</option>
+                          <option value="dataspot.">dataspot.</option>
+                          <option value="Exasol Database">Exasol Database</option>
+                          <option value="Google Big Query">Google Big Query</option>
+                          <option value="Informatica EDC">Informatica EDC</option>
+                          <option value="Microsoft Azure Data Factory">Microsoft Azure Data Factory</option>
+                          <option value="Microsoft SQL Server">Microsoft SQL Server</option>
+                          <option value="Microsoft SSIS">Microsoft SSIS</option>
+                          <option value="Oracle Data Integrator">Oracle Data Integrator</option>
+                          <option value="Oracle Database">Oracle Database</option>
+                          <option value="SAP BW on HANA">SAP BW on HANA</option>
+                          <option value="SAP BW/4HANA">SAP BW/4HANA</option>
+                          <option value="SAP HANA">SAP HANA</option>
+                          <option value="Snowflake CDP">Snowflake CDP</option>
+                          <option value="Synabi D-QUANTUM">Synabi D-QUANTUM</option>
+                          <option value="TimeXtender">TimeXtender</option>
+                          <option value="Other">Other</option>
+                          <option value="Did not respond">Did not respond</option>
+                        </select>
+                      </div>
+                    </div>
+                    <div class="filter">
+                      <div>
+                        <h4>Region</h4>
+                      </div>
+                      <div>
+                        <select id="region" class="selectpicker" multiple data-actions-box="true" data-selected-text-format="count>5" data-count-selected-text="All selected" data-size="3">
+                          <option value="Europe">Europe</option>
+                          <option value="Asia and Pacific">Asia and Pacific</option>
+                          <option value="North America">North America</option>
+                          <option value="South America">South America</option>
+                          <option value="Rest of the world">Rest of the world</option>
+                          <option value="Did not respond">Did not respond</option>
+                        </select>
+                      </div>
+                    </div>
+                    <div class="filter">
+                      <div>
+                        <h4>Industry</h4>
+                      </div>
+                      <div>
+                        <select id="industry" class="selectpicker" multiple data-actions-box="true" data-selected-text-format="count>10" data-count-selected-text="All selected" data-size="3">
+                          <option value="Manufacturing">Manufacturing</option>
+                          <option value="Services">Services</option>
+                          <option value="Retail/Wholesale">Retail/Wholesale</option>
+                          <option value="Financial Services">Financial Services</option>
+                          <option value="IT">IT</option>
+                          <option value="Public sector and Education">Public sector/Education</option>
+                          <option value="Utilities">Utilities</option>
+                          <option value="Telecommunications">Telecommunications</option>
+                          <option value="Transport">Transport</option>
+                          <option value="Other">Other</option>
+                          <option value="Did not respond">Did not respond</option>
+                        </select>
+                      </div>
+                    </div>
+                    <div class="filter">
+                      <div>
+                        <h4>No. of employees</h4>
+                      </div>
+                      <div>
+                        <select id="employee" class="selectpicker" multiple data-actions-box="true" data-selected-text-format="count>5" data-count-selected-text="All selected" data-size="3">
+                          <option value="Less than 150">Less than 150</option>
+                          <option value="150 - 500">150 - 500</option>
+                          <option value="500 - 1500">500 - 1500</option>
+                          <option value="1500 - 6000">1500 - 6000</option>
+                          <option value="More than 6000">More than 6000</option>
+                          <option value="Did not respond">Did not respond</option>
+                        </select>
+                      </div>
+                    </div>
+                    <div class="filter">
+                      <div>
+                        <h4>User type</h4>
+                      </div>
+                      <div>
+                        <select id="itbus" class="selectpicker" multiple data-actions-box="true" data-selected-text-format="count>2" data-count-selected-text="All selected">
+                          <option value="Business">Business</option>
+                          <option value="IT">IT</option>
+                          <option value="Did not respond">Did not respond</option>
+                        </select>
+                      </div>
+                    </div>
+                    <div class="filter">
+                      <div>
+                        <h4>Country</h4>
+                      </div>
+                      <div>
+                        <select id="country" class="selectpicker" multiple data-actions-box="true" data-selected-text-format="count>55" data-count-selected-text="All selected" data-size="3">
+                          <option value='Algeria'>Algeria</option>
+                          <option value='Angola'>Angola</option>
+                          <option value='Argentina'>Argentina</option>
+                          <option value='Australia'>Australia</option>
+                          <option value='Austria'>Austria</option>
+                          <option value='Bahamas'>Bahamas</option>
+                          <option value='Belgium'>Belgium</option>
+                          <option value='Brazil'>Brazil</option>
+                          <option value='Bulgaria'>Bulgaria</option>
+                          <option value='Canada'>Canada</option>
+                          <option value='Chile'>Chile</option>
+                          <option value='China'>China</option>
+                          <option value='Colombia'>Colombia</option>
+                          <option value='Costa Rica'>Costa Rica</option>
+                          <option value='Croatia'>Croatia</option>
+                          <option value='Cyprus'>Cyprus</option>
+                          <option value='Czech Republic'>Czech Republic</option>
+                          <option value='Denmark'>Denmark</option>
+                          <option value='Ecuador'>Ecuador</option>
+                          <option value='Egypt'>Egypt</option>
+                          <option value='Finland'>Finland</option>
+                          <option value='France'>France</option>
+                          <option value='Germany'>Germany</option>
+                          <option value='Greece'>Greece</option>
+                          <option value='Hungary'>Hungary</option>
+                          <option value='Iceland'>Iceland</option>
+                          <option value='India'>India</option>
+                          <option value='Indonesia'>Indonesia</option>
+                          <option value='Iraq'>Iraq</option>
+                          <option value='Israel'>Israel</option>
+                          <option value='Italy'>Italy</option>
+                          <option value='Japan'>Japan</option>
+                          <option value='Kenya'>Kenya</option>
+                          <option value='Liechtenstein'>Liechtenstein</option>
+                          <option value='Lithuania'>Lithuania</option>
+                          <option value='Luxembourg'>Luxembourg</option>
+                          <option value='Mexico'>Mexico</option>
+                          <option value='Netherlands'>Netherlands</option>
+                          <option value='New Zealand'>New Zealand</option>
+                          <option value='Nigeria'>Nigeria</option>
+                          <option value='Norway'>Norway</option>
+                          <option value='Pakistan'>Pakistan</option>
+                          <option value='Philippines'>Philippines</option>
+                          <option value='Poland'>Poland</option>
+                          <option value='Portugal'>Portugal</option>
+                          <option value='Republic of Korea'>Republic of Korea</option>
+                          <option value='Russian Federation'>Russian Federation</option>
+                          <option value='Saudi Arabia'>Saudi Arabia</option>
+                          <option value='Serbia'>Serbia</option>
+                          <option value='Singapore'>Singapore</option>
+                          <option value='Slovenia'>Slovenia</option>
+                          <option value='South Africa'>South Africa</option>
+                          <option value='Spain'>Spain</option>
+                          <option value='Sri Lanka'>Sri Lanka</option>
+                          <option value='Sweden'>Sweden</option>
+                          <option value='Switzerland'>Switzerland</option>
+                          <option value='Thailand'>Thailand</option>
+                          <option value='Tunisia'>Tunisia</option>
+                          <option value='Turkey'>Turkey</option>
+                          <option value='Ukraine'>Ukraine</option>
+                          <option value='United Kingdom'>United Kingdom</option>
+                          <option value='United States of America'>United States of America</option>
+                          <option value='United States Virgin Islands'>United States Virgin Islands</option>
+                          <option value='Uruguay'>Uruguay</option>
+                          <option value="Did not respond">Did not respond</option>
+                        </select>
+                      </div>
+                    </div>
                   </div>
-                  <div class="filter">
-                    <div>
+                </div>
+
+                <div class="col-md">
+                  <div>
+                    <h4 id="questionlong">Which department do you work in?</h4>
+                  </div>
+                  <div id="nid">
+                    <p>N = <span id="ncount">834</span></p>
+                  </div>
+                  <div id="chart">
+
+                  </div>
+                </div>
+
+              </div>
+            </div>
+
+          </div>
+
+          <div class="section" data-section="b">
+
+            <section class='filler' id="fillerKPIDash">
+              <h2>KPI Dashboard</h2>
+              <p class="fillerp">The KPI Dashboard allows you to compare product results by criteria (KPIs). For each KPI, values are shown for all the products in the peer group selected in the peer group filter. The peer group average is displayed
+                as a gray bar. All products displayed above the gray bar are above average in the peer group, and those below the gray bar are below average. At the top of the screen, you can choose which KPI and peer group to analyze.</p>
+
+            </section>
+            <div class="containeranal">
+              <div id="kpidash">
+                <div class="filters ">
+                  <div class=" centerDiv">
+
+                    <div class=" filter ">
+
+                      <h4 id="questionKPI">KPI filter</h4>
+
+                      <select id="KPIfilter" name="KPIfilter" class="selectpicker" data-size="4">
+                        <option id="button10006" value="Price to Value">Price to Value</option>
+                        <option id="button10007" value="Time to Market">Time to Market</option>
+                        <option id="button10008" value="Recommendation">Recommendation</option>
+                        <option id="button10009" value="Product Satisfaction">Product Satisfaction</option>
+                        <option id="button10010" value="Support Quality">Support Quality</option>
+                        <option id="button10011" value="Customer Satisfaction">Customer Satisfaction</option>
+                        <option id="button10012" value="Performance">Performance</option>
+                        <option id="button10013" value="Platform Reliability">Platform Reliability</option>
+                        <option id="button10014" value="Developer Efficiency">Developer Efficiency</option>
+                        <option id="button10015" value="Usability">Usability</option>
+                        <option id="button10016" value="Customer Experience">Customer Experience</option>
+                        <option id="button10017" value="Innovation Power">Innovation Power</option>
+                        <option id="button10018" value="Automation">Automation</option>
+                        <option id="button10019" value="Innovation">Innovation</option>
+                        <option id="button10020" value="Connectivity">Connectivity</option>
+                        <option id="button10021" value="Functionality">Functionality</option>
+                        <option id="button10022" value="Technical Capability">Technical Capability</option>
+                      </select>
+                    </div>
+                    <div class="filter">
+                      <div>
+                        <h4 id="questionPG">Peer group filter</h4>
+                      </div>
+                      <select id="PGfilter" name="PGfilter" class="selectpicker" data-size="4">
+                        <option id="button100034" value="501">All products</option>
+                        <option id="button100035" value="502">Data Warehouse Technologies</option>
+                        <option id="button100036" value="503">Products to Support DW Automation</option>
+                        <option id="button100037" value="504">Data Pipelining Products</option>
+                        <option id="button100038" value="505">Business Software Generalists</option>
+                        <option id="button100038" value="506">Analytical Database Products</option>
+                        <option id="button100035" value="507">Data Governance Products</option>
+                      </select>
+                    </div>
+
+                  </div>
+                </div>
+                <div class="centerChart">
+                  <div id="chart2"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="section" data-section="c">
+            <section class='filler'>
+              <h2>Product Dashboard</h2>
+              <p class="fillerp">This report shows a summary of the KPI results for a single product. Simply select a peer group and product in the filters at
+                the top of the screen. The product filter will only display the products in the selected peer group. The peer group filter will only display the peer groups in which the selected product appears.</p>
+
+            </section>
+
+            <div class="containeranal2">
+              <div id="Compdash">
+                <div class="filters ">
+                  <div class=" centerDiv">
+
+                    <div class=" filter">
+
+
+                      <h4 id="productKPIFil">Product filter</h4>
+
+                      <div id="drop1">
+                        <div class="dropdown drophelp">
+                          <button class="btn dropdown-toggle  dropdownMenuButton" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">cubus</button>
+                          <div id="Productfilter" class="dropdown-menu scrollable-menu" aria-labelledby="dropdownMenuButton">
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class=" filter">
                       <h4 id="questionPG">Peer group filter</h4>
-                    </div>
-                    <select id="PGfilter" name="PGfilter" class="selectpicker" data-size="4">
-                      <option id="button100034" value="501">All products</option>
-                      <option id="button100035" value="502">Analytical database products</option>
-                      <option id="button100036" value="503">Data warehousing automation products</option>
-                      <option id="button100037" value="504">ETL products</option>
-                      <option id="button100038" value="505">Global vendors</option>
-                    </select>
-                  </div>
 
+                      <div id="drop2">
+                        <div class="dropdown drophelp">
+                          <button class="btn dropdown-toggle dropdownMenuButton" type="button" id="dropdownMenuButton2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">All products</button>
+                          <div id="pgfilter" class="dropdown-menu scrollable-menu" aria-labelledby="dropdownMenuButton">
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
                 </div>
-              </div>
-              <div class="centerChart">
-                <div id="chart2"></div>
+
+
+                <div class="centerChart">
+                  <div id="chart3" class="margintop"></div>
+                </div>
+
+
               </div>
             </div>
           </div>
-        </div>
+          <div class="section" data-section="d">
 
-        <div class="section" data-section="c">
-          <section class='filler'>
-            <h2>Product Dashboard</h2>
-            <p class="fillerp">This report shows a summary of the KPI results for a single product. The dashboard displays the results for aggregated KPIs in bold and the root KPIs in regular. Simply select a peer group and product in the filters at
-              the top of the screen. The product filter will only display the products in the selected peer group. The peer group filter will only display the peer groups in which the selected product appears.</p>
+            <section class='filler' id="fillerKPIComp">
+              <h2>Product Comparison</h2>
+              <p class="fillerp">This screen allows you to make your own short list of products and compare them directly against each other based on multiple criteria. First select a peer group that you want as the basis for the product comparison
+                in
+                the filter. Then select the relevant criteria (KPIs). Multiple KPIs can be selected in this filter. Finally select the products you wish to compare.
+              </p>
 
-          </section>
+            </section>
 
-          <div class="containeranal2">
-            <div id="Compdash">
-              <div class="filters ">
-                <div class=" centerDiv">
+            <div class="containeranal">
+              <div id="CompInd">
+                <div class="filters ">
+                  <div class=" centerDiv">
 
-                  <div class=" filter">
+                    <div class=" filter">
+                      <h4 id="questionKPI">Peer group</h4>
+
+                      <select id="peergroupID" class="selectpicker" data-size="6">
+                        <option id="button100034" value="501">All products</option>
+                        <option id="button100035" value="502">Data Warehouse Technologies</option>
+                        <option id="button100036" value="503">Products to Support DW Automation</option>
+                        <option id="button100037" value="504">Data Pipelining Products</option>
+                        <option id="button100038" value="505">Business Software Generalists</option>
+                        <option id="button100038" value="506">Analytical Database Products</option>
+                        <option id="button100035" value="507">Data Governance Products</option>
+                      </select>
+                    </div>
+
+                    <div class=" filter">
+                      <h4 id="questionPG">KPI</h4>
+
+                      <select id="KPIID" name="KPIID" class="selectpicker" multiple title="Select KPIs" disabled data-size="4">
+                        <option id="button10006" value="Price to Value">Price to Value</option>
+                        <option id="button10007" value="Time to Market">Time to Market</option>
+                        <option id="button10008" value="Recommendation">Recommendation</option>
+                        <option id="button10009" value="Product Satisfaction">Product Satisfaction</option>
+                        <option id="button10010" value="Support Quality">Support Quality</option>
+                        <option id="button10011" value="Customer Satisfaction">Customer Satisfaction</option>
+                        <option id="button10012" value="Performance">Performance</option>
+                        <option id="button10013" value="Platform Reliability">Platform Reliability</option>
+                        <option id="button10014" value="Developer Efficiency">Developer Efficiency</option>
+                        <option id="button10015" value="Usability">Usability</option>
+                        <option id="button10016" value="Customer Experience">Customer Experience</option>
+                        <option id="button10017" value="Innovation Power">Innovation Power</option>
+                        <option id="button10018" value="Automation">Automation</option>
+                        <option id="button10019" value="Innovation">Innovation</option>
+                        <option id="button10020" value="Connectivity">Connectivity</option>
+                        <option id="button10021" value="Functionality">Functionality</option>
+                        <option id="button10022" value="Technical Capability">Technical Capability</option>
+                      </select>
+                    </div>
+
+                    <div class=" filter">
+
+                      <h4>Product</h4>
+
+                      <select id="ProductID" class="selectpicker" title="Select products" multiple disabled data-size="4">
+                        <option>Datavault Builder</option>
+                        <option>Alation Data Catalog</option>
+                        <option>Amazon Redshift</option>
+                        <option>AnalyticsCreator</option>
+                        <option>Collibra Data Catalog</option>
+                        <option>dataspot.</option>
+                        <option>Exasol Database</option>
+                        <option>Google Big Query</option>
+                        <option>Informatica EDC</option>
+                        <option>Microsoft Azure Data Factory</option>
+                        <option>Microsoft SQL Server</option>
+                        <option>Microsoft SSIS</option>
+                        <option>Oracle Data Integrator</option>
+                        <option>Oracle Database</option>
+                        <option>SAP BW on HANA</option>
+                        <option>SAP BW/4HANA</option>
+                        <option>SAP HANA</option>
+                        <option>Snowflake CDP</option>
+                        <option>Synabi D-QUANTUM</option>
+                        <option>TimeXtender</option>
+                        <option>Other</option>
+                      </select>
+                    </div>
+                  </div>
+                </div>
+                <div id="chartHelpText"></div>
+                <div class="buttongroup" id="buttonComp">
+                  <button type="button" class="btn btn-custom" id="valSort">Sort by value</button>
+                  <button type="button" class="btn btn-custom" id="nameSort">Sort by name</button>
+                </div>
+                <div class="centerChart">
+
+                  <div id="chart5"></div>
+                </div>
+
+              </div>
+            </div>
+          </div>
 
 
-                    <h4 id="productKPIFil">Product filter</h4>
+          <div class="section" data-section="e">
+            <section class='filler'>
+              <h2>About The Data Management Survey Analyzer</h2>
+              <p class="fillerp">The Data Management Survey Analyzer web app is an interactive tool that enables you to perform your own custom analysis of The Data Management Survey data. The app contains results from all the questions asked in
+                The Data Management Survey 22. Product-related results based
+                on a series of important criteria (known here as KPIs – Key Performance Indicators) are also available to view.</p>
+              <div id="centerButton" class="row justify-content-md-center margintop3">
+                <a href="//bi-survey.com/wp-content/uploads/2021/08/Helpfile-Data-Management-Survey-Analyzer-22.pdf" role="button"><button type="button" class="btn btn-custom"> <span class="icon fa fa-file-pdf-o"></span>Download user guide</button></a>
 
-                        <div id="drop1">
-                          <div class="dropdown drophelp">
-                            <button class="btn dropdown-toggle  dropdownMenuButton" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">cubus</button>
-                            <div id="Productfilter" class="dropdown-menu scrollable-menu" aria-labelledby="dropdownMenuButton">
+              </div>
+
+            </section>
+
+            <div class="containerHelp">
+              <div class="helpWidth">
+                <div class="accordion" id="accordion">
+                  <div class="card">
+                    <div class="card-header" role="tab" id="headingOne">
+                      <h5 class="mb-0">
+                        <a class="collapsed" data-toggle="collapse" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                          Question Overview
+                        </a>
+                      </h5>
+                    </div>
+
+                    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                      <div class="card-body">
+                        <table class="table table-striped">
+                          <thead class="thead-light">
+                            <tr>
+                              <th>KPI</th>
+                              <th>Short explanation</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr>
+                              <td>Demographics: Country</td>
+                              <td>Country
+                              <td>
+                            </tr>
+                            <tr>
+                              <td>Demographics: Department</td>
+                              <td>Which department do you work in?
+                              <td>
+                            </tr>
+                            <tr>
+                              <td>Demographics: Industry</td>
+                              <td>Industry sector
+                              <td>
+                            </tr>
+                            <tr>
+                              <td>Demographics: Number of product users</td>
+                              <td>Number of data management product users
+                              <td>
+                            </tr>
+                            <tr>
+                              <td>Demographics: Number of employees</td>
+                              <td>Number of employees
+                              <td>
+                            </tr>
+                            <tr>
+                              <td>Demographics: Percentage of product users</td>
+                              <td>Percentage of product users in company
+                              <td>
+                            </tr>
+                            <tr>
+                              <td>Demographics: Position</td>
+                              <td>Position in company
+                              <td>
+                            </tr>
+                            <tr>
+                              <td>Demographics: Region</td>
+                              <td>Region
+                              <td>
+                            </tr>
+                            <tr>
+                              <td>Selection: Chosen product</td>
+                              <td>Which data management product would you like to review?
+                              <td>
+                            </tr>
+                            <tr>
+                              <td>Selection: Reasons to buy</td>
+                              <td>Why was the product chosen?
+                              <td>
+                            </tr>
+                            <tr>
+                              <td>Product: Recommendation</td>
+                              <td>Would you recommend others to buy your data management product?
+                              <td>
+                            </tr>
+                            <tr>
+                              <td>Product: Tasks</td>
+                              <td>For which tasks do you use your data management tool?
+                              <td>
+                            </tr>
+                            <tr>
+                              <td>Product: Satisfaction</td>
+                              <td>To what degree are you satisfied with your data management tool?
+                              <td>
+                            </tr>
+                            <tr>
+                              <td>Product: Usage problems</td>
+                              <td>What, if any, are the most serious problems in the use of your product?
+                              <td>
+                            </tr>
+                            <tr>
+                              <td>Features: Automation</td>
+                              <td>How would you rate the automation of your product?
+                              <td>
+                            </tr>
+                            <tr>
+                              <td>Features: Connectivity</td>
+                              <td>How would you rate the connectivity of your product?
+                              <td>
+                            </tr>
+                            <tr>
+                              <td>Features: Developer efficiency</td>
+                              <td>How would you rate the developer efficiency of your product?
+                              <td>
+                            </tr>
+                            <tr>
+                              <td>Features: Functionality</td>
+                              <td>How would you rate the functionality of your product?
+                              <td>
+                            </tr>
+                            <tr>
+                              <td>Features: Innovative strength</td>
+                              <td>How would you rate the innovative strength of your product?
+                              <td>
+                            </tr>
+                            <tr>
+                              <td>Features: Performance</td>
+                              <td>How would you rate the performance of your product?
+                              <td>
+                            </tr>
+                            <tr>
+                              <td>Features: Platform reliability</td>
+                              <td>How would you rate the platform reliability of your product?
+                              <td>
+                            </tr>
+                            <tr>
+                              <td>Features: Price to value</td>
+                              <td>How would you rate the price to value of your product?
+                              <td>
+                            </tr>
+                            <tr>
+                              <td>Features: Support quality</td>
+                              <td>How would you rate the support quality of your product?
+                              <td>
+                            </tr>
+                            <tr>
+                              <td>Features: Time to market</td>
+                              <td>How would you rate the time to market of your product?
+                              <td>
+                            </tr>
+                            <tr>
+                              <td>Features: Usability</td>
+                              <td>How would you rate the usability of your product?
+                              <td>
+                            </tr>
+                            <tr>
+                              <td>Non-product related questions: Initiatives driving investments</td>
+                              <td>What initiatives are driving your data management investments significantly?
+                              <td>
+                            </tr>
+                            <tr>
+                              <td>Non-product related questions: Investments data management</td>
+                              <td>How much do you expect/plan to invest in data management this year?
+                              <td>
+                            </tr>
+                            <tr>
+                              <td>Non-product related questions: Level of benefits from investments</td>
+                              <td>What level of benefits do you expect for the company from its planned investments in data management?
+                              <td>
+                            </tr>
+                            <tr>
+                              <td>Non-product related questions: Measures being invested in</td>
+                              <td>What specific measures are being invested in?
+                              <td>
+                            </tr>
+                            <tr>
+                              <td>Non-product related questions: Trends</td>
+                              <td>Which data management trends are having the most impact on your data management investments?
+                              <td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="card">
+                    <div class="card-header" id="headingTwo">
+                      <h5 class="mb-0">
+                        <a class="collapsed" data-toggle="collapse" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                          Peer Groups
+                        </a>
+                      </h5>
+                    </div>
+                    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+                      <div class="card-body">
+                        <div class="d-flex flex-row mt-2">
+                          <ul class="nav nav-tabs nav-tabs--vertical nav-tabs--left" role="navigation">
+                            <li class="nav-item">
+                              <a href="#dwhtechnologies" class="nav-link" data-toggle="tab" role="tab" aria-controls="dwhtechnologies">Data Warehouse Technologies</a>
+                            </li>
+                            <li class="nav-item">
+                              <a href="#analytical" class="nav-link" data-toggle="tab" role="tab" aria-controls="analytical">Analytical Database Products</a>
+                            </li>
+                            <li class="nav-item">
+                              <a href="#dwauto" class="nav-link" data-toggle="tab" role="tab" aria-controls="dwauto">Products to Support DW Automation</a>
+                            </li>
+                            <li class="nav-item">
+                              <a href="#datapipe" class="nav-link" data-toggle="tab" role="tab" aria-controls="datapipe">Data Pipelining Products</a>
+                            </li>
+                            <li class="nav-item">
+                              <a href="#datagov" class="nav-link" data-toggle="tab" role="tab" aria-controls="datagov">Data Governance Products</a>
+                            </li>
+                            <li class="nav-item">
+                              <a href="#generalists" class="nav-link" data-toggle="tab" role="tab" aria-controls="generalists">Business Software Generalists</a>
+                            </li>
+                          </ul>
+
+                          <div class="tab-content">
+
+                            <div class="tab-pane fade show active" id="dwhtechnologies" role="tabpanel">
+                              <h5>Data Warehouse Technologies</h5>
+
+                              <p>Data warehouse technologies prepare, store and provide data for data warehousing purposes.</p>
+
+                              <ul>
+                                <li><a href="https://bi-survey.com/product/amazon-redshift">Amazon Redshift</a></li>
+                                <li><a href="https://bi-survey.com/product/exasol">Exasol Database</a></li>
+                                <li><a href="https://bi-survey.com/product/google-big-query">Google Big Query</a></li>
+                                <li><a href="https://bi-survey.com/product/microsoft-azure-data-factory">Microsoft Azure Data Factory</a></li>
+                                <li><a href="https://bi-survey.com/product/microsoft-sql-server">Microsoft SQL Server</a></li>
+                                <li><a href="https://bi-survey.com/product/oracle-database">Oracle Database</a></li>
+                                <li><a href="https://bi-survey.com/product/sap-bw-on-hana">SAP BW on HANA</a></li>
+                                <li><a href="https://bi-survey.com/product/sap-bw-4-hana">SAP BW/4HANA</a></li>
+                                <li><a href="https://bi-survey.com/product/sap-hana">SAP HANA</a></li>
+                                <li><a href="https://bi-survey.com/product/snowflake">Snowflake CDP</a></li>
+                              </ul>
                             </div>
-                          </div>
-                        </div>
-                  </div>
 
-                  <div class=" filter">
-                    <h4 id="questionPG">Peer group filter</h4>
+                            <div class="tab-pane fade" id="dwauto" role="tabpanel">
+                              <h5>Products to Support DW Automation</h5>
 
-                        <div id="drop2">
-                          <div class="dropdown drophelp">
-                            <button class="btn dropdown-toggle dropdownMenuButton" type="button" id="dropdownMenuButton2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">All products</button>
-                            <div id="pgfilter" class="dropdown-menu scrollable-menu" aria-labelledby="dropdownMenuButton">
+                              <p>Products in this peer group support data-driven or requirements-driven data warehouse design and implementation. They mainly focus on the simplification and automation of data integration and data modeling tasks.</p>
+
+                              <ul>
+                                <li><a href="https://bi-survey.com/product/2150-datavault-builder">Datavault Builder</a></li>
+                                <li><a href="https://bi-survey.com/product/analyticscreator">AnalyticsCreator</a></li>
+                                <li><a href="https://bi-survey.com/product/microsoft-azure-data-factory">Microsoft Azure Data Factory</a></li>
+                                <li><a href="https://bi-survey.com/product/microsoft-ssis">Microsoft SSIS</a></li>
+                                <li><a href="https://bi-survey.com/product/oracle-data-integrator">Oracle Data Integrator</a></li>
+                                <li><a href="https://bi-survey.com/product/sap-bw-4-hana">SAP BW/4HANA</a></li>
+                                <li><a href="https://bi-survey.com/product/timextender">TimeXtender</a></li>
+                              </ul>
                             </div>
+
+                            <div class="tab-pane fade" id="datapipe" role="tabpanel">
+                              <h5>Data Pipelining Products</h5>
+
+                              <p>Data pipelining products take a modern approach to data integration and support more than one data integration pattern. A pattern can be data interaction, data integration, data preparation or even data orchestration
+                                in order to get data connected and to make it usable for any kind of business purpose.</p>
+
+                              <ul>
+                                <li><a href="https://bi-survey.com/product/microsoft-azure-data-factory">Microsoft Azure Data Factory</a></li>
+                                <li><a href="https://bi-survey.com/product/microsoft-ssis">Microsoft SSIS</a></li>
+                                <li><a href="https://bi-survey.com/product/oracle-data-integrator">Oracle Data Integrator</a></li>
+                                <li><a href="https://bi-survey.com/product/sap-bw-on-hana">SAP BW on HANA</a></li>
+                                <li><a href="https://bi-survey.com/product/sap-bw-4-hana">SAP BW/4HANA</a></li>
+                              </ul>
+                            </div>
+
+                            <div class="tab-pane fade" id="generalists" role="tabpanel">
+                              <h5>Business Software Generalists</h5>
+
+                              <p>Business software generalists have a broad product portfolio including most (or all) types of enterprise software for a variety of business requirements (e.g., ERP, BI, DM).</p>
+                              <ul>
+                                <li><a href="https://bi-survey.com/product/amazon-redshift">Amazon Redshift</a></li>
+                                <li><a href="https://bi-survey.com/product/google-big-query">Google Big Query</a></li>
+                                <li><a href="https://bi-survey.com/product/microsoft-azure-data-factory">Microsoft Azure Data Factory</a></li>
+                                <li><a href="https://bi-survey.com/product/microsoft-sql-server">Microsoft SQL Server</a></li>
+                                <li><a href="https://bi-survey.com/product/oracle-database">Oracle Database</a></li>
+                                <li><a href="https://bi-survey.com/product/oracle-data-integrator">Oracle Data Integrator</a></li>
+                                <li><a href="https://bi-survey.com/product/sap-bw-on-hana">SAP BW on HANA</a></li>
+                                <li><a href="https://bi-survey.com/product/sap-bw-4-hana">SAP BW/4HANA</a></li>
+                                <li><a href="https://bi-survey.com/product/sap-hana">SAP HANA</a></li>
+                              </ul>
+                            </div>
+
+
+                            <div class="tab-pane fade show" id="analytical" role="tabpanel">
+                              <h5>Analytical Database Products</h5>
+
+                              <p>Analytical database products prepare, store and provide data for analytical purposes.</p>
+
+                              <ul>
+                                <li><a href="https://bi-survey.com/product/amazon-redshift">Amazon Redshift</a></li>
+                                <li><a href="https://bi-survey.com/product/exasol">Exasol Database</a></li>
+                                <li><a href="https://bi-survey.com/product/google-big-query">Google Big Query</a></li>
+                                <li><a href="https://bi-survey.com/product/microsoft-sql-server">Microsoft SQL Server</a></li>
+                                <li><a href="https://bi-survey.com/product/oracle-database">Oracle Database</a></li>
+                                <li><a href="https://bi-survey.com/product/sap-hana">SAP HANA</a></li>
+                                <li><a href="https://bi-survey.com/product/snowflake">Snowflake CDP</a></li>
+                              </ul>
+                            </div>
+
+                            <div class="tab-pane fade" id="datagov" role="tabpanel">
+                              <h5>Data Governance Products</h5>
+
+                              <p>Data governance products help to control, develop, monitor and secure data to make it usable for business needs. They do not manipulate data. Instead, they focus on managing and leveraging metadata such as data
+                                catalogs.</p>
+                              <ul>
+                                <li><a href="https://bi-survey.com/product/alation">Alation Data Catalog</a></li>
+                                <li><a href="https://bi-survey.com/product/collibra">Collibra Data Catalog</a></li>
+                                <li><a href="https://bi-survey.com/product/dataspot">dataspot.</a></li>
+                                <li><a href="https://bi-survey.com/product/informatica-edc">Informatica EDC</a></li>
+                                <li><a href="https://bi-survey.com/product/synabi">Synabi D-QUANTUM</a></li>
+                              </ul>
+                            </div>
+
                           </div>
                         </div>
-                  </div>
-                </div>
-              </div>
-
-
-              <div class="centerChart">
-                <div id="chart3" class="margintop"></div>
-              </div>
-
-
-            </div>
-          </div>
-        </div>
-        <div class="section" data-section="d">
-
-          <section class='filler' id="fillerKPIComp">
-            <h2>Product Comparison</h2>
-            <p class="fillerp">This screen allows you to make your own short list of products and compare them directly against each other based on multiple criteria. First select a peer group that you want as the basis for the product comparison in
-              the filter. Then select the relevant criteria (KPIs). Multiple KPIs can be selected in this filter. Finally select the products you wish to compare.
-            </p>
-
-          </section>
-
-          <div class="containeranal">
-            <div id="CompInd">
-              <div class="filters ">
-                <div class=" centerDiv">
-
-                  <div class=" filter">
-                    <h4 id="questionKPI">Peer group</h4>
-
-                        <select id="peergroupID" class="selectpicker" data-size="4">
-                          <option id="button100034" value="501">All products</option>
-                          <option id="button100035" value="502">Analytical database products</option>
-                          <option id="button100036" value="503">Data warehousing automation products</option>
-                          <option id="button100037" value="504">ETL products</option>
-                          <option id="button100038" value="505">Global vendors</option>
-                        </select>
-                  </div>
-
-                  <div class=" filter">
-                    <h4 id="questionPG">KPI</h4>
-
-                        <select id="KPIID" name="KPIID" class="selectpicker" multiple title="Select KPIs" disabled data-size="4">
-                          <option id="button10006" value="Product satisfaction">Product satisfaction</option>
-                          <option id="button10007" value="Recommendation">Recommendation</option>
-                          <option id="button10008" value="Developer efficiency">Developer efficiency</option>
-                          <option id="button10009" value="Time to market">Time to market</option>
-                          <option id="button10010" value="Data access">Data access</option>
-                          <option id="button10011" value="Price-to-value">Price-to-value</option>
-                          <option id="button10012" value="Performance">Performance</option>
-                          <option id="button10013" value="Scalability">Scalability</option>
-                          <option id="button10014" value="Maintenance efficiency">Maintenance efficiency</option>
-                          <option id="button10015" value="Compliance">Compliance</option>
-                          <option id="button10016" value="Data governance">Data governance</option>
-                          <option id="button10017" value="Skills availability">Skills availability</option>
-                        </select>
-                  </div>
-
-                  <div class=" filter">
-
-                    <h4>Product</h4>
-
-                    <select id="ProductID" class="selectpicker" title="Select products" multiple disabled data-size="4">
-                      <option>2150 Datavault Builder</option>
-                      <option>AnalyticsCreator</option>
-                      <option>Informatica PowerCenter</option>
-                      <option>Microsoft Azure</option>
-                      <option>Microsoft SQL Server</option>
-                      <option>Microsoft SSIS</option>
-                      <option>Oracle Database</option>
-                      <option>Pentaho Data Integration</option>
-                      <option>SAP BW</option>
-                      <option>SAP BW on HANA</option>
-                      <option>SAP BW/4HANA</option>
-                      <option>Other</option>
-                    </select>
-                  </div>
-                </div>
-              </div>
-              <div id="chartHelpText"></div>
-              <div class="buttongroup" id="buttonComp">
-                <button type="button" class="btn btn-custom" id="valSort">Sort by value</button>
-                <button type="button" class="btn btn-custom" id="nameSort">Sort by name</button>
-              </div>
-              <div class="centerChart">
-
-                <div id="chart5"></div>
-              </div>
-
-            </div>
-          </div>
-        </div>
-
-
-        <div class="section" data-section="e">
-          <section class='filler'>
-            <h2>About The Data Management Survey Analyzer</h2>
-            <p class="fillerp">The Data Management Survey Analyzer web app is an interactive tool that enables you to perform your own custom analysis of The Data Management Survey data. The app contains results from all the questions asked in
-              The Data Management Survey 19. Product-related results based
-              on a series of important criteria (known here as KPIs – Key Performance Indicators) are also available to view.</p>
-            <div id="centerButton" class="row justify-content-md-center margintop3">
-              <a href="//bi-survey.com/wp-content/uploads/2019/05/Helpfile-Planning-Survey-Analyzer-2019.pdf" role="button"><button type="button" class="btn btn-custom"> <span class="icon fa fa-file-pdf-o"></span>Download PDF</button></a>
-
-            </div>
-
-          </section>
-
-          <div class="containerHelp">
-            <div class="helpWidth">
-              <div class="accordion" id="accordion">
-                <div class="card">
-                  <div class="card-header" role="tab" id="headingOne">
-                    <h5 class="mb-0">
-                      <a class="collapsed" data-toggle="collapse" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                        Question Overview
-                      </a>
-                    </h5>
-                  </div>
-
-                  <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
-                    <div class="card-body">
-                      <table class="table table-striped">
-                        <thead class="thead-light">
-                          <tr>
-                            <th>Abbreviation</th>
-                            <th>Question</th>
-                          </tr>
-                        </thead>
-                        <tbody>
-                          <tr>
-                            <td>Demographics: Country</td>
-                            <td>Country<td>
-                          </tr>
-                          <tr>
-                            <td>Demographics: Department</td>
-                            <td>Which department do you work in?<td>
-                          </tr>
-                          <tr>
-                            <td>Demographics: Industry</td>
-                            <td>Industry sector<td>
-                          </tr>
-                          <tr>
-                            <td>Demographics: Number of product users</td>
-                            <td>Number of data management product users<td>
-                          </tr>
-                          <tr>
-                            <td>Demographics: Number of employees</td>
-                            <td>Number of employees<td>
-                          </tr>
-                          <tr>
-                            <td>Demographics: Percentage of product users</td>
-                            <td>Percentage of product users in company<td>
-                          </tr>
-                          <tr>
-                            <td>Demographics: Position</td>
-                            <td>Position in company<td>
-                          </tr>
-                          <tr>
-                            <td>Demographics: Region</td>
-                            <td>Region<td>
-                          </tr>
-                          <tr>
-                            <td>Selection: Chosen product</td>
-                            <td>Which data management product would you like to review?<td>
-                          </tr>
-                          <tr>
-                            <td>Selection: Reasons to buy</td>
-                            <td>Why was the product chosen?<td>
-                          </tr>
-                          <tr>
-                            <td>Product: Recommendation</td>
-                            <td>Would you recommend others to buy your data management product?<td>
-                          </tr>
-                          <tr>
-                            <td>Product: Tasks</td>
-                            <td>For which tasks do you use your data management tool?<td>
-                          </tr>
-                          <tr>
-                            <td>Product: Satisfaction</td>
-                            <td>To what degree are you satisfied with your data management tool?<td>
-                          </tr>
-                          <tr>
-                            <td>Product: Usage problems</td>
-                            <td>What, if any, are the most serious problems in the use of your product?<td>
-                          </tr>
-                          <tr>
-                            <td>Features: Adaptability</td>
-                            <td>How would you rate the adaptability of your product?<td>
-                          </tr>
-                          <tr>
-                            <td>Features: Availability of skilled users</td>
-                            <td>How would you rate the availability of skilled users of your product?<td>
-                          </tr>
-                          <tr>
-                            <td>Features: Data accessibility</td>
-                            <td>How would you rate the data accessibility of your product?<td>
-                          </tr>
-                          <tr>
-                            <td>Features: Developer productivity</td>
-                            <td>How would you rate the developer productivity of your product?<td>
-                          </tr>
-                          <tr>
-                            <td>Features: Maintenance efficiency</td>
-                            <td>How would you rate the maintenance efficiency of your product?<td>
-                          </tr>
-                          <tr>
-                            <td>Features: Performance</td>
-                            <td>How would you rate the performance of your product?<td>
-                          </tr>
-                          <tr>
-                            <td>Features: Price-to-value</td>
-                            <td>How would you rate the price-to-value of your product?<td>
-                          </tr>
-                          <tr>
-                            <td>Features: Scalability</td>
-                            <td>How would you rate the scalability of your product?<td>
-                          </tr>
-                          <tr>
-                            <td>Features: Support of compliance requirements</td>
-                            <td>How would you rate the support for compliance requirements of your product?<td>
-                          </tr>
-                          <tr>
-                            <td>Features: Support for data governance</td>
-                            <td>How would you rate the support for data governance of your product?<td>
-                          </tr>
-                        </tbody>
-                      </table>
+                      </div>
                     </div>
-                  </div>
-                </div>
-                <div class="card">
-                  <div class="card-header" id="headingTwo">
-                    <h5 class="mb-0">
-                      <a class="collapsed" data-toggle="collapse" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
-                        Peer Groups
-                      </a>
-                    </h5>
-                  </div>
-                  <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
-                    <div class="card-body">
-                      <div class="d-flex flex-row mt-2">
-                        <ul class="nav nav-tabs nav-tabs--vertical nav-tabs--left" role="navigation">
-                          <li class="nav-item">
-                            <a href="#analytical" class="nav-link" data-toggle="tab" role="tab" aria-controls="analytical">Analytical Database Products</a>
-                          </li>
-                          <li class="nav-item">
-                            <a href="#dwh" class="nav-link" data-toggle="tab" role="tab" aria-controls="dwh">Data Warehousing Automation Products</a>
-                          </li>
-                          <li class="nav-item">
-                            <a href="#etl" class="nav-link" data-toggle="tab" role="tab" aria-controls="etl">ETL Vendors</a>
-                          </li>
-                          <li class="nav-item">
-                            <a href="#global" class="nav-link" data-toggle="tab" role="tab" aria-controls="global">Global Vendors</a>
-                          </li>
-                        </ul>
 
-                        <div class="tab-content">
+                    <div class="card">
+                      <div class="card-header" id="headingThree">
+                        <h5 class="mb-0">
+                          <a class="collapsed" data-toggle="collapse" href="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
+                            Products in the Survey
+                          </a>
+                        </h5>
+                      </div>
+                      <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                        <div class="card-body">
+                          <table class="table table-striped">
+                            <thead class="thead-light">
+                              <tr>
+                                <th>Product</th>
+                                <th>Number of answers</th>
+                              </tr>
+                            </thead>
+                            <tbody>
+                              <tr>
+                                <td>Datavault Builder</td>
+                                <td>30</td>
+                              </tr>
+                              <tr>
+                                <td>Alation Data Catalog</td>
+                                <td>30</td>
+                              </tr>
+                              <tr>
+                                <td>Amazon RedShift</td>
+                                <td>32</td>
+                              </tr>
+                              <tr>
+                                <td>AnalyticsCreator</td>
+                                <td>31</td>
+                              </tr>
+                              <tr>
+                                <td>Collibra Data Catalog</td>
+                                <td>32</td>
+                              </tr>
+                              <tr>
+                                <td>dataspot.</td>
+                                <td>48</td>
+                              </tr>
+                              <tr>
+                                <td>Exasol Database</td>
+                                <td>30</td>
+                              </tr>
+                              <tr>
+                                <td>Google Big Query</td>
+                                <td>31</td>
+                              </tr>
+                              <tr>
+                                <td>Informatica EDC</td>
+                                <td>30</td>
+                              </tr>
+                              <tr>
+                                <td>MS Azure Data Factory </td>
+                                <td>31</td>
+                              </tr>
+                              <tr>
+                                <td>MS SQL Server</td>
+                                <td>78</td>
+                              </tr>
+                              <tr>
+                                <td>MS SSIS</td>
+                                <td>32</td>
+                              </tr>
+                              <tr>
+                                <td>Oracle Data Integrator</td>
+                                <td>32</td>
+                              </tr>
+                              <tr>
+                                <td>Oracle Database</td>
+                                <td>33</td>
+                              </tr>
+                              <tr>
+                                <td>SAP BW on HANA</td>
+                                <td>31</td>
+                              </tr>
+                              <tr>
+                                <td>SAP BW/4HANA</td>
+                                <td>30</td>
+                              </tr>
+                              <tr>
+                                <td>SAP HANA</td>
+                                <td>30</td>
+                              </tr>
+                              <tr>
+                                <td>Snowflake CDP</td>
+                                <td>26</td>
+                              </tr>
+                              <tr>
+                                <td>Synabi D-QUANTUM</td>
+                                <td>32</td>
+                              </tr>
+                              <tr>
+                                <td>TimeXtender</td>
+                                <td>31</td>
+                              </tr>
 
-                          <div class="tab-pane fade show active" id="analytical" role="tabpanel">
-                            <h5>Analytical database products</h5>
-
-                            <p>Analytical database products prepare, store and provide data for analytical purposes.</p>
-
-                            <ul>
-                              <li><a href="https://bi-survey.com/product/microsoft-azure">Microsoft Azure</a></li>
-                              <li><a href="https://bi-survey.com/product/microsoft-sql-server">Microsoft SQL Server</a></li>
-                              <li><a href="https://bi-survey.com/product/oracle-database">Oracle Database</a></li>
-                              <li><a href="https://bi-survey.com/product/sap-bw">SAP BW</a></li>
-                              <li><a href="https://bi-survey.com/product/sap-bw-on-hana">SAP BW on HANA</a></li>
-                              <li><a href="https://bi-survey.com/product/sap-bw-4-hana">SAP BW/4HANA</a></li>
-                            </ul>
-                          </div>
-
-                          <div class="tab-pane fade" id="dwh" role="tabpanel">
-                            <h5>Data Warehousing Automation Products</h5>
-
-                            <p>Data
-                              warehouse automation products cover the data-driven or requirements-driven data warehouse design and implementation.
-                              They are mainly focusing on simplification of data integration and data modeling tasks by providing automatisms.</p>
-
-                            <ul>
-                              <li><a href="https://bi-survey.com/product/datavault">2150 Datavault Builder</a></li>
-                              <li><a href="https://bi-survey.com/product/analyticscreator">AnalyticsCreator</a></li>
-                              <li><a href="https://bi-survey.com/product/informatica-power-center">Informatica PowerCenter</a></li>
-                              <li><a href="https://bi-survey.com/product/microsoft-ssis">Microsoft SSIS</a></li>
-                              <li><a href="https://bi-survey.com/product/oracle-database">Oracle Database</a></li>
-                              <li><a href="https://bi-survey.com/product/pentaho-data-integration">Pentaho Data Integration</a></li>
-                              <li><a href="https://bi-survey.com/product/sap-bw">SAP BW</a></li>
-                              <li><a href="https://bi-survey.com/product/sap-bw-on-hana">SAP BW on HANA</a></li>
-                              <li><a href="https://bi-survey.com/product/sap-bw-4-hana">SAP BW/4HANA</a></li>
-                            </ul>
-                          </div>
-
-                          <div class="tab-pane fade" id="etl" role="tabpanel">
-                            <h5>ETL Prodcuts</h5>
-
-                            <p>ETL products connect, extract, transform and load data from various source systems to a target system for analytical purposes.</p>
-
-                            <ul>
-                              <li><a href="https://bi-survey.com/product/informatica-power-center">Informatica PowerCenter</a></li>
-                              <li><a href="https://bi-survey.com/product/microsoft-ssis">Microsoft SSIS</a></li>
-                              <li><a href="https://bi-survey.com/product/pentaho-data-integration">Pentaho Data Integration</a></li>
-                              <li><a href="https://bi-survey.com/product/sap-bw-on-hana">SAP BW on HANA</a></li>
-                              <li><a href="https://bi-survey.com/product/sap-bw-4-hana">SAP BW/4HANA</a></li>
-                            </ul>
-                          </div>
-
-                          <div class="tab-pane fade" id="global" role="tabpanel">
-                            <h5>Global Vendors</h5>
-
-                            <p>Global vendors have a sales and marketing reach through subsidiaries and/or partners which gives them a truly global presence.
-                              They are present worldwide and their products are used all around the world.</p>
-                            <ul>
-                              <li><a href="https://bi-survey.com/product/oracle-hyperion-planning">Informatica PowerCenter</a></li>
-                              <li><a href="https://bi-survey.com/product/microsoft-azure">Microsoft Azure</a></li>
-                              <li><a href="https://bi-survey.com/product/microsoft-sql-server">Microsoft SQL Server</a></li>
-                              <li><a href="https://bi-survey.com/product/microsoft-ssis">Microsoft SSIS</a></li>
-                              <li><a href="https://bi-survey.com/product/oracle-database">Oracle Database</a></li>
-                              <li><a href="https://bi-survey.com/product/pentaho-data-integration">Pentaho Data Integration</a></li>
-                              <li><a href="https://bi-survey.com/product/sap-bw">SAP BW</a></li>
-                              <li><a href="https://bi-survey.com/product/sap-bw-on-hana">SAP BW on HANA</a></li>
-                              <li><a href="https://bi-survey.com/product/sap-bw-4-hana">SAP BW/4HANA</a></li>
-                            </ul>
-                          </div>
-
+                            </tbody>
+                          </table>
                         </div>
                       </div>
                     </div>
-                  </div>
-
-                  <div class="card">
-                    <div class="card-header" id="headingThree">
-                      <h5 class="mb-0">
-                        <a class="collapsed" data-toggle="collapse" href="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
-                          Products in the Survey
-                        </a>
-                      </h5>
-                    </div>
-                    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
-                      <div class="card-body">
-                        <table class="table table-striped">
-                          <thead class="thead-light">
-                            <tr>
-                              <th>Product</th>
-                              <th>Number of answers</th>
-                            </tr>
-                          </thead>
-                          <tbody>
-                            <tr>
-                              <td>2150 Datavault Builder</td>
-                              <td>33</td>
-                            </tr>
-                            <tr>
-                              <td>AnalyticsCreator</td>
-                              <td>38</td>
-                            </tr>
-                            <tr>
-                              <td>Informatica PowerCenter</td>
-                              <td>32</td>
-                            </tr>
-                            <tr>
-                              <td>Microsoft Azure</td>
-                              <td>28</td>
-                            </tr>
-                            <tr>
-                              <td>Microsoft SQL Server</td>
-                              <td>110</td>
-                            </tr>
-                            <tr>
-                              <td>Microsoft SSIS</td>
-                              <td>49</td>
-                            </tr>
-                            <tr>
-                              <td>Oracle Database</td>
-                              <td>32</td>
-                            </tr>
-                            <tr>
-                              <td>Pentaho Data Integration</td>
-                              <td>30</td>
-                            </tr>
-                            <tr>
-                              <td>SAP BW</td>
-                              <td>38</td>
-                            </tr>
-                            <tr>
-                              <td>SAP BW on HANA</td>
-                              <td>44</td>
-                            </tr>
-                            <tr>
-                              <td>SAP BW/4HANA</td>
-                              <td>34</td>
-                            </tr>
-                          </tbody>
-                        </table>
+                    <div class="card">
+                      <div class="card-header" id="headingFour">
+                        <h5 class="mb-0">
+                          <a class="collapsed" data-toggle="collapse" href="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
+                            KPI Grouping
+                          </a>
+                        </h5>
+                      </div>
+                      <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
+                        <div class="card-body">
+                          <table class="table table-striped">
+                            <thead class="thead-light">
+                              <tr>
+                                <th width="216">Aggregated KPIs</th>
+                                <th width="364">Root KPIs</th>
+                              </tr>
+                            </thead>
+                            <tbody>
+                              <tr>
+                                <td rowspan="5" width="181"><strong>Customer Satisfaction</strong></td>
+                                <td>Price to Value</td>
+                              </tr>
+                              <tr>
+                                <td>Time to Market</td>
+                              </tr>
+                              <tr>
+                                <td>Recommendation</td>
+                              </tr>
+                              <tr>
+                                <td>Product Satisfaction</td>
+                              </tr>
+                              <tr>
+                                <td>Support Quality</td>
+                              </tr>
+                              <tr>
+                                <td></td>
+                                <td></td>
+                              </tr>
+                              <tr>
+                                <td rowspan="4" width="181"><strong>Customer Experience</strong></td>
+                                <td>Performance</td>
+                              </tr>
+                              <tr>
+                                <td>Platform Reliability</td>
+                              </tr>
+                              <tr>
+                                <td>Developer Efficiency</td>
+                              </tr>
+                              <tr>
+                                <td>Usability</td>
+                              </tr>
+                              <td></td>
+                              <td></td>
+                              <tr>
+                                <td rowspan="2" width="181"><strong>Innovation</strong></td>
+                                <td>Innovation Power</td>
+                              </tr>
+                              <tr>
+                                <td>Automation</td>
+                              </tr>
+                              <td></td>
+                              <td></td>
+                              <tr>
+                                <td rowspan="2" width="181"><strong>Technical Capability</strong></td>
+                                <td>Connectivity</td>
+                              </tr>
+                              <tr>
+                                <td>Functionality</td>
+                              </tr>
+                              <td></td>
+                              <td></td>
+                            </tbody>
+                          </table>
+                        </div>
                       </div>
                     </div>
-                  </div>
-                  <div class="card">
-                    <div class="card-header" id="headingFour">
-                      <h5 class="mb-0">
-                        <a class="collapsed" data-toggle="collapse" href="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
-                          KPI Grouping
-                        </a>
-                      </h5>
-                    </div>
-                    <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
-                      <div class="card-body">
-                        <table class="table table-striped">
-                          <thead class="thead-light">
-                            <tr>
-                              <th width="500">Root KPIs</th>
-                            </tr>
-                          </thead>
-                          <tbody>
-                            <tr>
-                              <td>Product satisfaction</td>
-                            </tr>
-                            <tr>
-                              <td>Recommendation</td>
-                            </tr>
-                            <tr>
-                              <td>Developer efficiency</td>
-                            </tr>
-                            <tr>
-                              <td>Time to market</td>
-                            </tr>
-                            <tr>
-                              <td>Data access</td>
-                            </tr>
-                            <tr>
-                              <td>Price-to-value</td>
-                            </tr>
-                            <tr>
-                              <td>Performance</td>
-                            </tr>
-                            <tr>
-                              <td>Scalability</td>
-                            </tr>
-                            <tr>
-                              <td>Maintenance efficiency</td>
-                            </tr>
-                            <tr>
-                              <td>Compliance</td>
-                            </tr>
-                            <tr>
-                              <td>Data governance</td>
-                            </tr>
-                            <tr>
-                              <td>Skills availability</td>
-                            </tr>
-                          </tbody>
-                        </table>
+
+                    <div class="card">
+                      <div class="card-header" id="headingFive">
+                        <h5 class="mb-0">
+                          <a class="collapsed" data-toggle="collapse" href="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
+                            KPI Explanation
+                          </a>
+                        </h5>
                       </div>
-                    </div>
-                  </div>
+                      <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
+                        <div class="card-body">
+                          <table class="table table-striped">
+                            <thead class="thead-light">
+                              <tr>
+                                <th width="216">KPI</th>
+                                <th width="364">Short explanation</th>
+                              </tr>
+                            </thead>
 
-                  <div class="card">
-                    <div class="card-header" id="headingFive">
-                      <h5 class="mb-0">
-                        <a class="collapsed" data-toggle="collapse" href="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
-                          KPI Explanation
-                        </a>
-                      </h5>
-                    </div>
-                    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
-                      <div class="card-body">
-                        <table class="table table-striped">
-                          <thead class="thead-light">
-                            <tr>
-                              <th width="216">KPI</th>
-                              <th width="364">Short explanation</th>
-                            </tr>
-                          </thead>
-
-                          <tbody>
-                            <tr>
-                              <td width="217">Product satisfaction</td>
-                              <td width="1027">This KPI is based on the proportion of users that say they are satisfied with their product.</td>
-                            </tr>
-                            <tr>
-                              <td>Recommendation</td>
-                              <td>This KPI is based on the proportion of users that say they would recommend the product to others.</td>
-                            </tr>
-                            <tr>
-                              <td>Developer efficiency</td>
-                              <td>This KPI is based on how users rate their tool in terms of developer productivity, e.g., for testing, deployment, reusability, ease-of-coding and use of metadata.</td>
-                            </tr>
-                            <tr>
-                              <td>Time to market</td>
-                              <td>This KPI is based on how users rate their tool in terms of adaptability (agility to adapt to new requirements).</td>
-                            </tr>
-                            <tr>
-                              <td>Data access</td>
-                              <td>This KPI is based on how users rate their tool in terms of data accessibility (number and variety of data sources supported, quality of support/connectivity to data sources, ease of access to data, data
-                                transparency, data quality).</td>
-                            </tr>
-                            <tr>
-                              <td>Price-to-value</td>
-                              <td>This KPI is based on how users rate their tool in terms of price-to-value ratio.</td>
-                            </tr>
-                            <tr>
-                              <td>Performance</td>
-                              <td>This KPI is based on user feedback about the reasons the product was chosen and complaints about the system’s performance.</td>
-                            </tr>
-                            <tr>
-                              <td>Scalability</td>
-                              <td>This KPI is based on how users rate their tool in terms of the ability to upscale/downscale automatically with data volume and various workload scenarios.</td>
-                            </tr>
-                            <tr>
-                              <td>Maintenance efficiency</td>
-                              <td>This KPI is based on how users rate their tool in terms of complexity of system administration and optimization.</td>
-                            </tr>
-                            <tr>
-                              <td>Compliance</td>
-                              <td>This KPI is based on how users rate their tool in terms of its fulfilment of regulatory requirements, e.g., transparency and auditing.</td>
-                            </tr>
-                            <tr>
-                              <td>Data governance</td>
-                              <td>This KPI is based on how users rate their tool in terms of support for data governance, i.e. support of privacy/security, policy management, analysis and monitoring capabilities for data.</td>
-                            </tr>
-                            <tr>
-                              <td>Skills availability</td>
-                              <td>This KPI is based on how users rate their tool in terms of availability of skilled users within and outside the company.</td>
-                            </tr>
-                          </tbody>
-                        </table>
+                            <tbody>
+                              <tr>
+                                <td width="217">Price to Value</td>
+                                <td width="1027">This KPI is based on how users rate their tool in terms of price-to-value-ratio.</td>
+                              </tr>
+                              <tr>
+                                <td>Time to Market</td>
+                                <td>This KPI is based on how users rate their tool in terms of adaptability
+                                  (agility to adapt to new requirements).</td>
+                              </tr>
+                              <tr>
+                                <td>Recommendation</td>
+                                <td>This KPI is based on the proportion of users that say they would recommend the product to others.</td>
+                              </tr>
+                              <tr>
+                                <td>Product Satisfaction</td>
+                                <td>This KPI is based on the proportion of users that say they are satisfied with their product.</td>
+                              </tr>
+                              <tr>
+                                <td>Support Quality</td>
+                                <td>This KPI is based on how users rate their tool in terms of support
+                                  quality (e.g., availability, geographic coverage, support channels,
+                                  effectiveness and efficiency, reaction time).</td>
+                              </tr>
+                              <tr>
+                                <td>Customer Satisfaction</td>
+                                <td>This KPI combines the <em>Price to Value, Time to Market, Recommendation,
+                                    Product Satisfaction</em> and <em>Support Quality</em> KPIs.</td>
+                              </tr>
+                              <tr>
+                                <td>Performance</td>
+                                <td>This KPI is based on how users rate their tool in terms of performance (query performance, load performance, processing performance).</td>
+                              </tr>
+                              <tr>
+                                <td>Platform Reliability</td>
+                                <td>This KPI is based on how users rate their tool in terms of platform reliability (i.e., stability, functional reliability, monitoring capabilities).</td>
+                              </tr>
+                              <tr>
+                                <td>Developer Efficiency</td>
+                                <td>This KPI is based on how users rate their tool in terms of developer efficiency (e.g., for testing, deployment, reusability, ease of coding and use of metadata).</td>
+                              </tr>
+                              <tr>
+                                <td>Usability</td>
+                                <td>This KPI is based on how users rate their tool in terms of usability (i.e.,
+                                  ease of use, GUI design, transparency & documentation).</td>
+                              </tr>
+                              <tr>
+                                <td>Customer Experience</td>
+                                <td>This KPI combines the <em>Performance, Platform Reliability, Developer
+                                    Efficiency</em> and <em>Usability</em> KPIs.</td>
+                              </tr>
+                              <tr>
+                                <td>Innovation Power</td>
+                                <td>This KPI is based on how users rate their tool in terms of innovative
+                                  strength (i.e., amount of innovative functionality in the tool, market
+                                  trend adoption time and rate).</td>
+                              </tr>
+                              <tr>
+                                <td>Automation</td>
+                                <td>This KPI is based on how users rate their tool in terms of its support for
+                                  the automation of recurring processes (e.g., by utilizing ML).</td>
+                              </tr>
+                              <tr>
+                                <td>Innovation</td>
+                                <td>This KPI combines the <em>Innovation Power</em> and <em>Automation</em> KPIs.</td>
+                              </tr>
+                              <tr>
+                                <td>Connectivity</td>
+                                <td>This KPI is based on how users rate their tool in terms of connectivity
+                                  to data sources/targets and interfaces to integrate in ecosystems.</td>
+                              </tr>
+                              <tr>
+                                <td>Functionality</td>
+                                <td>This KPI is based on how users rate their tool in terms of functionality
+                                  (i.e., capabilities and functional scope).</td>
+                              </tr>
+                              <tr>
+                                <td>Technical Capability</td>
+                                <td>This KPI combines the <em>Connectivity</em> and <em>Functionality</em> KPIs.</td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </div>
                       </div>
                     </div>
                   </div>
@@ -938,21 +1137,20 @@
           </div>
         </div>
       </div>
-    </div>
 
-    <footer class="d-flex flex-column">
-      <div class="navwide2">
-        <div class="disclaimer navwide">
-          © 2019 BARC. All rights reserved. This publication may not be reproduced or distributed in any form without BARC's prior permission. If you are authorized to access this publication, your use of it is subject to the BARC Usage Policy
-          posted on
-          <a href="https://barc.de">barc.de</a>.
+      <footer class="d-flex flex-column">
+        <div class="navwide2">
+          <div class="disclaimer navwide">
+            © 2021 BARC. All rights reserved. This publication may not be reproduced or distributed in any form without BARC's prior permission. If you are authorized to access this publication, your use of it is subject to the BARC Usage Policy
+            posted on
+            <a href="https://barc.de">barc.de</a>.
+          </div>
+
         </div>
 
-      </div>
+      </footer>
 
-    </footer>
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.6.1/iframeResizer.contentWindow.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.6.1/iframeResizer.contentWindow.min.js"></script>
 </body>
 
 </html>

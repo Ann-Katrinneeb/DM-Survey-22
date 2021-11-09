@@ -19,7 +19,7 @@ var barHeightKPI = 30;
 
 var formKPI = d3.format(".1f")
 
-var KPI = "Product satisfaction";
+var KPI = "Product Satisfaction";
 
 function keys(d) {
   return d.vendor;
@@ -28,7 +28,7 @@ function keys(d) {
   var KPIselect = KPI;
   var peerSelect = "All products"
 
-  $('#KPIfilter').selectpicker('val', "Product satisfaction");
+  $('#KPIfilter').selectpicker('val', "Product Satisfaction");
   $('#KPIfilter').selectpicker('refresh');
 
   $('#PGfilter').selectpicker('val', 501);

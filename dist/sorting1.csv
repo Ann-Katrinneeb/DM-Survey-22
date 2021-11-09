@@ -77,6 +77,12 @@
 225,Poor
 225,Very poor
 225,Don't know/not available
+226,Excellent
+226,Good
+226,Satisfactory
+226,Poor
+226,Very poor
+226,Don't know/not available
 212,Definitely
 212,Probably
 212,Perhaps
@@ -147,3 +153,10 @@
 248,Important
 248,Not very important
 248,Not important at all
+231,"Less than $100,000"
+231,"$100,000 - $499,999"
+231,"$500,000 - $999,999"
+231,$1 million or more
+232,High
+232,Medium
+232,Low

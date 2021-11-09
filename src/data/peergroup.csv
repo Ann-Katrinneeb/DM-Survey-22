@@ -1,41 +1,63 @@
 ﻿Peergroup,Product
-All products,2150 Datavault Builder
+All products,Datavault Builder
+All products,Alation Data Catalog
+All products,Amazon RedShift
 All products,AnalyticsCreator
-All products,Informatica PowerCenter
-All products,Microsoft Azure
-All products,Microsoft SQL Server
-All products,Microsoft SSIS
+All products,Collibra Data Catalog
+All products,dataspot.
+All products,Exasol Database
+All products,Google BigQuery
+All products,Informatica EDC
+All products,MS Azure Data Factory
+All products,MS SQL Server
+All products,MS SSIS
+All products,Oracle Data Integrator
 All products,Oracle Database
-All products,Pentaho Data Integration
-All products,SAP BW
 All products,SAP BW on HANA
 All products,SAP BW/4HANA
-Analytical database products,Microsoft Azure
-Analytical database products,Microsoft SQL Server
-Analytical database products,Oracle Database
-Analytical database products,SAP BW
-Analytical database products,SAP BW on HANA
-Analytical database products,SAP BW/4HANA
-Data warehousing automation products,2150 Datavault Builder
-Data warehousing automation products,AnalyticsCreator
-Data warehousing automation products,Informatica PowerCenter
-Data warehousing automation products,Microsoft SSIS
-Data warehousing automation products,Oracle Database
-Data warehousing automation products,Pentaho Data Integration
-Data warehousing automation products,SAP BW
-Data warehousing automation products,SAP BW on HANA
-Data warehousing automation products,SAP BW/4HANA
-ETL products,Informatica PowerCenter
-ETL products,Microsoft SSIS
-ETL products,Pentaho Data Integration
-ETL products,SAP BW on HANA
-ETL products,SAP BW/4HANA
-Global vendors,Informatica PowerCenter
-Global vendors,Microsoft Azure
-Global vendors,Microsoft SQL Server
-Global vendors,Microsoft SSIS
-Global vendors,Oracle Database
-Global vendors,Pentaho Data Integration
-Global vendors,SAP BW
-Global vendors,SAP BW on HANA
-Global vendors,SAP BW/4HANA
+All products,SAP HANA
+All products,Snowflake CDP
+All products,Synabi D-QUANTUM
+All products,TimeXtender
+Data Warehouse Technologies,Amazon RedShift
+Data Warehouse Technologies,Exasol Database
+Data Warehouse Technologies,Google BigQuery
+Data Warehouse Technologies,MS SQL Server
+Data Warehouse Technologies,Oracle Database
+Data Warehouse Technologies,SAP BW on HANA
+Data Warehouse Technologies,SAP BW/4HANA
+Data Warehouse Technologies,SAP HANA
+Data Warehouse Technologies,Snowflake CDP
+Products to Support DW Automation,Datavault Builder
+Products to Support DW Automation,AnalyticsCreator
+Products to Support DW Automation,MS Azure Data Factory
+Products to Support DW Automation,MS SSIS
+Products to Support DW Automation,Oracle Data Integrator
+Products to Support DW Automation,SAP BW/4HANA
+Products to Support DW Automation,TimeXtender
+Data Pipelining Products,MS Azure Data Factory
+Data Pipelining Products,MS SSIS
+Data Pipelining Products,Oracle Data Integrator
+Data Pipelining Products,SAP BW on HANA
+Data Pipelining Products,SAP BW/4HANA
+Business Software Generalists,Amazon RedShift
+Business Software Generalists,Google BigQuery
+Business Software Generalists,MS Azure Data Factory
+Business Software Generalists,MS SQL Server
+Business Software Generalists,Oracle Data Integrator
+Business Software Generalists,Oracle Database
+Business Software Generalists,SAP BW on HANA
+Business Software Generalists,SAP BW/4HANA
+Business Software Generalists,SAP HANA
+Analytical Database Products,Amazon RedShift
+Analytical Database Products,Exasol Database
+Analytical Database Products,Google BigQuery
+Analytical Database Products,MS SQL Server
+Analytical Database Products,Oracle Database
+Analytical Database Products,SAP HANA
+Analytical Database Products,Snowflake CDP
+Data Governance Products,Alation Data Catalog
+Data Governance Products,Collibra Data Catalog
+Data Governance Products,dataspot.
+Data Governance Products,Informatica EDC
+Data Governance Products,Synabi D-QUANTUM
