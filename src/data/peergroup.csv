@@ -1,63 +1,78 @@
 ﻿Peergroup,Product
-All products,Datavault Builder
 All products,Alation Data Catalog
 All products,Amazon RedShift
 All products,AnalyticsCreator
-All products,Collibra Data Catalog
+All products,Collibra DI Cloud
 All products,dataspot.
-All products,Exasol Database
+All products,Exasol
 All products,Google BigQuery
 All products,Informatica EDC
+All products,Informatica PowerCen.
 All products,MS Azure Data Factory
+All products,MS Azure Synapse
 All products,MS SQL Server
 All products,MS SSIS
 All products,Oracle Data Integrator
 All products,Oracle Database
-All products,SAP BW on HANA
+All products,Qlik Data Integration
 All products,SAP BW/4HANA
-All products,SAP HANA
+All products,SAP DI
+All products,SAP DWC
 All products,Snowflake CDP
 All products,Synabi D-QUANTUM
+All products,Talend DI
 All products,TimeXtender
-Data Warehouse Technologies,Amazon RedShift
-Data Warehouse Technologies,Exasol Database
-Data Warehouse Technologies,Google BigQuery
-Data Warehouse Technologies,MS SQL Server
-Data Warehouse Technologies,Oracle Database
-Data Warehouse Technologies,SAP BW on HANA
-Data Warehouse Technologies,SAP BW/4HANA
-Data Warehouse Technologies,SAP HANA
-Data Warehouse Technologies,Snowflake CDP
-Products to Support DW Automation,Datavault Builder
-Products to Support DW Automation,AnalyticsCreator
-Products to Support DW Automation,MS Azure Data Factory
-Products to Support DW Automation,MS SSIS
-Products to Support DW Automation,Oracle Data Integrator
-Products to Support DW Automation,SAP BW/4HANA
-Products to Support DW Automation,TimeXtender
+Cloud Data Warehousing,Amazon RedShift
+Cloud Data Warehousing,Google BigQuery
+Cloud Data Warehousing,MS Azure Synapse
+Cloud Data Warehousing,SAP DWC
+Cloud Data Warehousing,Snowflake CDP
+Data Access Engines,Amazon RedShift
+Data Access Engines,Exasol
+Data Access Engines,Google BigQuery
+Data Access Engines,MS Azure Synapse
+Data Access Engines,MS SQL Server
+Data Access Engines,Oracle Database
+Data Access Engines,SAP BW/4HANA
+Data Access Engines,SAP DWC
+Data Access Engines,Snowflake CDP
+Data Intelligence Platforms,Alation Data Catalog
+Data Intelligence Platforms,Collibra DI Cloud
+Data Intelligence Platforms,Informatica EDC
+Data Intelligence Platforms,Qlik Data Integration
+Data Intelligence Platforms,SAP DI
+Data Governance Products,Alation Data Catalog
+Data Governance Products,Collibra DI Cloud
+Data Governance Products,dataspot.
+Data Governance Products,Informatica EDC
+Data Governance Products,Qlik Data Integration
+Data Governance Products,SAP DI
+Data Governance Products,Synabi D-QUANTUM
+Data Pipelining Products,Informatica PowerCen.
 Data Pipelining Products,MS Azure Data Factory
 Data Pipelining Products,MS SSIS
 Data Pipelining Products,Oracle Data Integrator
-Data Pipelining Products,SAP BW on HANA
-Data Pipelining Products,SAP BW/4HANA
+Data Pipelining Products,Qlik Data Integration
+Data Pipelining Products,SAP DI
+Data Pipelining Products,Talend DI
+Products to Support DW Automation,AnalyticsCreator
+Products to Support DW Automation,Informatica PowerCen.
+Products to Support DW Automation,MS Azure Data Factory
+Products to Support DW Automation,MS SSIS
+Products to Support DW Automation,Oracle Data Integrator
+Products to Support DW Automation,Qlik Data Integration
+Products to Support DW Automation,SAP BW/4HANA
+Products to Support DW Automation,SAP DI
+Products to Support DW Automation,Talend DI
+Products to Support DW Automation,TimeXtender
 Business Software Generalists,Amazon RedShift
 Business Software Generalists,Google BigQuery
 Business Software Generalists,MS Azure Data Factory
+Business Software Generalists,MS Azure Synapse
 Business Software Generalists,MS SQL Server
+Business Software Generalists,MS SSIS
 Business Software Generalists,Oracle Data Integrator
 Business Software Generalists,Oracle Database
-Business Software Generalists,SAP BW on HANA
 Business Software Generalists,SAP BW/4HANA
-Business Software Generalists,SAP HANA
-Analytical Database Products,Amazon RedShift
-Analytical Database Products,Exasol Database
-Analytical Database Products,Google BigQuery
-Analytical Database Products,MS SQL Server
-Analytical Database Products,Oracle Database
-Analytical Database Products,SAP HANA
-Analytical Database Products,Snowflake CDP
-Data Governance Products,Alation Data Catalog
-Data Governance Products,Collibra Data Catalog
-Data Governance Products,dataspot.
-Data Governance Products,Informatica EDC
-Data Governance Products,Synabi D-QUANTUM
+Business Software Generalists,SAP DI
+Business Software Generalists,SAP DWC

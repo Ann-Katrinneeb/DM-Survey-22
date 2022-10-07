@@ -40,25 +40,28 @@ export function initAnaly() {
     selectedConLength,
     helperIn = 0,
     selectedProd = [
-      "Datavault Builder",
       "Alation Data Catalog",
-      "Amazon Redshift",
+      "Amazon RedShift",
       "AnalyticsCreator",
-      "Collibra Data Catalog",
+      "Collibra DI Cloud",
       "dataspot.",
-      "Exasol Database",
-      "Google Big Query",
+      "Exasol",
+      "Google BigQuery",
       "Informatica EDC",
-      "Microsoft Azure Data Factory",
-      "Microsoft SQL Server",
-      "Microsoft SSIS",
+      "Informatica PowerCen.",
+      "MS Azure Data Factory",
+      "MS Azure Synapse",
+      "MS SQL Server",
+      "MS SSIS",
       "Oracle Data Integrator",
       "Oracle Database",
-      "SAP BW on HANA",
+      "Qlik Data Integration",
       "SAP BW/4HANA",
-      "SAP HANA",
+      "SAP DI",
+      "SAP DWC",
       "Snowflake CDP",
       "Synabi D-QUANTUM",
+      "Talend DI",
       "TimeXtender",
       "Other",
       "Did not respond"
@@ -87,8 +90,8 @@ export function initAnaly() {
     selectedEmp = [
       "Less than 150",
       "150 - 500",
-      "500 - 1500",
-      "1500 - 6000",
+      "501 - 1500",
+      "1501 - 6000",
       "More than 6000",
       "Did not respond"
     ],
@@ -100,15 +103,11 @@ export function initAnaly() {
     ],
 
     selectedCon = [
-      "Algeria",
-      "Angola",
-      "Argentina",
       "Australia",
       "Austria",
       "Bahamas",
       "Belgium",
       "Brazil",
-      "Bulgaria",
       "Canada",
       "Chile",
       "China",
@@ -118,7 +117,6 @@ export function initAnaly() {
       "Cyprus",
       "Czech Republic",
       "Denmark",
-      "Ecuador",
       "Egypt",
       "Finland",
       "France",
@@ -129,23 +127,27 @@ export function initAnaly() {
       "India",
       "Indonesia",
       "Iraq",
+      "Ireland",
       "Israel",
       "Italy",
       "Japan",
       "Kenya",
+      "Latvia",
       "Liechtenstein",
-      "Lithuania",
       "Luxembourg",
+      "Malta",
       "Mexico",
       "Netherlands",
       "New Zealand",
       "Nigeria",
       "Norway",
       "Pakistan",
+      "Paraguay",
+      "Peru",
       "Philippines",
       "Poland",
       "Portugal",
-      "Republic of Korea",
+      "Romania",
       "Russian Federation",
       "Saudi Arabia",
       "Serbia",
@@ -159,7 +161,6 @@ export function initAnaly() {
       "Thailand",
       "Tunisia",
       "Turkey",
-      "Ukraine",
       "United Kingdom",
       "United States of America",
       "United States Virgin Islands",
@@ -636,10 +637,10 @@ export function initAnaly() {
           // var variablesSel = variables[id];
 
           if (checkStartQuest == 0) {
-            var variablesSel = ["Q_356202"];
+            var variablesSel = ["Q31202"];
 
           } else if (checkStartQuestChange == 0) {
-            var variablesSel = ["Q_356202"];
+            var variablesSel = ["Q31202"];
           } else {
 
             var variablesSel = variables.filter(function(d, i) {

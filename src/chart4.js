@@ -4,7 +4,7 @@ export function initProdComp() {
 
 
 
-  var valueID, prodId = ["Amazon Redshift", "AnalyticsCreator", "Exasol Database"],
+  var valueID, prodId = ["Alation Data Catalog", "Amazon Redshift", "Exasol Database"],
     KPIID = ["Product Satisfaction", "Recommendation"];
   var KPIComp = "Product Satisfaction",
     KPICompDataFil, peerSelect5, prodSelection5, KPISelection5, svg5Up, vendors, peerSelectHelper = 0, sorting=0;

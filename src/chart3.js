@@ -3,7 +3,7 @@ import data3 from './data/all_new.csv';
 
 export function initProdKPI() {
 
-  var product = "Datavault Builder";
+  var product = "Alation Data Catalog";
   var yLegend = -125;
   var tranx2 = 92;
   var tranx3 = 112;
@@ -18,7 +18,7 @@ export function initProdKPI() {
   var xLine = 290;
   var xLine2 = xLine - 8;
   var peerGroupDummy = "All products",
-    productDummy = "Datavault Builder",
+    productDummy = "Alation Data Catalog",
     peerSelectDataUp, prodSelectDataUp, productSelect, peerSelectUp;
   var legend = {
     left: -70,
@@ -58,7 +58,7 @@ export function initProdKPI() {
   var barHeight5 = 12;
   var spacing = 14.5;
   var barHeight4 = 4;
-  var productSelecter = "Datavault Builder";
+  var productSelecter = "Alation Data Catalog";
   var peerSelecter = "All products";
   var prodSelectData;
 
@@ -375,7 +375,7 @@ export function initProdKPI() {
       if (d.Product == product) {
         if (d.Rank == 1) {
           return "#42b648";
-        } else if ((d.Rank-1) / (d.counter-1) <= 0.3) {
+        } else if ((d.Rank-1) / (d.counter-1) < 0.3) {
           return "#adc537";
         } else if (d.Rank / d.counter == 1) {
           return "#f2686f";
@@ -396,15 +396,9 @@ export function initProdKPI() {
       }
     });
 
-
-
-
-
   var productRank = data.filter(function(element) {
     return element.Product == product
   });
-
-
 
   var KPIrank = svg3.selectAll("text.KPItext")
     .data(productRank)
@@ -423,9 +417,6 @@ export function initProdKPI() {
         return d.Rank;
       };
     });
-
-
-
 
   var valuesproduct = svg3.selectAll("text.values")
     .data(productRank)
@@ -507,8 +498,6 @@ export function initProdKPI() {
   });
 
   function updateProd(updateProduct) {
-
-
 
     svg3.selectAll(".KPIind")
       .style("display", (respHelp > 580) ? "block" : "none")
@@ -678,8 +667,6 @@ export function initProdKPI() {
       });
 
 
-
-
     var KPInest2 = d3.nest()
       .key(function(d) {
         return d.KPI;
@@ -787,7 +774,7 @@ export function initProdKPI() {
           if (d.Product == productDummy) {
             if (d.Rank == 1) {
               return "#42b648";
-            } else if ((d.Rank-1) / (d.counter-1) <= 0.3) {
+            } else if ((d.Rank-1) / (d.counter-1) < 0.3) {
               return "#adc537";
             } else if (d.Rank / d.counter == 1) {
               return "#f2686f";
@@ -823,15 +810,12 @@ export function initProdKPI() {
     .attr("y", -20)
     .text("Value");
 
-
-
   svg3.append("text")
     .style("display", (respHelp > 580) ? "block" : "none")
     .attr("x", xRankpeer)
     .attr("id", "xRankpeerID")
     .attr("y", -20)
     .text("Rank in peer group");
-
 
 
   var helpWithResp = (widthHelper3 + labelxSpac - 160);
@@ -938,11 +922,11 @@ export function initProdKPI() {
     .attr("x1", -xLine)
     .attr("y1", LineGroupBegin4)
     .attr("x2", -xLine)
-    .attr("y2", LineGroupBegin4 + 12 + (1 * SpaceLine))
+    .attr("y2", LineGroupBegin4 + 12 + (2 * SpaceLine))
     .attr("stroke", "grey")
     .attr("stroke-width", "0.3");
 
-  for (count3 = 0; count3 <2; count3++) {
+  for (count3 = 0; count3 <3; count3++) {
 
     svg3.append("line")
       .attr("class", "head")

@@ -1,1136 +1,1531 @@
-Peer,vendor,KPI,value
-All products,Datavault Builder,Price to Value,9.927027027
-All products,Alation Data Catalog,Price to Value,8.406756757
-All products,Amazon Redshift,Price to Value,8.406756757
-All products,AnalyticsCreator,Price to Value,9.627027027
-All products,Collibra Data Catalog,Price to Value,6.562162162
-All products,dataspot.,Price to Value,10
-All products,Exasol Database,Price to Value,9.059459459
-All products,Google Big Query,Price to Value,8.102702703
-All products,Informatica EDC,Price to Value,7.12972973
-All products,MS Azure Data Factory,Price to Value,6.789189189
-All products,MS SQL Server,Price to Value,7.837006237
-All products,MS SSIS,Price to Value,7.514210985
-All products,Oracle Data Integrator,Price to Value,5.427027027
-All products,Oracle Database,Price to Value,2.553716216
-All products,SAP BW on HANA,Price to Value,5.2
-All products,SAP BW/4HANA,Price to Value,5.791891892
-All products,SAP HANA,Price to Value,1
-All products,Snowflake CDP,Price to Value,8.832432432
-All products,Synabi D-QUANTUM,Price to Value,8.945945946
-All products,TimeXtender,Price to Value,8.706306306
-All products,Peer Group Average,Price to Value,7.290967393
-All products,Datavault Builder,Time to Market,10
-All products,Alation Data Catalog,Time to Market,6.479651163
-All products,Amazon Redshift,Time to Market,6.737827035
-All products,AnalyticsCreator,Time to Market,9.125656414
-All products,Collibra Data Catalog,Time to Market,5.552325581
-All products,dataspot.,Time to Market,8.883295519
-All products,Exasol Database,Time to Market,8.29539356
-All products,Google Big Query,Time to Market,4.603924419
-All products,Informatica EDC,Time to Market,4.945348837
-All products,MS Azure Data Factory,Time to Market,5.102713178
-All products,MS SQL Server,Time to Market,4.655655391
-All products,MS SSIS,Time to Market,4.768313953
-All products,Oracle Data Integrator,Time to Market,5.410065407
-All products,Oracle Database,Time to Market,1
-All products,SAP BW on HANA,Time to Market,2.466860465
-All products,SAP BW/4HANA,Time to Market,4.315891473
-All products,SAP HANA,Time to Market,4.768313953
-All products,Snowflake CDP,Time to Market,7.069767442
-All products,Synabi D-QUANTUM,Time to Market,7.069767442
-All products,TimeXtender,Time to Market,6.361627907
-All products,Peer Group Average,Time to Market,5.880619957
-All products,Datavault Builder,Recommendation,10
-All products,Alation Data Catalog,Recommendation,8.691154423
-All products,Amazon Redshift,Recommendation,7.60326087
-All products,AnalyticsCreator,Recommendation,9.330995792
-All products,Collibra Data Catalog,Recommendation,3.934782609
-All products,dataspot.,Recommendation,9.49213691
-All products,Exasol Database,Recommendation,10
-All products,Google Big Query,Recommendation,4.408134642
-All products,Informatica EDC,Recommendation,5.695652174
-All products,MS Azure Data Factory,Recommendation,3.650771388
-All products,MS SQL Server,Recommendation,5.421230943
-All products,MS SSIS,Recommendation,3.567934783
-All products,Oracle Data Integrator,Recommendation,1
-All products,Oracle Database,Recommendation,3.134387352
-All products,SAP BW on HANA,Recommendation,3.650771388
-All products,SAP BW/4HANA,Recommendation,6.47826087
-All products,SAP HANA,Recommendation,5.304347826
-All products,Snowflake CDP,Recommendation,6.869565217
-All products,Synabi D-QUANTUM,Recommendation,7.236413043
-All products,TimeXtender,Recommendation,9.709677419
-All products,Peer Group Average,Recommendation,6.258973883
-All products,Datavault Builder,Product Satisfaction,9.539177657
-All products,Alation Data Catalog,Product Satisfaction,7.004654771
-All products,Amazon Redshift,Product Satisfaction,7.508679209
-All products,AnalyticsCreator,Product Satisfaction,9.829049776
-All products,Collibra Data Catalog,Product Satisfaction,5.56458495
-All products,dataspot.,Product Satisfaction,9.164759503
-All products,Exasol Database,Product Satisfaction,10
-All products,Google Big Query,Product Satisfaction,6.038414375
-All products,Informatica EDC,Product Satisfaction,5.391776571
-All products,MS Azure Data Factory,Product Satisfaction,4.470131885
-All products,MS SQL Server,Product Satisfaction,5.149395988
-All products,MS SSIS,Product Satisfaction,3.188469744
-All products,Oracle Data Integrator,Product Satisfaction,3.62049069
-All products,Oracle Database,Product Satisfaction,1
-All products,SAP BW on HANA,Product Satisfaction,2.247778973
-All products,SAP BW/4HANA,Product Satisfaction,5.622187742
-All products,SAP HANA,Product Satisfaction,1.397982933
-All products,Snowflake CDP,Product Satisfaction,8.422569672
-All products,Synabi D-QUANTUM,Product Satisfaction,7.508679209
-All products,TimeXtender,Product Satisfaction,8.937135564
-All products,Peer Group Average,Product Satisfaction,6.080295961
-All products,Datavault Builder,Support Quality,10
-All products,Alation Data Catalog,Support Quality,6.856394914
-All products,Amazon Redshift,Support Quality,6.732984293
-All products,AnalyticsCreator,Support Quality,9.094071947
-All products,Collibra Data Catalog,Support Quality,5.947643979
-All products,dataspot.,Support Quality,9.406483235
-All products,Exasol Database,Support Quality,8.336161762
-All products,Google Big Query,Support Quality,1
-All products,Informatica EDC,Support Quality,6.795811518
-All products,MS Azure Data Factory,Support Quality,5.712041885
-All products,MS SQL Server,Support Quality,4.887434555
-All products,MS SSIS,Support Quality,5.358638743
-All products,Oracle Data Integrator,Support Quality,2.678664921
-All products,Oracle Database,Support Quality,5.313955588
-All products,SAP BW on HANA,Support Quality,5.216465066
-All products,SAP BW/4HANA,Support Quality,6.628272251
-All products,SAP HANA,Support Quality,4.910994764
-All products,Snowflake CDP,Support Quality,7.796214257
-All products,Synabi D-QUANTUM,Support Quality,9.216623037
-All products,TimeXtender,Support Quality,8.471952132
-All products,Peer Group Average,Support Quality,6.518040442
-All products,Datavault Builder,Customer Satisfaction,9.893240937
-All products,Alation Data Catalog,Customer Satisfaction,7.671198356
-All products,Amazon Redshift,Customer Satisfaction,7.48492929
-All products,AnalyticsCreator,Customer Satisfaction,9.425052576
-All products,Collibra Data Catalog,Customer Satisfaction,5.311013719
-All products,dataspot.,Customer Satisfaction,9.397900401
-All products,Exasol Database,Customer Satisfaction,9.30458678
-All products,Google Big Query,Customer Satisfaction,5.171448692
-All products,Informatica EDC,Customer Satisfaction,5.881647832
-All products,MS Azure Data Factory,Customer Satisfaction,4.938842456
-All products,MS SQL Server,Customer Satisfaction,5.643524262
-All products,MS SSIS,Customer Satisfaction,4.700443246
-All products,Oracle Data Integrator,Customer Satisfaction,3.459383117
-All products,Oracle Database,Customer Satisfaction,2.382455008
-All products,SAP BW on HANA,Customer Satisfaction,3.599805811
-All products,SAP BW/4HANA,Customer Satisfaction,5.752299707
-All products,SAP HANA,Customer Satisfaction,3.515663201
-All products,Snowflake CDP,Customer Satisfaction,7.7054449
-All products,Synabi D-QUANTUM,Customer Satisfaction,7.797464736
-All products,TimeXtender,Customer Satisfaction,8.561112394
-All products,Peer Group Average,Customer Satisfaction,6.379872871
-All products,Datavault Builder,Performance,4.139534884
-All products,Alation Data Catalog,Performance,4.782392027
-All products,Amazon Redshift,Performance,5.343023256
-All products,AnalyticsCreator,Performance,5.773443361
-All products,Collibra Data Catalog,Performance,2.764119601
-All products,dataspot.,Performance,7.630875804
-All products,Exasol Database,Performance,10
-All products,Google Big Query,Performance,4.760690173
-All products,Informatica EDC,Performance,3.860465116
-All products,MS Azure Data Factory,Performance,1
-All products,MS SQL Server,Performance,2.8
-All products,MS SSIS,Performance,1.51987997
-All products,Oracle Data Integrator,Performance,2.399709302
-All products,Oracle Database,Performance,3.416490486
-All products,SAP BW on HANA,Performance,2.255813953
-All products,SAP BW/4HANA,Performance,6.023255814
-All products,SAP HANA,Performance,2.255813953
-All products,Snowflake CDP,Performance,6.731663685
-All products,Synabi D-QUANTUM,Performance,2.399709302
-All products,TimeXtender,Performance,2.88372093
-All products,Peer Group Average,Performance,4.137030081
-All products,Datavault Builder,Platform Reliability,1.593908629
-All products,Alation Data Catalog,Platform Reliability,6.580130529
-All products,Amazon Redshift,Platform Reliability,5.454314721
-All products,AnalyticsCreator,Platform Reliability,5.531684952
-All products,Collibra Data Catalog,Platform Reliability,6.188542422
-All products,dataspot.,Platform Reliability,8.654714332
-All products,Exasol Database,Platform Reliability,10
-All products,Google Big Query,Platform Reliability,3.409530047
-All products,Informatica EDC,Platform Reliability,3.055837563
-All products,MS Azure Data Factory,Platform Reliability,1.543497287
-All products,MS SQL Server,Platform Reliability,3.796679929
-All products,MS SSIS,Platform Reliability,4.517766497
-All products,Oracle Data Integrator,Platform Reliability,1
-All products,Oracle Database,Platform Reliability,5.381633595
-All products,SAP BW on HANA,Platform Reliability,4.4706075
-All products,SAP BW/4HANA,Platform Reliability,6.345177665
-All products,SAP HANA,Platform Reliability,4.883248731
-All products,Snowflake CDP,Platform Reliability,8.538071066
-All products,Synabi D-QUANTUM,Platform Reliability,5.111675127
-All products,TimeXtender,Platform Reliability,5.614213198
-All products,Peer Group Average,Platform Reliability,5.08356169
-All products,Datavault Builder,Developer Efficiency,9.127155172
-All products,Alation Data Catalog,Developer Efficiency,5.21875
-All products,Amazon Redshift,Developer Efficiency,7.3984375
-All products,AnalyticsCreator,Developer Efficiency,10
-All products,Collibra Data Catalog,Developer Efficiency,5.21875
-All products,dataspot.,Developer Efficiency,8.430921053
-All products,Exasol Database,Developer Efficiency,8.770833333
-All products,Google Big Query,Developer Efficiency,1.84375
-All products,Informatica EDC,Developer Efficiency,6.30859375
-All products,MS Azure Data Factory,Developer Efficiency,3.184375
-All products,MS SQL Server,Developer Efficiency,3.973214286
-All products,MS SSIS,Developer Efficiency,1
-All products,Oracle Data Integrator,Developer Efficiency,2.221679688
-All products,Oracle Database,Developer Efficiency,3.583984375
-All products,SAP BW on HANA,Developer Efficiency,1.5625
-All products,SAP BW/4HANA,Developer Efficiency,5.21875
-All products,SAP HANA,Developer Efficiency,2.3125
-All products,Snowflake CDP,Developer Efficiency,5.21875
-All products,Synabi D-QUANTUM,Developer Efficiency,7.3984375
-All products,TimeXtender,Developer Efficiency,6.0625
-All products,Peer Group Average,Developer Efficiency,5.202694083
-All products,Datavault Builder,Usability,10
-All products,Alation Data Catalog,Usability,8.659574468
-All products,Amazon Redshift,Usability,9.329787234
-All products,AnalyticsCreator,Usability,8.820178449
-All products,Collibra Data Catalog,Usability,5.431610942
-All products,dataspot.,Usability,9.928191489
-All products,Exasol Database,Usability,8.276595745
-All products,Google Big Query,Usability,7.152367879
-All products,Informatica EDC,Usability,5.021276596
-All products,MS Azure Data Factory,Usability,6.040494166
-All products,MS SQL Server,Usability,5.90212766
-All products,MS SSIS,Usability,5.299245024
-All products,Oracle Data Integrator,Usability,4.482712766
-All products,Oracle Database,Usability,5.456479691
-All products,SAP BW on HANA,Usability,2.519560741
-All products,SAP BW/4HANA,Usability,6.744680851
-All products,SAP HANA,Usability,1
-All products,Snowflake CDP,Usability,7.893617021
-All products,Synabi D-QUANTUM,Usability,8.252659574
-All products,TimeXtender,Usability,8.468085106
-All products,Peer Group Average,Usability,6.73396227
-All products,Datavault Builder,Customer Experience,6.875326963
-All products,Alation Data Catalog,Customer Experience,6.271651931
-All products,Amazon Redshift,Customer Experience,7.085258672
-All products,AnalyticsCreator,Customer Experience,7.816989796
-All products,Collibra Data Catalog,Customer Experience,4.716786216
-All products,dataspot.,Customer Experience,8.662098718
-All products,Exasol Database,Customer Experience,9.156408308
-All products,Google Big Query,Customer Experience,4.417592307
-All products,Informatica EDC,Customer Experience,4.77664407
-All products,MS Azure Data Factory,Customer Experience,3.141890803
-All products,MS SQL Server,Customer Experience,4.163909117
-All products,MS SSIS,Customer Experience,2.879430926
-All products,Oracle Data Integrator,Customer Experience,2.744029073
-All products,Oracle Database,Customer Experience,4.327934671
-All products,SAP BW on HANA,Customer Experience,2.449479556
-All products,SAP BW/4HANA,Customer Experience,6.045507285
-All products,SAP HANA,Customer Experience,2.288553805
-All products,Snowflake CDP,Customer Experience,6.889447497
-All products,Synabi D-QUANTUM,Customer Experience,5.887612554
-All products,TimeXtender,Customer Experience,5.777546467
-All products,Peer Group Average,Customer Experience,5.318704937
-All products,Datavault Builder,Innovation Power,10
-All products,Alation Data Catalog,Innovation Power,9.52674524
-All products,Amazon Redshift,Innovation Power,8.018245694
-All products,AnalyticsCreator,Innovation Power,9.961834294
-All products,Collibra Data Catalog,Innovation Power,6.450589302
-All products,dataspot.,Innovation Power,9.458386219
-All products,Exasol Database,Innovation Power,7.642490178
-All products,Google Big Query,Innovation Power,7.633726201
-All products,Informatica EDC,Innovation Power,7.397098821
-All products,MS Azure Data Factory,Innovation Power,4.883952856
-All products,MS SQL Server,Innovation Power,4.42039497
-All products,MS SSIS,Innovation Power,1
-All products,Oracle Data Integrator,Innovation Power,1.599728015
-All products,Oracle Database,Innovation Power,1.392679057
-All products,SAP BW on HANA,Innovation Power,2.317497733
-All products,SAP BW/4HANA,Innovation Power,6.377780877
-All products,SAP HANA,Innovation Power,2.538349955
-All products,Snowflake CDP,Innovation Power,9.945393682
-All products,Synabi D-QUANTUM,Innovation Power,5.533658205
-All products,TimeXtender,Innovation Power,7.160471442
-All products,Peer Group Average,Innovation Power,6.162951137
-All products,Datavault Builder,Automation,9.015085885
-All products,Alation Data Catalog,Automation,6.723680878
-All products,Amazon Redshift,Automation,7.726699029
-All products,AnalyticsCreator,Automation,10
-All products,Collibra Data Catalog,Automation,8.042718447
-All products,Exasol Database,Automation,8.042718447
-All products,Google Big Query,Automation,6.417475728
-All products,Informatica EDC,Automation,6.146601942
-All products,MS Azure Data Factory,Automation,7.031456311
-All products,MS SQL Server,Automation,4.587572816
-All products,MS SSIS,Automation,7.123389232
-All products,Oracle Database,Automation,4.931142644
-All products,SAP BW on HANA,Automation,1.36838835
-All products,SAP BW/4HANA,Automation,5.875728155
-All products,SAP HANA,Automation,5.695145631
-All products,Synabi D-QUANTUM,Automation,5.514563107
-All products,TimeXtender,Automation,8.042718447
-All products,Peer Group Average,Automation,6.605005003
-All products,Datavault Builder,Innovation,9.507542942
-All products,Alation Data Catalog,Innovation,8.125213059
-All products,Amazon Redshift,Innovation,7.872472361
-All products,AnalyticsCreator,Innovation,9.980917147
-All products,Collibra Data Catalog,Innovation,7.246653874
-All products,Exasol Database,Innovation,7.842604312
-All products,Google Big Query,Innovation,7.025600965
-All products,Informatica EDC,Innovation,6.771850382
-All products,MS Azure Data Factory,Innovation,5.957704583
-All products,MS SQL Server,Innovation,4.503983893
-All products,MS SSIS,Innovation,4.061694616
-All products,Oracle Database,Innovation,3.16191085
-All products,SAP BW on HANA,Innovation,1.842943041
-All products,SAP BW/4HANA,Innovation,6.126754516
-All products,SAP HANA,Innovation,4.116747793
-All products,Synabi D-QUANTUM,Innovation,5.524110656
-All products,TimeXtender,Innovation,7.601594944
-All products,Peer Group Average,Innovation,6.310017643
-All products,Datavault Builder,Connectivity,8.584920226
-All products,Alation Data Catalog,Connectivity,6.798507463
-All products,Amazon Redshift,Connectivity,8.199160448
-All products,AnalyticsCreator,Connectivity,9.070534425
-All products,Collibra Data Catalog,Connectivity,7.380597015
-All products,Exasol Database,Connectivity,7.982758621
-All products,Google Big Query,Connectivity,7.943909485
-All products,Informatica EDC,Connectivity,6.507462687
-All products,MS Azure Data Factory,Connectivity,9.126865672
-All products,MS SQL Server,Connectivity,7.380597015
-All products,MS SSIS,Connectivity,6.253972075
-All products,Oracle Data Integrator,Connectivity,5.743470149
-All products,Oracle Database,Connectivity,8.78887819
-All products,SAP BW on HANA,Connectivity,1.850746269
-All products,SAP BW/4HANA,Connectivity,5.925373134
-All products,Synabi D-QUANTUM,Connectivity,8.253731343
-All products,TimeXtender,Connectivity,10
-All products,Peer Group Average,Connectivity,7.399499071
-All products,Datavault Builder,Functionality,6.953198128
-All products,Alation Data Catalog,Functionality,6.953198128
-All products,Amazon Redshift,Functionality,6.436329953
-All products,AnalyticsCreator,Functionality,9.003120125
-All products,Collibra Data Catalog,Functionality,7.077557388
-All products,Exasol Database,Functionality,10
-All products,Google Big Query,Functionality,6.144862937
-All products,Informatica EDC,Functionality,9.129485179
-All products,MS Azure Data Factory,Functionality,2.684867395
-All products,MS SQL Server,Functionality,5.5650799
-All products,MS SSIS,Functionality,4.369734789
-All products,Oracle Data Integrator,Functionality,2.763845554
-All products,Oracle Database,Functionality,7.98198837
-All products,SAP BW on HANA,Functionality,1
-All products,SAP BW/4HANA,Functionality,4.776911076
-All products,SAP HANA,Functionality,2.600624025
-All products,Snowflake CDP,Functionality,5.212168487
-All products,Synabi D-QUANTUM,Functionality,6.028276131
-All products,TimeXtender,Functionality,8.581903276
-All products,Peer Group Average,Functionality,5.961218465
-All products,Datavault Builder,Technical Capability,7.769059177
-All products,Alation Data Catalog,Technical Capability,6.875852795
-All products,Amazon Redshift,Technical Capability,7.3177452
-All products,AnalyticsCreator,Technical Capability,9.036827275
-All products,Collibra Data Catalog,Technical Capability,7.229077201
-All products,Exasol Database,Technical Capability,8.99137931
-All products,Google Big Query,Technical Capability,7.044386211
-All products,Informatica EDC,Technical Capability,7.818473933
-All products,MS Azure Data Factory,Technical Capability,5.905866533
-All products,MS SQL Server,Technical Capability,6.472838458
-All products,MS SSIS,Technical Capability,5.311853432
-All products,Oracle Data Integrator,Technical Capability,4.253657852
-All products,Oracle Database,Technical Capability,8.38543328
-All products,SAP BW on HANA,Technical Capability,1.425373134
-All products,SAP BW/4HANA,Technical Capability,5.351142105
-All products,Synabi D-QUANTUM,Technical Capability,7.141003737
-All products,TimeXtender,Technical Capability,9.290951638
-All products,Peer Group Average,Technical Capability,6.801230663
-Analytical Database Products,Amazon Redshift,Price to Value,8.406756757
-Analytical Database Products,Exasol Database,Price to Value,9.059459459
-Analytical Database Products,Google Big Query,Price to Value,8.102702703
-Analytical Database Products,MS SQL Server,Price to Value,7.837006237
-Analytical Database Products,Oracle Database,Price to Value,2.553716216
-Analytical Database Products,SAP HANA,Price to Value,1
-Analytical Database Products,Snowflake CDP,Price to Value,8.832432432
-Analytical Database Products,Peer Group Average,Price to Value,6.541724829
-Analytical Database Products,Amazon Redshift,Time to Market,6.737827035
-Analytical Database Products,Exasol Database,Time to Market,8.29539356
-Analytical Database Products,Google Big Query,Time to Market,4.603924419
-Analytical Database Products,MS SQL Server,Time to Market,4.655655391
-Analytical Database Products,Oracle Database,Time to Market,1
-Analytical Database Products,SAP HANA,Time to Market,4.768313953
-Analytical Database Products,Snowflake CDP,Time to Market,7.069767442
-Analytical Database Products,Peer Group Average,Time to Market,5.304411686
-Analytical Database Products,Amazon Redshift,Recommendation,7.60326087
-Analytical Database Products,Exasol Database,Recommendation,10
-Analytical Database Products,Google Big Query,Recommendation,4.408134642
-Analytical Database Products,MS SQL Server,Recommendation,5.421230943
-Analytical Database Products,Oracle Database,Recommendation,3.134387352
-Analytical Database Products,SAP HANA,Recommendation,5.304347826
-Analytical Database Products,Snowflake CDP,Recommendation,6.869565217
-Analytical Database Products,Peer Group Average,Recommendation,6.105846693
-Analytical Database Products,Amazon Redshift,Product Satisfaction,7.508679209
-Analytical Database Products,Exasol Database,Product Satisfaction,10
-Analytical Database Products,Google Big Query,Product Satisfaction,6.038414375
-Analytical Database Products,MS SQL Server,Product Satisfaction,5.149395988
-Analytical Database Products,Oracle Database,Product Satisfaction,1
-Analytical Database Products,SAP HANA,Product Satisfaction,1.397982933
-Analytical Database Products,Snowflake CDP,Product Satisfaction,8.422569672
-Analytical Database Products,Peer Group Average,Product Satisfaction,5.645291739
-Analytical Database Products,Amazon Redshift,Support Quality,6.732984293
-Analytical Database Products,Exasol Database,Support Quality,8.336161762
-Analytical Database Products,Google Big Query,Support Quality,1
-Analytical Database Products,MS SQL Server,Support Quality,4.887434555
-Analytical Database Products,Oracle Database,Support Quality,5.313955588
-Analytical Database Products,SAP HANA,Support Quality,4.910994764
-Analytical Database Products,Snowflake CDP,Support Quality,7.796214257
-Analytical Database Products,Peer Group Average,Support Quality,5.568249317
-Analytical Database Products,Amazon Redshift,Customer Satisfaction,7.48492929
-Analytical Database Products,Exasol Database,Customer Satisfaction,9.30458678
-Analytical Database Products,Google Big Query,Customer Satisfaction,5.171448692
-Analytical Database Products,MS SQL Server,Customer Satisfaction,5.643524262
-Analytical Database Products,Oracle Database,Customer Satisfaction,2.382455008
-Analytical Database Products,SAP HANA,Customer Satisfaction,3.515663201
-Analytical Database Products,Snowflake CDP,Customer Satisfaction,7.7054449
-Analytical Database Products,Peer Group Average,Customer Satisfaction,5.88686459
-Analytical Database Products,Amazon Redshift,Performance,5.343023256
-Analytical Database Products,Exasol Database,Performance,10
-Analytical Database Products,Google Big Query,Performance,4.760690173
-Analytical Database Products,MS SQL Server,Performance,2.8
-Analytical Database Products,Oracle Database,Performance,3.416490486
-Analytical Database Products,SAP HANA,Performance,2.255813953
-Analytical Database Products,Snowflake CDP,Performance,6.731663685
-Analytical Database Products,Peer Group Average,Performance,5.043954508
-Analytical Database Products,Amazon Redshift,Platform Reliability,5.454314721
-Analytical Database Products,Exasol Database,Platform Reliability,10
-Analytical Database Products,Google Big Query,Platform Reliability,3.409530047
-Analytical Database Products,MS SQL Server,Platform Reliability,3.796679929
-Analytical Database Products,Oracle Database,Platform Reliability,5.381633595
-Analytical Database Products,SAP HANA,Platform Reliability,4.883248731
-Analytical Database Products,Snowflake CDP,Platform Reliability,8.538071066
-Analytical Database Products,Peer Group Average,Platform Reliability,5.923354013
-Analytical Database Products,Amazon Redshift,Developer Efficiency,7.3984375
-Analytical Database Products,Exasol Database,Developer Efficiency,8.770833333
-Analytical Database Products,Google Big Query,Developer Efficiency,1.84375
-Analytical Database Products,MS SQL Server,Developer Efficiency,3.973214286
-Analytical Database Products,Oracle Database,Developer Efficiency,3.583984375
-Analytical Database Products,SAP HANA,Developer Efficiency,2.3125
-Analytical Database Products,Snowflake CDP,Developer Efficiency,5.21875
-Analytical Database Products,Peer Group Average,Developer Efficiency,4.728781356
-Analytical Database Products,Amazon Redshift,Usability,9.329787234
-Analytical Database Products,Exasol Database,Usability,8.276595745
-Analytical Database Products,Google Big Query,Usability,7.152367879
-Analytical Database Products,MS SQL Server,Usability,5.90212766
-Analytical Database Products,Oracle Database,Usability,5.456479691
-Analytical Database Products,SAP HANA,Usability,1
-Analytical Database Products,Snowflake CDP,Usability,7.893617021
-Analytical Database Products,Peer Group Average,Usability,6.430139318
-Analytical Database Products,Amazon Redshift,Customer Experience,7.085258672
-Analytical Database Products,Exasol Database,Customer Experience,9.156408308
-Analytical Database Products,Google Big Query,Customer Experience,4.417592307
-Analytical Database Products,MS SQL Server,Customer Experience,4.163909117
-Analytical Database Products,Oracle Database,Customer Experience,4.327934671
-Analytical Database Products,SAP HANA,Customer Experience,2.288553805
-Analytical Database Products,Snowflake CDP,Customer Experience,6.889447497
-Analytical Database Products,Peer Group Average,Customer Experience,5.47558634
-Analytical Database Products,Amazon Redshift,Innovation Power,8.018245694
-Analytical Database Products,Exasol Database,Innovation Power,7.642490178
-Analytical Database Products,Google Big Query,Innovation Power,7.633726201
-Analytical Database Products,MS SQL Server,Innovation Power,4.42039497
-Analytical Database Products,Oracle Database,Innovation Power,1.392679057
-Analytical Database Products,SAP HANA,Innovation Power,2.538349955
-Analytical Database Products,Snowflake CDP,Innovation Power,9.945393682
-Analytical Database Products,Peer Group Average,Innovation Power,5.941611391
-Analytical Database Products,Amazon Redshift,Automation,7.726699029
-Analytical Database Products,Exasol Database,Automation,8.042718447
-Analytical Database Products,Google Big Query,Automation,6.417475728
-Analytical Database Products,MS SQL Server,Automation,4.587572816
-Analytical Database Products,Oracle Database,Automation,4.931142644
-Analytical Database Products,SAP HANA,Automation,5.695145631
-Analytical Database Products,Peer Group Average,Automation,6.233459049
-Analytical Database Products,Amazon Redshift,Innovation,7.872472361
-Analytical Database Products,Exasol Database,Innovation,7.842604312
-Analytical Database Products,Google Big Query,Innovation,7.025600965
-Analytical Database Products,MS SQL Server,Innovation,4.503983893
-Analytical Database Products,Oracle Database,Innovation,3.16191085
-Analytical Database Products,SAP HANA,Innovation,4.116747793
-Analytical Database Products,Peer Group Average,Innovation,5.753886696
-Analytical Database Products,Amazon Redshift,Connectivity,8.199160448
-Analytical Database Products,Exasol Database,Connectivity,7.982758621
-Analytical Database Products,Google Big Query,Connectivity,7.943909485
-Analytical Database Products,MS SQL Server,Connectivity,7.380597015
-Analytical Database Products,Oracle Database,Connectivity,8.78887819
-Analytical Database Products,Peer Group Average,Connectivity,8.059060752
-Analytical Database Products,Amazon Redshift,Functionality,6.436329953
-Analytical Database Products,Exasol Database,Functionality,10
-Analytical Database Products,Google Big Query,Functionality,6.144862937
-Analytical Database Products,MS SQL Server,Functionality,5.5650799
-Analytical Database Products,Oracle Database,Functionality,7.98198837
-Analytical Database Products,SAP HANA,Functionality,2.600624025
-Analytical Database Products,Snowflake CDP,Functionality,5.212168487
-Analytical Database Products,Peer Group Average,Functionality,6.277293382
-Analytical Database Products,Amazon Redshift,Technical Capability,7.3177452
-Analytical Database Products,Exasol Database,Technical Capability,8.99137931
-Analytical Database Products,Google Big Query,Technical Capability,7.044386211
-Analytical Database Products,MS SQL Server,Technical Capability,6.472838458
-Analytical Database Products,Oracle Database,Technical Capability,8.38543328
-Analytical Database Products,Peer Group Average,Technical Capability,7.642356492
-Business Software Generalists,Amazon Redshift,Price to Value,8.406756757
-Business Software Generalists,Google Big Query,Price to Value,8.102702703
-Business Software Generalists,MS Azure Data Factory,Price to Value,6.789189189
-Business Software Generalists,MS SQL Server,Price to Value,7.837006237
-Business Software Generalists,Oracle Data Integrator,Price to Value,5.427027027
-Business Software Generalists,Oracle Database,Price to Value,2.553716216
-Business Software Generalists,SAP BW on HANA,Price to Value,5.2
-Business Software Generalists,SAP BW/4HANA,Price to Value,5.791891892
-Business Software Generalists,SAP HANA,Price to Value,1
-Business Software Generalists,Peer Group Average,Price to Value,5.678698891
-Business Software Generalists,Amazon Redshift,Time to Market,6.737827035
-Business Software Generalists,Google Big Query,Time to Market,4.603924419
-Business Software Generalists,MS Azure Data Factory,Time to Market,5.102713178
-Business Software Generalists,MS SQL Server,Time to Market,4.655655391
-Business Software Generalists,Oracle Data Integrator,Time to Market,5.410065407
-Business Software Generalists,Oracle Database,Time to Market,1
-Business Software Generalists,SAP BW on HANA,Time to Market,2.466860465
-Business Software Generalists,SAP BW/4HANA,Time to Market,4.315891473
-Business Software Generalists,SAP HANA,Time to Market,4.768313953
-Business Software Generalists,Peer Group Average,Time to Market,4.340139036
-Business Software Generalists,Amazon Redshift,Recommendation,7.60326087
-Business Software Generalists,Google Big Query,Recommendation,4.408134642
-Business Software Generalists,MS Azure Data Factory,Recommendation,3.650771388
-Business Software Generalists,MS SQL Server,Recommendation,5.421230943
-Business Software Generalists,Oracle Data Integrator,Recommendation,1
-Business Software Generalists,Oracle Database,Recommendation,3.134387352
-Business Software Generalists,SAP BW on HANA,Recommendation,3.650771388
-Business Software Generalists,SAP BW/4HANA,Recommendation,6.47826087
-Business Software Generalists,SAP HANA,Recommendation,5.304347826
-Business Software Generalists,Peer Group Average,Recommendation,4.516796142
-Business Software Generalists,Amazon Redshift,Product Satisfaction,7.508679209
-Business Software Generalists,Google Big Query,Product Satisfaction,6.038414375
-Business Software Generalists,MS Azure Data Factory,Product Satisfaction,4.470131885
-Business Software Generalists,MS SQL Server,Product Satisfaction,5.149395988
-Business Software Generalists,Oracle Data Integrator,Product Satisfaction,3.62049069
-Business Software Generalists,Oracle Database,Product Satisfaction,1
-Business Software Generalists,SAP BW on HANA,Product Satisfaction,2.247778973
-Business Software Generalists,SAP BW/4HANA,Product Satisfaction,5.622187742
-Business Software Generalists,SAP HANA,Product Satisfaction,1.397982933
-Business Software Generalists,Peer Group Average,Product Satisfaction,4.117229088
-Business Software Generalists,Amazon Redshift,Support Quality,6.732984293
-Business Software Generalists,Google Big Query,Support Quality,1
-Business Software Generalists,MS Azure Data Factory,Support Quality,5.712041885
-Business Software Generalists,MS SQL Server,Support Quality,4.887434555
-Business Software Generalists,Oracle Data Integrator,Support Quality,2.678664921
-Business Software Generalists,Oracle Database,Support Quality,5.313955588
-Business Software Generalists,SAP BW on HANA,Support Quality,5.216465066
-Business Software Generalists,SAP BW/4HANA,Support Quality,6.628272251
-Business Software Generalists,SAP HANA,Support Quality,4.910994764
-Business Software Generalists,Peer Group Average,Support Quality,4.786757036
-Business Software Generalists,Amazon Redshift,Customer Satisfaction,7.48492929
-Business Software Generalists,Google Big Query,Customer Satisfaction,5.171448692
-Business Software Generalists,MS Azure Data Factory,Customer Satisfaction,4.938842456
-Business Software Generalists,MS SQL Server,Customer Satisfaction,5.643524262
-Business Software Generalists,Oracle Data Integrator,Customer Satisfaction,3.459383117
-Business Software Generalists,Oracle Database,Customer Satisfaction,2.382455008
-Business Software Generalists,SAP BW on HANA,Customer Satisfaction,3.599805811
-Business Software Generalists,SAP BW/4HANA,Customer Satisfaction,5.752299707
-Business Software Generalists,SAP HANA,Customer Satisfaction,3.515663201
-Business Software Generalists,Peer Group Average,Customer Satisfaction,4.660927949
-Business Software Generalists,Amazon Redshift,Performance,5.343023256
-Business Software Generalists,Google Big Query,Performance,4.760690173
-Business Software Generalists,MS Azure Data Factory,Performance,1
-Business Software Generalists,MS SQL Server,Performance,2.8
-Business Software Generalists,Oracle Data Integrator,Performance,2.399709302
-Business Software Generalists,Oracle Database,Performance,3.416490486
-Business Software Generalists,SAP BW on HANA,Performance,2.255813953
-Business Software Generalists,SAP BW/4HANA,Performance,6.023255814
-Business Software Generalists,SAP HANA,Performance,2.255813953
-Business Software Generalists,Peer Group Average,Performance,3.361644104
-Business Software Generalists,Amazon Redshift,Platform Reliability,5.454314721
-Business Software Generalists,Google Big Query,Platform Reliability,3.409530047
-Business Software Generalists,MS Azure Data Factory,Platform Reliability,1.543497287
-Business Software Generalists,MS SQL Server,Platform Reliability,3.796679929
-Business Software Generalists,Oracle Data Integrator,Platform Reliability,1
-Business Software Generalists,Oracle Database,Platform Reliability,5.381633595
-Business Software Generalists,SAP BW on HANA,Platform Reliability,4.4706075
-Business Software Generalists,SAP BW/4HANA,Platform Reliability,6.345177665
-Business Software Generalists,SAP HANA,Platform Reliability,4.883248731
-Business Software Generalists,Peer Group Average,Platform Reliability,4.031632164
-Business Software Generalists,Amazon Redshift,Developer Efficiency,7.3984375
-Business Software Generalists,Google Big Query,Developer Efficiency,1.84375
-Business Software Generalists,MS Azure Data Factory,Developer Efficiency,3.184375
-Business Software Generalists,MS SQL Server,Developer Efficiency,3.973214286
-Business Software Generalists,Oracle Data Integrator,Developer Efficiency,2.221679688
-Business Software Generalists,Oracle Database,Developer Efficiency,3.583984375
-Business Software Generalists,SAP BW on HANA,Developer Efficiency,1.5625
-Business Software Generalists,SAP BW/4HANA,Developer Efficiency,5.21875
-Business Software Generalists,SAP HANA,Developer Efficiency,2.3125
-Business Software Generalists,Peer Group Average,Developer Efficiency,3.477687872
-Business Software Generalists,Amazon Redshift,Usability,9.329787234
-Business Software Generalists,Google Big Query,Usability,7.152367879
-Business Software Generalists,MS Azure Data Factory,Usability,6.040494166
-Business Software Generalists,MS SQL Server,Usability,5.90212766
-Business Software Generalists,Oracle Data Integrator,Usability,4.482712766
-Business Software Generalists,Oracle Database,Usability,5.456479691
-Business Software Generalists,SAP BW on HANA,Usability,2.519560741
-Business Software Generalists,SAP BW/4HANA,Usability,6.744680851
-Business Software Generalists,SAP HANA,Usability,1
-Business Software Generalists,Peer Group Average,Usability,5.403134554
-Business Software Generalists,Amazon Redshift,Customer Experience,7.085258672
-Business Software Generalists,Google Big Query,Customer Experience,4.417592307
-Business Software Generalists,MS Azure Data Factory,Customer Experience,3.141890803
-Business Software Generalists,MS SQL Server,Customer Experience,4.163909117
-Business Software Generalists,Oracle Data Integrator,Customer Experience,2.744029073
-Business Software Generalists,Oracle Database,Customer Experience,4.327934671
-Business Software Generalists,SAP BW on HANA,Customer Experience,2.449479556
-Business Software Generalists,SAP BW/4HANA,Customer Experience,6.045507285
-Business Software Generalists,SAP HANA,Customer Experience,2.288553805
-Business Software Generalists,Peer Group Average,Customer Experience,4.073795032
-Business Software Generalists,Amazon Redshift,Innovation Power,8.018245694
-Business Software Generalists,Google Big Query,Innovation Power,7.633726201
-Business Software Generalists,MS Azure Data Factory,Innovation Power,4.883952856
-Business Software Generalists,MS SQL Server,Innovation Power,4.42039497
-Business Software Generalists,Oracle Data Integrator,Innovation Power,1.599728015
-Business Software Generalists,Oracle Database,Innovation Power,1.392679057
-Business Software Generalists,SAP BW on HANA,Innovation Power,2.317497733
-Business Software Generalists,SAP BW/4HANA,Innovation Power,6.377780877
-Business Software Generalists,SAP HANA,Innovation Power,2.538349955
-Business Software Generalists,Peer Group Average,Innovation Power,4.35359504
-Business Software Generalists,Amazon Redshift,Automation,7.726699029
-Business Software Generalists,Google Big Query,Automation,6.417475728
-Business Software Generalists,MS Azure Data Factory,Automation,7.031456311
-Business Software Generalists,MS SQL Server,Automation,4.587572816
-Business Software Generalists,Oracle Database,Automation,4.931142644
-Business Software Generalists,SAP BW on HANA,Automation,1.36838835
-Business Software Generalists,SAP BW/4HANA,Automation,5.875728155
-Business Software Generalists,SAP HANA,Automation,5.695145631
-Business Software Generalists,Peer Group Average,Automation,5.454201083
-Business Software Generalists,Amazon Redshift,Innovation,7.872472361
-Business Software Generalists,Google Big Query,Innovation,7.025600965
-Business Software Generalists,MS Azure Data Factory,Innovation,5.957704583
-Business Software Generalists,MS SQL Server,Innovation,4.503983893
-Business Software Generalists,Oracle Database,Innovation,3.16191085
-Business Software Generalists,SAP BW on HANA,Innovation,1.842943041
-Business Software Generalists,SAP BW/4HANA,Innovation,6.126754516
-Business Software Generalists,SAP HANA,Innovation,4.116747793
-Business Software Generalists,Peer Group Average,Innovation,5.07601475
-Business Software Generalists,Amazon Redshift,Connectivity,8.199160448
-Business Software Generalists,Google Big Query,Connectivity,7.943909485
-Business Software Generalists,MS Azure Data Factory,Connectivity,9.126865672
-Business Software Generalists,MS SQL Server,Connectivity,7.380597015
-Business Software Generalists,Oracle Data Integrator,Connectivity,5.743470149
-Business Software Generalists,Oracle Database,Connectivity,8.78887819
-Business Software Generalists,SAP BW on HANA,Connectivity,1.850746269
-Business Software Generalists,SAP BW/4HANA,Connectivity,5.925373134
-Business Software Generalists,Peer Group Average,Connectivity,6.869875045
-Business Software Generalists,Amazon Redshift,Functionality,6.436329953
-Business Software Generalists,Google Big Query,Functionality,6.144862937
-Business Software Generalists,MS Azure Data Factory,Functionality,2.684867395
-Business Software Generalists,MS SQL Server,Functionality,5.5650799
-Business Software Generalists,Oracle Data Integrator,Functionality,2.763845554
-Business Software Generalists,Oracle Database,Functionality,7.98198837
-Business Software Generalists,SAP BW on HANA,Functionality,1
-Business Software Generalists,SAP BW/4HANA,Functionality,4.776911076
-Business Software Generalists,SAP HANA,Functionality,2.600624025
-Business Software Generalists,Peer Group Average,Functionality,4.439389912
-Business Software Generalists,Amazon Redshift,Technical Capability,7.3177452
-Business Software Generalists,Google Big Query,Technical Capability,7.044386211
-Business Software Generalists,MS Azure Data Factory,Technical Capability,5.905866533
-Business Software Generalists,MS SQL Server,Technical Capability,6.472838458
-Business Software Generalists,Oracle Data Integrator,Technical Capability,4.253657852
-Business Software Generalists,Oracle Database,Technical Capability,8.38543328
-Business Software Generalists,SAP BW on HANA,Technical Capability,1.425373134
-Business Software Generalists,SAP BW/4HANA,Technical Capability,5.351142105
-Business Software Generalists,Peer Group Average,Technical Capability,5.769555347
-Data Governance Products,Alation Data Catalog,Price to Value,8.406756757
-Data Governance Products,Collibra Data Catalog,Price to Value,6.562162162
-Data Governance Products,dataspot.,Price to Value,10
-Data Governance Products,Informatica EDC,Price to Value,7.12972973
-Data Governance Products,Synabi D-QUANTUM,Price to Value,8.945945946
-Data Governance Products,Peer Group Average,Price to Value,8.208918919
-Data Governance Products,Alation Data Catalog,Time to Market,6.479651163
-Data Governance Products,Collibra Data Catalog,Time to Market,5.552325581
-Data Governance Products,dataspot.,Time to Market,8.883295519
-Data Governance Products,Informatica EDC,Time to Market,4.945348837
-Data Governance Products,Synabi D-QUANTUM,Time to Market,7.069767442
-Data Governance Products,Peer Group Average,Time to Market,6.586077708
-Data Governance Products,Alation Data Catalog,Recommendation,8.691154423
-Data Governance Products,Collibra Data Catalog,Recommendation,3.934782609
-Data Governance Products,dataspot.,Recommendation,9.49213691
-Data Governance Products,Informatica EDC,Recommendation,5.695652174
-Data Governance Products,Synabi D-QUANTUM,Recommendation,7.236413043
-Data Governance Products,Peer Group Average,Recommendation,7.010027832
-Data Governance Products,Alation Data Catalog,Product Satisfaction,7.004654771
-Data Governance Products,Collibra Data Catalog,Product Satisfaction,5.56458495
-Data Governance Products,dataspot.,Product Satisfaction,9.164759503
-Data Governance Products,Informatica EDC,Product Satisfaction,5.391776571
-Data Governance Products,Synabi D-QUANTUM,Product Satisfaction,7.508679209
-Data Governance Products,Peer Group Average,Product Satisfaction,6.926891001
-Data Governance Products,Alation Data Catalog,Support Quality,6.856394914
-Data Governance Products,Collibra Data Catalog,Support Quality,5.947643979
-Data Governance Products,dataspot.,Support Quality,9.406483235
-Data Governance Products,Informatica EDC,Support Quality,6.795811518
-Data Governance Products,Synabi D-QUANTUM,Support Quality,9.216623037
-Data Governance Products,Peer Group Average,Support Quality,7.644591337
-Data Governance Products,Alation Data Catalog,Customer Satisfaction,7.671198356
-Data Governance Products,Collibra Data Catalog,Customer Satisfaction,5.311013719
-Data Governance Products,dataspot.,Customer Satisfaction,9.397900401
-Data Governance Products,Informatica EDC,Customer Satisfaction,5.881647832
-Data Governance Products,Synabi D-QUANTUM,Customer Satisfaction,7.797464736
-Data Governance Products,Peer Group Average,Customer Satisfaction,7.211845009
-Data Governance Products,Alation Data Catalog,Performance,4.782392027
-Data Governance Products,Collibra Data Catalog,Performance,2.764119601
-Data Governance Products,dataspot.,Performance,7.630875804
-Data Governance Products,Informatica EDC,Performance,3.860465116
-Data Governance Products,Synabi D-QUANTUM,Performance,2.399709302
-Data Governance Products,Peer Group Average,Performance,4.28751237
-Data Governance Products,Alation Data Catalog,Platform Reliability,6.580130529
-Data Governance Products,Collibra Data Catalog,Platform Reliability,6.188542422
-Data Governance Products,dataspot.,Platform Reliability,8.654714332
-Data Governance Products,Informatica EDC,Platform Reliability,3.055837563
-Data Governance Products,Synabi D-QUANTUM,Platform Reliability,5.111675127
-Data Governance Products,Peer Group Average,Platform Reliability,5.918179995
-Data Governance Products,Alation Data Catalog,Developer Efficiency,5.21875
-Data Governance Products,Collibra Data Catalog,Developer Efficiency,5.21875
-Data Governance Products,dataspot.,Developer Efficiency,8.430921053
-Data Governance Products,Informatica EDC,Developer Efficiency,6.30859375
-Data Governance Products,Synabi D-QUANTUM,Developer Efficiency,7.3984375
-Data Governance Products,Peer Group Average,Developer Efficiency,6.515090461
-Data Governance Products,Alation Data Catalog,Usability,8.659574468
-Data Governance Products,Collibra Data Catalog,Usability,5.431610942
-Data Governance Products,dataspot.,Usability,9.928191489
-Data Governance Products,Informatica EDC,Usability,5.021276596
-Data Governance Products,Synabi D-QUANTUM,Usability,8.252659574
-Data Governance Products,Peer Group Average,Usability,7.458662614
-Data Governance Products,Alation Data Catalog,Customer Experience,6.271651931
-Data Governance Products,Collibra Data Catalog,Customer Experience,4.716786216
-Data Governance Products,dataspot.,Customer Experience,8.662098718
-Data Governance Products,Informatica EDC,Customer Experience,4.77664407
-Data Governance Products,Synabi D-QUANTUM,Customer Experience,5.887612554
-Data Governance Products,Peer Group Average,Customer Experience,6.062958698
-Data Governance Products,Alation Data Catalog,Innovation Power,9.52674524
-Data Governance Products,Collibra Data Catalog,Innovation Power,6.450589302
-Data Governance Products,dataspot.,Innovation Power,9.458386219
-Data Governance Products,Informatica EDC,Innovation Power,7.397098821
-Data Governance Products,Synabi D-QUANTUM,Innovation Power,5.533658205
-Data Governance Products,Peer Group Average,Innovation Power,7.673295558
-Data Governance Products,Alation Data Catalog,Automation,6.723680878
-Data Governance Products,Collibra Data Catalog,Automation,8.042718447
-Data Governance Products,Informatica EDC,Automation,6.146601942
-Data Governance Products,Synabi D-QUANTUM,Automation,5.514563107
-Data Governance Products,Peer Group Average,Automation,6.606891093
-Data Governance Products,Alation Data Catalog,Innovation,8.125213059
-Data Governance Products,Collibra Data Catalog,Innovation,7.246653874
-Data Governance Products,Informatica EDC,Innovation,6.771850382
-Data Governance Products,Synabi D-QUANTUM,Innovation,5.524110656
-Data Governance Products,Peer Group Average,Innovation,6.916956993
-Data Governance Products,Alation Data Catalog,Connectivity,6.798507463
-Data Governance Products,Collibra Data Catalog,Connectivity,7.380597015
-Data Governance Products,Informatica EDC,Connectivity,6.507462687
-Data Governance Products,Synabi D-QUANTUM,Connectivity,8.253731343
-Data Governance Products,Peer Group Average,Connectivity,7.235074627
-Data Governance Products,Alation Data Catalog,Functionality,6.953198128
-Data Governance Products,Collibra Data Catalog,Functionality,7.077557388
-Data Governance Products,Informatica EDC,Functionality,9.129485179
-Data Governance Products,Synabi D-QUANTUM,Functionality,6.028276131
-Data Governance Products,Peer Group Average,Functionality,7.297129207
-Data Governance Products,Alation Data Catalog,Technical Capability,6.875852795
-Data Governance Products,Collibra Data Catalog,Technical Capability,7.229077201
-Data Governance Products,Informatica EDC,Technical Capability,7.818473933
-Data Governance Products,Synabi D-QUANTUM,Technical Capability,7.141003737
-Data Governance Products,Peer Group Average,Technical Capability,7.266101917
-Data Pipelining Products,MS Azure Data Factory,Price to Value,6.789189189
-Data Pipelining Products,MS SSIS,Price to Value,7.514210985
-Data Pipelining Products,Oracle Data Integrator,Price to Value,5.427027027
-Data Pipelining Products,SAP BW on HANA,Price to Value,5.2
-Data Pipelining Products,SAP BW/4HANA,Price to Value,5.791891892
-Data Pipelining Products,Peer Group Average,Price to Value,6.144463819
-Data Pipelining Products,MS Azure Data Factory,Time to Market,5.102713178
-Data Pipelining Products,MS SSIS,Time to Market,4.768313953
-Data Pipelining Products,Oracle Data Integrator,Time to Market,5.410065407
-Data Pipelining Products,SAP BW on HANA,Time to Market,2.466860465
-Data Pipelining Products,SAP BW/4HANA,Time to Market,4.315891473
-Data Pipelining Products,Peer Group Average,Time to Market,4.412768895
-Data Pipelining Products,MS Azure Data Factory,Recommendation,3.650771388
-Data Pipelining Products,MS SSIS,Recommendation,3.567934783
-Data Pipelining Products,Oracle Data Integrator,Recommendation,1
-Data Pipelining Products,SAP BW on HANA,Recommendation,3.650771388
-Data Pipelining Products,SAP BW/4HANA,Recommendation,6.47826087
-Data Pipelining Products,Peer Group Average,Recommendation,3.669547686
-Data Pipelining Products,MS Azure Data Factory,Product Satisfaction,4.470131885
-Data Pipelining Products,MS SSIS,Product Satisfaction,3.188469744
-Data Pipelining Products,Oracle Data Integrator,Product Satisfaction,3.62049069
-Data Pipelining Products,SAP BW on HANA,Product Satisfaction,2.247778973
-Data Pipelining Products,SAP BW/4HANA,Product Satisfaction,5.622187742
-Data Pipelining Products,Peer Group Average,Product Satisfaction,3.829811807
-Data Pipelining Products,MS Azure Data Factory,Support Quality,5.712041885
-Data Pipelining Products,MS SSIS,Support Quality,5.358638743
-Data Pipelining Products,Oracle Data Integrator,Support Quality,2.678664921
-Data Pipelining Products,SAP BW on HANA,Support Quality,5.216465066
-Data Pipelining Products,SAP BW/4HANA,Support Quality,6.628272251
-Data Pipelining Products,Peer Group Average,Support Quality,5.118816573
-Data Pipelining Products,MS Azure Data Factory,Customer Satisfaction,4.938842456
-Data Pipelining Products,MS SSIS,Customer Satisfaction,4.700443246
-Data Pipelining Products,Oracle Data Integrator,Customer Satisfaction,3.459383117
-Data Pipelining Products,SAP BW on HANA,Customer Satisfaction,3.599805811
-Data Pipelining Products,SAP BW/4HANA,Customer Satisfaction,5.752299707
-Data Pipelining Products,Peer Group Average,Customer Satisfaction,4.490154867
-Data Pipelining Products,MS Azure Data Factory,Performance,1
-Data Pipelining Products,MS SSIS,Performance,1.51987997
-Data Pipelining Products,Oracle Data Integrator,Performance,2.399709302
-Data Pipelining Products,SAP BW on HANA,Performance,2.255813953
-Data Pipelining Products,SAP BW/4HANA,Performance,6.023255814
-Data Pipelining Products,Peer Group Average,Performance,2.639731808
-Data Pipelining Products,MS Azure Data Factory,Platform Reliability,1.543497287
-Data Pipelining Products,MS SSIS,Platform Reliability,4.517766497
-Data Pipelining Products,Oracle Data Integrator,Platform Reliability,1
-Data Pipelining Products,SAP BW on HANA,Platform Reliability,4.4706075
-Data Pipelining Products,SAP BW/4HANA,Platform Reliability,6.345177665
-Data Pipelining Products,Peer Group Average,Platform Reliability,3.57540979
-Data Pipelining Products,MS Azure Data Factory,Developer Efficiency,3.184375
-Data Pipelining Products,MS SSIS,Developer Efficiency,1
-Data Pipelining Products,Oracle Data Integrator,Developer Efficiency,2.221679688
-Data Pipelining Products,SAP BW on HANA,Developer Efficiency,1.5625
-Data Pipelining Products,SAP BW/4HANA,Developer Efficiency,5.21875
-Data Pipelining Products,Peer Group Average,Developer Efficiency,2.637460938
-Data Pipelining Products,MS Azure Data Factory,Usability,6.040494166
-Data Pipelining Products,MS SSIS,Usability,5.299245024
-Data Pipelining Products,Oracle Data Integrator,Usability,4.482712766
-Data Pipelining Products,SAP BW on HANA,Usability,2.519560741
-Data Pipelining Products,SAP BW/4HANA,Usability,6.744680851
-Data Pipelining Products,Peer Group Average,Usability,5.01733871
-Data Pipelining Products,MS Azure Data Factory,Customer Experience,3.141890803
-Data Pipelining Products,MS SSIS,Customer Experience,2.879430926
-Data Pipelining Products,Oracle Data Integrator,Customer Experience,2.744029073
-Data Pipelining Products,SAP BW on HANA,Customer Experience,2.449479556
-Data Pipelining Products,SAP BW/4HANA,Customer Experience,6.045507285
-Data Pipelining Products,Peer Group Average,Customer Experience,3.452067529
-Data Pipelining Products,MS Azure Data Factory,Innovation Power,4.883952856
-Data Pipelining Products,MS SSIS,Innovation Power,1
-Data Pipelining Products,Oracle Data Integrator,Innovation Power,1.599728015
-Data Pipelining Products,SAP BW on HANA,Innovation Power,2.317497733
-Data Pipelining Products,SAP BW/4HANA,Innovation Power,6.377780877
-Data Pipelining Products,Peer Group Average,Innovation Power,3.235791896
-Data Pipelining Products,MS Azure Data Factory,Automation,7.031456311
-Data Pipelining Products,MS SSIS,Automation,7.123389232
-Data Pipelining Products,SAP BW on HANA,Automation,1.36838835
-Data Pipelining Products,SAP BW/4HANA,Automation,5.875728155
-Data Pipelining Products,Peer Group Average,Automation,5.349740512
-Data Pipelining Products,MS Azure Data Factory,Innovation,5.957704583
-Data Pipelining Products,MS SSIS,Innovation,4.061694616
-Data Pipelining Products,SAP BW on HANA,Innovation,1.842943041
-Data Pipelining Products,SAP BW/4HANA,Innovation,6.126754516
-Data Pipelining Products,Peer Group Average,Innovation,4.497274189
-Data Pipelining Products,MS Azure Data Factory,Connectivity,9.126865672
-Data Pipelining Products,MS SSIS,Connectivity,6.253972075
-Data Pipelining Products,Oracle Data Integrator,Connectivity,5.743470149
-Data Pipelining Products,SAP BW on HANA,Connectivity,1.850746269
-Data Pipelining Products,SAP BW/4HANA,Connectivity,5.925373134
-Data Pipelining Products,Peer Group Average,Connectivity,5.78008546
-Data Pipelining Products,MS Azure Data Factory,Functionality,2.684867395
-Data Pipelining Products,MS SSIS,Functionality,4.369734789
-Data Pipelining Products,Oracle Data Integrator,Functionality,2.763845554
-Data Pipelining Products,SAP BW on HANA,Functionality,1
-Data Pipelining Products,SAP BW/4HANA,Functionality,4.776911076
-Data Pipelining Products,Peer Group Average,Functionality,3.119071763
-Data Pipelining Products,MS Azure Data Factory,Technical Capability,5.905866533
-Data Pipelining Products,MS SSIS,Technical Capability,5.311853432
-Data Pipelining Products,Oracle Data Integrator,Technical Capability,4.253657852
-Data Pipelining Products,SAP BW on HANA,Technical Capability,1.425373134
-Data Pipelining Products,SAP BW/4HANA,Technical Capability,5.351142105
-Data Pipelining Products,Peer Group Average,Technical Capability,4.449578611
-Data Warehouse Technologies,Amazon Redshift,Price to Value,8.406756757
-Data Warehouse Technologies,Exasol Database,Price to Value,9.059459459
-Data Warehouse Technologies,Google Big Query,Price to Value,8.102702703
-Data Warehouse Technologies,MS SQL Server,Price to Value,7.837006237
-Data Warehouse Technologies,Oracle Database,Price to Value,2.553716216
-Data Warehouse Technologies,SAP BW on HANA,Price to Value,5.2
-Data Warehouse Technologies,SAP BW/4HANA,Price to Value,5.791891892
-Data Warehouse Technologies,SAP HANA,Price to Value,1
-Data Warehouse Technologies,Snowflake CDP,Price to Value,8.832432432
-Data Warehouse Technologies,Peer Group Average,Price to Value,6.309329522
-Data Warehouse Technologies,Amazon Redshift,Time to Market,6.737827035
-Data Warehouse Technologies,Exasol Database,Time to Market,8.29539356
-Data Warehouse Technologies,Google Big Query,Time to Market,4.603924419
-Data Warehouse Technologies,MS SQL Server,Time to Market,4.655655391
-Data Warehouse Technologies,Oracle Database,Time to Market,1
-Data Warehouse Technologies,SAP BW on HANA,Time to Market,2.466860465
-Data Warehouse Technologies,SAP BW/4HANA,Time to Market,4.315891473
-Data Warehouse Technologies,SAP HANA,Time to Market,4.768313953
-Data Warehouse Technologies,Snowflake CDP,Time to Market,7.069767442
-Data Warehouse Technologies,Peer Group Average,Time to Market,4.879292638
-Data Warehouse Technologies,Amazon Redshift,Recommendation,7.60326087
-Data Warehouse Technologies,Exasol Database,Recommendation,10
-Data Warehouse Technologies,Google Big Query,Recommendation,4.408134642
-Data Warehouse Technologies,MS SQL Server,Recommendation,5.421230943
-Data Warehouse Technologies,Oracle Database,Recommendation,3.134387352
-Data Warehouse Technologies,SAP BW on HANA,Recommendation,3.650771388
-Data Warehouse Technologies,SAP BW/4HANA,Recommendation,6.47826087
-Data Warehouse Technologies,SAP HANA,Recommendation,5.304347826
-Data Warehouse Technologies,Snowflake CDP,Recommendation,6.869565217
-Data Warehouse Technologies,Peer Group Average,Recommendation,5.874439901
-Data Warehouse Technologies,Amazon Redshift,Product Satisfaction,7.508679209
-Data Warehouse Technologies,Exasol Database,Product Satisfaction,10
-Data Warehouse Technologies,Google Big Query,Product Satisfaction,6.038414375
-Data Warehouse Technologies,MS SQL Server,Product Satisfaction,5.149395988
-Data Warehouse Technologies,Oracle Database,Product Satisfaction,1
-Data Warehouse Technologies,SAP BW on HANA,Product Satisfaction,2.247778973
-Data Warehouse Technologies,SAP BW/4HANA,Product Satisfaction,5.622187742
-Data Warehouse Technologies,SAP HANA,Product Satisfaction,1.397982933
-Data Warehouse Technologies,Snowflake CDP,Product Satisfaction,8.422569672
-Data Warehouse Technologies,Peer Group Average,Product Satisfaction,5.26522321
-Data Warehouse Technologies,Amazon Redshift,Support Quality,6.732984293
-Data Warehouse Technologies,Exasol Database,Support Quality,8.336161762
-Data Warehouse Technologies,Google Big Query,Support Quality,1
-Data Warehouse Technologies,MS SQL Server,Support Quality,4.887434555
-Data Warehouse Technologies,Oracle Database,Support Quality,5.313955588
-Data Warehouse Technologies,SAP BW on HANA,Support Quality,5.216465066
-Data Warehouse Technologies,SAP BW/4HANA,Support Quality,6.628272251
-Data Warehouse Technologies,SAP HANA,Support Quality,4.910994764
-Data Warehouse Technologies,Snowflake CDP,Support Quality,7.796214257
-Data Warehouse Technologies,Peer Group Average,Support Quality,5.646942504
-Data Warehouse Technologies,Amazon Redshift,Customer Satisfaction,7.48492929
-Data Warehouse Technologies,Exasol Database,Customer Satisfaction,9.30458678
-Data Warehouse Technologies,Google Big Query,Customer Satisfaction,5.171448692
-Data Warehouse Technologies,MS SQL Server,Customer Satisfaction,5.643524262
-Data Warehouse Technologies,Oracle Database,Customer Satisfaction,2.382455008
-Data Warehouse Technologies,SAP BW on HANA,Customer Satisfaction,3.599805811
-Data Warehouse Technologies,SAP BW/4HANA,Customer Satisfaction,5.752299707
-Data Warehouse Technologies,SAP HANA,Customer Satisfaction,3.515663201
-Data Warehouse Technologies,Snowflake CDP,Customer Satisfaction,7.7054449
-Data Warehouse Technologies,Peer Group Average,Customer Satisfaction,5.617795295
-Data Warehouse Technologies,Amazon Redshift,Performance,5.343023256
-Data Warehouse Technologies,Exasol Database,Performance,10
-Data Warehouse Technologies,Google Big Query,Performance,4.760690173
-Data Warehouse Technologies,MS SQL Server,Performance,2.8
-Data Warehouse Technologies,Oracle Database,Performance,3.416490486
-Data Warehouse Technologies,SAP BW on HANA,Performance,2.255813953
-Data Warehouse Technologies,SAP BW/4HANA,Performance,6.023255814
-Data Warehouse Technologies,SAP HANA,Performance,2.255813953
-Data Warehouse Technologies,Snowflake CDP,Performance,6.731663685
-Data Warehouse Technologies,Peer Group Average,Performance,4.842972369
-Data Warehouse Technologies,Amazon Redshift,Platform Reliability,5.454314721
-Data Warehouse Technologies,Exasol Database,Platform Reliability,10
-Data Warehouse Technologies,Google Big Query,Platform Reliability,3.409530047
-Data Warehouse Technologies,MS SQL Server,Platform Reliability,3.796679929
-Data Warehouse Technologies,Oracle Database,Platform Reliability,5.381633595
-Data Warehouse Technologies,SAP BW on HANA,Platform Reliability,4.4706075
-Data Warehouse Technologies,SAP BW/4HANA,Platform Reliability,6.345177665
-Data Warehouse Technologies,SAP HANA,Platform Reliability,4.883248731
-Data Warehouse Technologies,Snowflake CDP,Platform Reliability,8.538071066
-Data Warehouse Technologies,Peer Group Average,Platform Reliability,5.808807028
-Data Warehouse Technologies,Amazon Redshift,Developer Efficiency,7.3984375
-Data Warehouse Technologies,Exasol Database,Developer Efficiency,8.770833333
-Data Warehouse Technologies,Google Big Query,Developer Efficiency,1.84375
-Data Warehouse Technologies,MS SQL Server,Developer Efficiency,3.973214286
-Data Warehouse Technologies,Oracle Database,Developer Efficiency,3.583984375
-Data Warehouse Technologies,SAP BW on HANA,Developer Efficiency,1.5625
-Data Warehouse Technologies,SAP BW/4HANA,Developer Efficiency,5.21875
-Data Warehouse Technologies,SAP HANA,Developer Efficiency,2.3125
-Data Warehouse Technologies,Snowflake CDP,Developer Efficiency,5.21875
-Data Warehouse Technologies,Peer Group Average,Developer Efficiency,4.431413277
-Data Warehouse Technologies,Amazon Redshift,Usability,9.329787234
-Data Warehouse Technologies,Exasol Database,Usability,8.276595745
-Data Warehouse Technologies,Google Big Query,Usability,7.152367879
-Data Warehouse Technologies,MS SQL Server,Usability,5.90212766
-Data Warehouse Technologies,Oracle Database,Usability,5.456479691
-Data Warehouse Technologies,SAP BW on HANA,Usability,2.519560741
-Data Warehouse Technologies,SAP BW/4HANA,Usability,6.744680851
-Data Warehouse Technologies,SAP HANA,Usability,1
-Data Warehouse Technologies,Snowflake CDP,Usability,7.893617021
-Data Warehouse Technologies,Peer Group Average,Usability,6.030579647
-Data Warehouse Technologies,Amazon Redshift,Customer Experience,7.085258672
-Data Warehouse Technologies,Exasol Database,Customer Experience,9.156408308
-Data Warehouse Technologies,Google Big Query,Customer Experience,4.417592307
-Data Warehouse Technologies,MS SQL Server,Customer Experience,4.163909117
-Data Warehouse Technologies,Oracle Database,Customer Experience,4.327934671
-Data Warehouse Technologies,SAP BW on HANA,Customer Experience,2.449479556
-Data Warehouse Technologies,SAP BW/4HANA,Customer Experience,6.045507285
-Data Warehouse Technologies,SAP HANA,Customer Experience,2.288553805
-Data Warehouse Technologies,Snowflake CDP,Customer Experience,6.889447497
-Data Warehouse Technologies,Peer Group Average,Customer Experience,5.202676802
-Data Warehouse Technologies,Amazon Redshift,Innovation Power,8.018245694
-Data Warehouse Technologies,Exasol Database,Innovation Power,7.642490178
-Data Warehouse Technologies,Google Big Query,Innovation Power,7.633726201
-Data Warehouse Technologies,MS SQL Server,Innovation Power,4.42039497
-Data Warehouse Technologies,Oracle Database,Innovation Power,1.392679057
-Data Warehouse Technologies,SAP BW on HANA,Innovation Power,2.317497733
-Data Warehouse Technologies,SAP BW/4HANA,Innovation Power,6.377780877
-Data Warehouse Technologies,SAP HANA,Innovation Power,2.538349955
-Data Warehouse Technologies,Snowflake CDP,Innovation Power,9.945393682
-Data Warehouse Technologies,Peer Group Average,Innovation Power,5.587395372
-Data Warehouse Technologies,Amazon Redshift,Automation,7.726699029
-Data Warehouse Technologies,Exasol Database,Automation,8.042718447
-Data Warehouse Technologies,Google Big Query,Automation,6.417475728
-Data Warehouse Technologies,MS SQL Server,Automation,4.587572816
-Data Warehouse Technologies,Oracle Database,Automation,4.931142644
-Data Warehouse Technologies,SAP BW on HANA,Automation,1.36838835
-Data Warehouse Technologies,SAP BW/4HANA,Automation,5.875728155
-Data Warehouse Technologies,SAP HANA,Automation,5.695145631
-Data Warehouse Technologies,Peer Group Average,Automation,5.58060885
-Data Warehouse Technologies,Amazon Redshift,Innovation,7.872472361
-Data Warehouse Technologies,Exasol Database,Innovation,7.842604312
-Data Warehouse Technologies,Google Big Query,Innovation,7.025600965
-Data Warehouse Technologies,MS SQL Server,Innovation,4.503983893
-Data Warehouse Technologies,Oracle Database,Innovation,3.16191085
-Data Warehouse Technologies,SAP BW on HANA,Innovation,1.842943041
-Data Warehouse Technologies,SAP BW/4HANA,Innovation,6.126754516
-Data Warehouse Technologies,SAP HANA,Innovation,4.116747793
-Data Warehouse Technologies,Peer Group Average,Innovation,5.311627217
-Data Warehouse Technologies,Amazon Redshift,Connectivity,8.199160448
-Data Warehouse Technologies,Exasol Database,Connectivity,7.982758621
-Data Warehouse Technologies,Google Big Query,Connectivity,7.943909485
-Data Warehouse Technologies,MS SQL Server,Connectivity,7.380597015
-Data Warehouse Technologies,Oracle Database,Connectivity,8.78887819
-Data Warehouse Technologies,SAP BW on HANA,Connectivity,1.850746269
-Data Warehouse Technologies,SAP BW/4HANA,Connectivity,5.925373134
-Data Warehouse Technologies,Peer Group Average,Connectivity,6.867346166
-Data Warehouse Technologies,Amazon Redshift,Functionality,6.436329953
-Data Warehouse Technologies,Exasol Database,Functionality,10
-Data Warehouse Technologies,Google Big Query,Functionality,6.144862937
-Data Warehouse Technologies,MS SQL Server,Functionality,5.5650799
-Data Warehouse Technologies,Oracle Database,Functionality,7.98198837
-Data Warehouse Technologies,SAP BW on HANA,Functionality,1
-Data Warehouse Technologies,SAP BW/4HANA,Functionality,4.776911076
-Data Warehouse Technologies,SAP HANA,Functionality,2.600624025
-Data Warehouse Technologies,Snowflake CDP,Functionality,5.212168487
-Data Warehouse Technologies,Peer Group Average,Functionality,5.524218306
-Data Warehouse Technologies,Amazon Redshift,Technical Capability,7.3177452
-Data Warehouse Technologies,Exasol Database,Technical Capability,8.99137931
-Data Warehouse Technologies,Google Big Query,Technical Capability,7.044386211
-Data Warehouse Technologies,MS SQL Server,Technical Capability,6.472838458
-Data Warehouse Technologies,Oracle Database,Technical Capability,8.38543328
-Data Warehouse Technologies,SAP BW on HANA,Technical Capability,1.425373134
-Data Warehouse Technologies,SAP BW/4HANA,Technical Capability,5.351142105
-Data Warehouse Technologies,Peer Group Average,Technical Capability,6.426899671
-Products to Support DW Automation,Datavault Builder,Price to Value,9.927027027
-Products to Support DW Automation,AnalyticsCreator,Price to Value,9.627027027
-Products to Support DW Automation,MS Azure Data Factory,Price to Value,6.789189189
-Products to Support DW Automation,MS SSIS,Price to Value,7.514210985
-Products to Support DW Automation,Oracle Data Integrator,Price to Value,5.427027027
-Products to Support DW Automation,SAP BW/4HANA,Price to Value,5.791891892
-Products to Support DW Automation,TimeXtender,Price to Value,8.706306306
-Products to Support DW Automation,Peer Group Average,Price to Value,7.683239922
-Products to Support DW Automation,Datavault Builder,Time to Market,10
-Products to Support DW Automation,AnalyticsCreator,Time to Market,9.125656414
-Products to Support DW Automation,MS Azure Data Factory,Time to Market,5.102713178
-Products to Support DW Automation,MS SSIS,Time to Market,4.768313953
-Products to Support DW Automation,Oracle Data Integrator,Time to Market,5.410065407
-Products to Support DW Automation,SAP BW/4HANA,Time to Market,4.315891473
-Products to Support DW Automation,TimeXtender,Time to Market,6.361627907
-Products to Support DW Automation,Peer Group Average,Time to Market,6.440609762
-Products to Support DW Automation,Datavault Builder,Recommendation,10
-Products to Support DW Automation,AnalyticsCreator,Recommendation,9.330995792
-Products to Support DW Automation,MS Azure Data Factory,Recommendation,3.650771388
-Products to Support DW Automation,MS SSIS,Recommendation,3.567934783
-Products to Support DW Automation,Oracle Data Integrator,Recommendation,1
-Products to Support DW Automation,SAP BW/4HANA,Recommendation,6.47826087
-Products to Support DW Automation,TimeXtender,Recommendation,9.709677419
-Products to Support DW Automation,Peer Group Average,Recommendation,6.248234322
-Products to Support DW Automation,Datavault Builder,Product Satisfaction,9.539177657
-Products to Support DW Automation,AnalyticsCreator,Product Satisfaction,9.829049776
-Products to Support DW Automation,MS Azure Data Factory,Product Satisfaction,4.470131885
-Products to Support DW Automation,MS SSIS,Product Satisfaction,3.188469744
-Products to Support DW Automation,Oracle Data Integrator,Product Satisfaction,3.62049069
-Products to Support DW Automation,SAP BW/4HANA,Product Satisfaction,5.622187742
-Products to Support DW Automation,TimeXtender,Product Satisfaction,8.937135564
-Products to Support DW Automation,Peer Group Average,Product Satisfaction,6.458091866
-Products to Support DW Automation,Datavault Builder,Support Quality,10
-Products to Support DW Automation,AnalyticsCreator,Support Quality,9.094071947
-Products to Support DW Automation,MS Azure Data Factory,Support Quality,5.712041885
-Products to Support DW Automation,MS SSIS,Support Quality,5.358638743
-Products to Support DW Automation,Oracle Data Integrator,Support Quality,2.678664921
-Products to Support DW Automation,SAP BW/4HANA,Support Quality,6.628272251
-Products to Support DW Automation,TimeXtender,Support Quality,8.471952132
-Products to Support DW Automation,Peer Group Average,Support Quality,6.849091697
-Products to Support DW Automation,Datavault Builder,Customer Satisfaction,9.893240937
-Products to Support DW Automation,AnalyticsCreator,Customer Satisfaction,9.425052576
-Products to Support DW Automation,MS Azure Data Factory,Customer Satisfaction,4.938842456
-Products to Support DW Automation,MS SSIS,Customer Satisfaction,4.700443246
-Products to Support DW Automation,Oracle Data Integrator,Customer Satisfaction,3.459383117
-Products to Support DW Automation,SAP BW/4HANA,Customer Satisfaction,5.752299707
-Products to Support DW Automation,TimeXtender,Customer Satisfaction,8.561112394
-Products to Support DW Automation,Peer Group Average,Customer Satisfaction,6.675767776
-Products to Support DW Automation,Datavault Builder,Performance,4.139534884
-Products to Support DW Automation,AnalyticsCreator,Performance,5.773443361
-Products to Support DW Automation,MS Azure Data Factory,Performance,1
-Products to Support DW Automation,MS SSIS,Performance,1.51987997
-Products to Support DW Automation,Oracle Data Integrator,Performance,2.399709302
-Products to Support DW Automation,SAP BW/4HANA,Performance,6.023255814
-Products to Support DW Automation,TimeXtender,Performance,2.88372093
-Products to Support DW Automation,Peer Group Average,Performance,3.391363466
-Products to Support DW Automation,Datavault Builder,Platform Reliability,1.593908629
-Products to Support DW Automation,AnalyticsCreator,Platform Reliability,5.531684952
-Products to Support DW Automation,MS Azure Data Factory,Platform Reliability,1.543497287
-Products to Support DW Automation,MS SSIS,Platform Reliability,4.517766497
-Products to Support DW Automation,Oracle Data Integrator,Platform Reliability,1
-Products to Support DW Automation,SAP BW/4HANA,Platform Reliability,6.345177665
-Products to Support DW Automation,TimeXtender,Platform Reliability,5.614213198
-Products to Support DW Automation,Peer Group Average,Platform Reliability,3.735178318
-Products to Support DW Automation,Datavault Builder,Developer Efficiency,9.127155172
-Products to Support DW Automation,AnalyticsCreator,Developer Efficiency,10
-Products to Support DW Automation,MS Azure Data Factory,Developer Efficiency,3.184375
-Products to Support DW Automation,MS SSIS,Developer Efficiency,1
-Products to Support DW Automation,Oracle Data Integrator,Developer Efficiency,2.221679688
-Products to Support DW Automation,SAP BW/4HANA,Developer Efficiency,5.21875
-Products to Support DW Automation,TimeXtender,Developer Efficiency,6.0625
-Products to Support DW Automation,Peer Group Average,Developer Efficiency,5.259208551
-Products to Support DW Automation,Datavault Builder,Usability,10
-Products to Support DW Automation,AnalyticsCreator,Usability,8.820178449
-Products to Support DW Automation,MS Azure Data Factory,Usability,6.040494166
-Products to Support DW Automation,MS SSIS,Usability,5.299245024
-Products to Support DW Automation,Oracle Data Integrator,Usability,4.482712766
-Products to Support DW Automation,SAP BW/4HANA,Usability,6.744680851
-Products to Support DW Automation,TimeXtender,Usability,8.468085106
-Products to Support DW Automation,Peer Group Average,Usability,7.12219948
-Products to Support DW Automation,Datavault Builder,Customer Experience,6.875326963
-Products to Support DW Automation,AnalyticsCreator,Customer Experience,7.816989796
-Products to Support DW Automation,MS Azure Data Factory,Customer Experience,3.141890803
-Products to Support DW Automation,MS SSIS,Customer Experience,2.879430926
-Products to Support DW Automation,Oracle Data Integrator,Customer Experience,2.744029073
-Products to Support DW Automation,SAP BW/4HANA,Customer Experience,6.045507285
-Products to Support DW Automation,TimeXtender,Customer Experience,5.777546467
-Products to Support DW Automation,Peer Group Average,Customer Experience,5.040103045
-Products to Support DW Automation,Datavault Builder,Innovation Power,10
-Products to Support DW Automation,AnalyticsCreator,Innovation Power,9.961834294
-Products to Support DW Automation,MS Azure Data Factory,Innovation Power,4.883952856
-Products to Support DW Automation,MS SSIS,Innovation Power,1
-Products to Support DW Automation,Oracle Data Integrator,Innovation Power,1.599728015
-Products to Support DW Automation,SAP BW/4HANA,Innovation Power,6.377780877
-Products to Support DW Automation,TimeXtender,Innovation Power,7.160471442
-Products to Support DW Automation,Peer Group Average,Innovation Power,5.854823926
-Products to Support DW Automation,Datavault Builder,Automation,9.015085885
-Products to Support DW Automation,AnalyticsCreator,Automation,10
-Products to Support DW Automation,MS Azure Data Factory,Automation,7.031456311
-Products to Support DW Automation,MS SSIS,Automation,7.123389232
-Products to Support DW Automation,SAP BW/4HANA,Automation,5.875728155
-Products to Support DW Automation,TimeXtender,Automation,8.042718447
-Products to Support DW Automation,Peer Group Average,Automation,7.848063005
-Products to Support DW Automation,Datavault Builder,Innovation,9.507542942
-Products to Support DW Automation,AnalyticsCreator,Innovation,9.980917147
-Products to Support DW Automation,MS Azure Data Factory,Innovation,5.957704583
-Products to Support DW Automation,MS SSIS,Innovation,4.061694616
-Products to Support DW Automation,SAP BW/4HANA,Innovation,6.126754516
-Products to Support DW Automation,TimeXtender,Innovation,7.601594944
-Products to Support DW Automation,Peer Group Average,Innovation,7.206034792
-Products to Support DW Automation,Datavault Builder,Connectivity,8.584920226
-Products to Support DW Automation,AnalyticsCreator,Connectivity,9.070534425
-Products to Support DW Automation,MS Azure Data Factory,Connectivity,9.126865672
-Products to Support DW Automation,MS SSIS,Connectivity,6.253972075
-Products to Support DW Automation,Oracle Data Integrator,Connectivity,5.743470149
-Products to Support DW Automation,SAP BW/4HANA,Connectivity,5.925373134
-Products to Support DW Automation,TimeXtender,Connectivity,10
-Products to Support DW Automation,Peer Group Average,Connectivity,7.815019383
-Products to Support DW Automation,Datavault Builder,Functionality,6.953198128
-Products to Support DW Automation,AnalyticsCreator,Functionality,9.003120125
-Products to Support DW Automation,MS Azure Data Factory,Functionality,2.684867395
-Products to Support DW Automation,MS SSIS,Functionality,4.369734789
-Products to Support DW Automation,Oracle Data Integrator,Functionality,2.763845554
-Products to Support DW Automation,SAP BW/4HANA,Functionality,4.776911076
-Products to Support DW Automation,TimeXtender,Functionality,8.581903276
-Products to Support DW Automation,Peer Group Average,Functionality,5.590511478
-Products to Support DW Automation,Datavault Builder,Technical Capability,7.769059177
-Products to Support DW Automation,AnalyticsCreator,Technical Capability,9.036827275
-Products to Support DW Automation,MS Azure Data Factory,Technical Capability,5.905866533
-Products to Support DW Automation,MS SSIS,Technical Capability,5.311853432
-Products to Support DW Automation,Oracle Data Integrator,Technical Capability,4.253657852
-Products to Support DW Automation,SAP BW/4HANA,Technical Capability,5.351142105
-Products to Support DW Automation,TimeXtender,Technical Capability,9.290951638
-Products to Support DW Automation,Peer Group Average,Technical Capability,6.70276543
+Peer,vendor,KPI,value,,,
+All products,Alation Data Catalog,Price to Value,7.886861314,,,
+All products,Amazon RedShift,Price to Value,7.700729927,,,
+All products,AnalyticsCreator,Price to Value,9.473024437,,,
+All products,Collibra DI Cloud,Price to Value,5.601167883,,,
+All products,dataspot.,Price to Value,9.655109489,,,
+All products,Exasol,Price to Value,9.141747116,,,
+All products,Google BigQuery,Price to Value,10,,,
+All products,Informatica EDC,Price to Value,5.467153285,,,
+All products,Informatica PowerCen.,Price to Value,1,,,
+All products,MS Azure Data Factory,Price to Value,6.472262774,,,
+All products,MS Azure Synapse,Price to Value,8.817518248,,,
+All products,MS SQL Server,Price to Value,7.732456868,,,
+All products,MS SSIS,Price to Value,7.644890511,,,
+All products,Oracle Data Integrator,Price to Value,3.791970803,,,
+All products,Oracle Database,Price to Value,2.451824818,,,
+All products,Qlik Data Integration,Price to Value,8.259124088,,,
+All products,SAP BW/4HANA,Price to Value,4.270594369,,,
+All products,SAP DI,Price to Value,6.304744526,,,
+All products,SAP DWC,Price to Value,8.044357103,,,
+All products,Snowflake CDP,Price to Value,9.131614964,,,
+All products,Synabi D-QUANTUM,Price to Value,8.665228932,,,
+All products,Talend DI,Price to Value,9.894421272,,,
+All products,TimeXtender,Price to Value,9.018540146,,,
+All products,Peer Group Average,Price to Value,7.235884473,,,
+All products,Alation Data Catalog,Time to Market,6.972022956,,,
+All products,Amazon RedShift,Time to Market,5.842180775,,,
+All products,AnalyticsCreator,Time to Market,9.926994813,,,
+All products,Collibra DI Cloud,Time to Market,1,,,
+All products,dataspot.,Time to Market,10,,,
+All products,Exasol,Time to Market,8.644189383,,,
+All products,Google BigQuery,Time to Market,6.905561651,,,
+All products,Informatica EDC,Time to Market,5.136029412,,,
+All products,Informatica PowerCen.,Time to Market,3.864956958,,,
+All products,MS Azure Data Factory,Time to Market,5.842180775,,,
+All products,MS Azure Synapse,Time to Market,6.164992826,,,
+All products,MS SQL Server,Time to Market,4.82921882,,,
+All products,MS SSIS,Time to Market,4.93830703,,,
+All products,Oracle Data Integrator,Time to Market,3.864956958,,,
+All products,Oracle Database,Time to Market,2.136298422,,,
+All products,Qlik Data Integration,Time to Market,7.348637016,,,
+All products,SAP BW/4HANA,Time to Market,5.106469587,,,
+All products,SAP DI,Time to Market,6.746054519,,,
+All products,SAP DWC,Time to Market,9.909612626,,,
+All products,Snowflake CDP,Time to Market,9.005738881,,,
+All products,Synabi D-QUANTUM,Time to Market,7.599713056,,,
+All products,Talend DI,Time to Market,5.842180775,,,
+All products,TimeXtender,Time to Market,7.634344234,,,
+All products,Peer Group Average,Time to Market,6.315680064,,,
+All products,Alation Data Catalog,Recommendation,8.8,,,
+All products,Amazon RedShift,Recommendation,1.4,,,
+All products,AnalyticsCreator,Recommendation,7.685714286,,,
+All products,Collibra DI Cloud,Recommendation,3.4,,,
+All products,dataspot.,Recommendation,10,,,
+All products,Exasol,Recommendation,5.581818182,,,
+All products,Google BigQuery,Recommendation,4.811764706,,,
+All products,Informatica EDC,Recommendation,3.025,,,
+All products,Informatica PowerCen.,Recommendation,7.4,,,
+All products,MS Azure Data Factory,Recommendation,1,,,
+All products,MS Azure Synapse,Recommendation,2.542857143,,,
+All products,MS SQL Server,Recommendation,2.039175258,,,
+All products,MS SSIS,Recommendation,2.625806452,,,
+All products,Oracle Data Integrator,Recommendation,1.9,,,
+All products,Oracle Database,Recommendation,1.9,,,
+All products,Qlik Data Integration,Recommendation,1.4,,,
+All products,SAP BW/4HANA,Recommendation,1.8,,,
+All products,SAP DI,Recommendation,1,,,
+All products,SAP DWC,Recommendation,3.945454545,,,
+All products,Snowflake CDP,Recommendation,8.65,,,
+All products,Synabi D-QUANTUM,Recommendation,5.452631579,,,
+All products,Talend DI,Recommendation,4.15,,,
+All products,TimeXtender,Recommendation,8.8,,,
+All products,Peer Group Average,Recommendation,4.317835746,,,
+All products,Alation Data Catalog,Product Satisfaction,6.135869565,,,
+All products,Amazon RedShift,Product Satisfaction,3.934782609,,,
+All products,AnalyticsCreator,Product Satisfaction,5.288625776,,,
+All products,Collibra DI Cloud,Product Satisfaction,1.969202899,,,
+All products,dataspot.,Product Satisfaction,10,,,
+All products,Exasol,Product Satisfaction,7.84041502,,,
+All products,Google BigQuery,Product Satisfaction,6.04076087,,,
+All products,Informatica EDC,Product Satisfaction,1.249660326,,,
+All products,Informatica PowerCen.,Product Satisfaction,1.407608696,,,
+All products,MS Azure Data Factory,Product Satisfaction,4.945652174,,,
+All products,MS Azure Synapse,Product Satisfaction,7.184006211,,,
+All products,MS SQL Server,Product Satisfaction,4.012145075,,,
+All products,MS SSIS,Product Satisfaction,1,,,
+All products,Oracle Data Integrator,Product Satisfaction,4.882472826,,,
+All products,Oracle Database,Product Satisfaction,3.4609375,,,
+All products,Qlik Data Integration,Product Satisfaction,3.092391304,,,
+All products,SAP BW/4HANA,Product Satisfaction,4.10326087,,,
+All products,SAP DI,Product Satisfaction,1.227096273,,,
+All products,SAP DWC,Product Satisfaction,4.394268775,,,
+All products,Snowflake CDP,Product Satisfaction,9.147078804,,,
+All products,Synabi D-QUANTUM,Product Satisfaction,6.656354515,,,
+All products,Talend DI,Product Satisfaction,5.356317935,,,
+All products,TimeXtender,Product Satisfaction,6.967391304,,,
+All products,Peer Group Average,Product Satisfaction,4.795491275,,,
+All products,Alation Data Catalog,Support Quality,5.180527383,,,
+All products,Amazon RedShift,Support Quality,5.655172414,,,
+All products,AnalyticsCreator,Support Quality,8.562022156,,,
+All products,Collibra DI Cloud,Support Quality,6.034326728,,,
+All products,dataspot.,Support Quality,10,,,
+All products,Exasol,Support Quality,7.132214641,,,
+All products,Google BigQuery,Support Quality,1,,,
+All products,Informatica EDC,Support Quality,4.012170385,,,
+All products,Informatica PowerCen.,Support Quality,5.229208925,,,
+All products,MS Azure Data Factory,Support Quality,4.211322146,,,
+All products,MS Azure Synapse,Support Quality,4.742393509,,,
+All products,MS SQL Server,Support Quality,2.989858012,,,
+All products,MS SSIS,Support Quality,1.631008025,,,
+All products,Oracle Data Integrator,Support Quality,3.464503043,,,
+All products,Oracle Database,Support Quality,4.481599536,,,
+All products,Qlik Data Integration,Support Quality,1.334685598,,,
+All products,SAP BW/4HANA,Support Quality,4.279325187,,,
+All products,SAP DI,Support Quality,2.113590264,,,
+All products,SAP DWC,Support Quality,5.929006085,,,
+All products,Snowflake CDP,Support Quality,5.618661258,,,
+All products,Synabi D-QUANTUM,Support Quality,8.739404292,,,
+All products,Talend DI,Support Quality,5.472616633,,,
+All products,TimeXtender,Support Quality,6.689655172,,,
+All products,Peer Group Average,Support Quality,4.978403104,,,
+All products,Alation Data Catalog,Customer Satisfaction,7.357003505,,,
+All products,Amazon RedShift,Customer Satisfaction,4.481055903,,,
+All products,AnalyticsCreator,Customer Satisfaction,8.099645507,,,
+All products,Collibra DI Cloud,Customer Satisfaction,3.337506829,,,
+All products,dataspot.,Customer Satisfaction,9.931021898,,,
+All products,Exasol,Customer Satisfaction,7.513037222,,,
+All products,Google BigQuery,Customer Satisfaction,6.132793916,,,
+All products,Informatica EDC,Customer Satisfaction,3.679285643,,,
+All products,Informatica PowerCen.,Customer Satisfaction,3.997434023,,,
+All products,MS Azure Data Factory,Customer Satisfaction,4.173151359,,,
+All products,MS Azure Synapse,Customer Satisfaction,5.670399951,,,
+All products,MS SQL Server,Customer Satisfaction,4.225502531,,,
+All products,MS SSIS,Customer Satisfaction,3.667482246,,,
+All products,Oracle Data Integrator,Customer Satisfaction,3.424330422,,,
+All products,Oracle Database,Customer Satisfaction,2.627972102,,,
+All products,Qlik Data Integration,Customer Satisfaction,4.293499041,,,
+All products,SAP BW/4HANA,Customer Satisfaction,3.663997484,,,
+All products,SAP DI,Customer Satisfaction,3.36693809,,,
+All products,SAP DWC,Customer Satisfaction,6.246184673,,,
+All products,Snowflake CDP,Customer Satisfaction,8.613752656,,,
+All products,Synabi D-QUANTUM,Customer Satisfaction,7.093989203,,,
+All products,Talend DI,Customer Satisfaction,6.01084566,,,
+All products,TimeXtender,Customer Satisfaction,8.033020654,,,
+All products,Peer Group Average,Customer Satisfaction,5.462602196,,,
+All products,Alation Data Catalog,Performance,4.411128776,,,
+All products,Amazon RedShift,Performance,1.178060413,,,
+All products,AnalyticsCreator,Performance,4.867363161,,,
+All products,Collibra DI Cloud,Performance,3.806571277,,,
+All products,dataspot.,Performance,8.432750397,,,
+All products,Exasol,Performance,9.778219396,,,
+All products,Google BigQuery,Performance,5.515103339,,,
+All products,Informatica EDC,Performance,4.106972519,,,
+All products,Informatica PowerCen.,Performance,4.33227345,,,
+All products,MS Azure Data Factory,Performance,4.174562798,,,
+All products,MS Azure Synapse,Performance,5.120826709,,,
+All products,MS SQL Server,Performance,3.790143084,,,
+All products,MS SSIS,Performance,1,,,
+All products,Oracle Data Integrator,Performance,5.120826709,,,
+All products,Oracle Database,Performance,4.899046105,,,
+All products,Qlik Data Integration,Performance,4.33227345,,,
+All products,SAP BW/4HANA,Performance,4.963116057,,,
+All products,SAP DI,Performance,2.391219274,,,
+All products,SAP DWC,Performance,3.124801272,,,
+All products,Snowflake CDP,Performance,10,,,
+All products,Synabi D-QUANTUM,Performance,3.813488411,,,
+All products,Talend DI,Performance,2.459459459,,,
+All products,TimeXtender,Performance,1.694698756,,,
+All products,Peer Group Average,Performance,4.491865427,,,
+All products,Alation Data Catalog,Platform Reliability,6.957386364,,,
+All products,Amazon RedShift,Platform Reliability,7.732954545,,,
+All products,AnalyticsCreator,Platform Reliability,7.711647727,,,
+All products,Collibra DI Cloud,Platform Reliability,8.130681818,,,
+All products,dataspot.,Platform Reliability,10,,,
+All products,Exasol,Platform Reliability,9.902376033,,,
+All products,Google BigQuery,Platform Reliability,8.926136364,,,
+All products,Informatica EDC,Platform Reliability,3.914772727,,,
+All products,Informatica PowerCen.,Platform Reliability,7.136363636,,,
+All products,MS Azure Data Factory,Platform Reliability,7.136363636,,,
+All products,MS Azure Synapse,Platform Reliability,1,,,
+All products,MS SQL Server,Platform Reliability,7.30415483,,,
+All products,MS SSIS,Platform Reliability,6.270344575,,,
+All products,Oracle Data Integrator,Platform Reliability,7.136363636,,,
+All products,Oracle Database,Platform Reliability,9.149857955,,,
+All products,Qlik Data Integration,Platform Reliability,7.732954545,,,
+All products,SAP BW/4HANA,Platform Reliability,8.210227273,,,
+All products,SAP DI,Platform Reliability,5.21875,,,
+All products,SAP DWC,Platform Reliability,5.122869318,,,
+All products,Snowflake CDP,Platform Reliability,9.821022727,,,
+All products,Synabi D-QUANTUM,Platform Reliability,8.266746411,,,
+All products,Talend DI,Platform Reliability,6.129616477,,,
+All products,TimeXtender,Platform Reliability,7.494318182,,,
+All products,Peer Group Average,Platform Reliability,7.235039512,,,
+All products,Alation Data Catalog,Development Efficiency,7.289367325,,,
+All products,Amazon RedShift,Development Efficiency,8.899483134,,,
+All products,AnalyticsCreator,Development Efficiency,9.045857298,,,
+All products,Collibra DI Cloud,Development Efficiency,4.596082699,,,
+All products,dataspot.,Development Efficiency,10,,,
+All products,Exasol,Development Efficiency,7.592210424,,,
+All products,Google BigQuery,Development Efficiency,4.981821673,,,
+All products,Informatica EDC,Development Efficiency,8.557943417,,,
+All products,Informatica PowerCen.,Development Efficiency,7.874863983,,,
+All products,MS Azure Data Factory,Development Efficiency,5.532877351,,,
+All products,MS Azure Synapse,Development Efficiency,2.410228509,,,
+All products,MS SQL Server,Development Efficiency,4.927644851,,,
+All products,MS SSIS,Development Efficiency,1,,,
+All products,Oracle Data Integrator,Development Efficiency,4.801006529,,,
+All products,Oracle Database,Development Efficiency,5.495103373,,,
+All products,Qlik Data Integration,Development Efficiency,6.964091404,,,
+All products,SAP BW/4HANA,Development Efficiency,5.639331289,,,
+All products,SAP DI,Development Efficiency,3.19089072,,,
+All products,SAP DWC,Development Efficiency,5.639331289,,,
+All products,Snowflake CDP,Development Efficiency,7.328400435,,,
+All products,Synabi D-QUANTUM,Development Efficiency,7.653324707,,,
+All products,Talend DI,Development Efficiency,4.801006529,,,
+All products,TimeXtender,Development Efficiency,7.592210424,,,
+All products,Peer Group Average,Development Efficiency,6.165785972,,,
+All products,Alation Data Catalog,Usability,6.940568022,,,
+All products,Amazon RedShift,Usability,8.744565217,,,
+All products,AnalyticsCreator,Usability,7.60326087,,,
+All products,Collibra DI Cloud,Usability,3.22826087,,,
+All products,dataspot.,Usability,10,,,
+All products,Exasol,Usability,8.311656672,,,
+All products,Google BigQuery,Usability,4.75,,,
+All products,Informatica EDC,Usability,5.356317935,,,
+All products,Informatica PowerCen.,Usability,6.461956522,,,
+All products,MS Azure Data Factory,Usability,6.233695652,,,
+All products,MS Azure Synapse,Usability,1,,,
+All products,MS SQL Server,Usability,6.067794711,,,
+All products,MS SSIS,Usability,2.96441094,,,
+All products,Oracle Data Integrator,Usability,4.393342391,,,
+All products,Oracle Database,Usability,5.677309783,,,
+All products,Qlik Data Integration,Usability,5.891304348,,,
+All products,SAP BW/4HANA,Usability,4.407608696,,,
+All products,SAP DI,Usability,6.576086957,,,
+All products,SAP DWC,Usability,8.381422925,,,
+All products,Snowflake CDP,Usability,8.288043478,,,
+All products,Synabi D-QUANTUM,Usability,7.738415332,,,
+All products,Talend DI,Usability,5.356317935,,,
+All products,TimeXtender,Usability,7.78035982,,,
+All products,Peer Group Average,Usability,6.180552134,,,
+All products,Alation Data Catalog,Customer Experience,6.319930659,,,
+All products,Amazon RedShift,Customer Experience,6.482453154,,,
+All products,AnalyticsCreator,Customer Experience,7.249230055,,,
+All products,Collibra DI Cloud,Customer Experience,4.484644501,,,
+All products,dataspot.,Customer Experience,9.552214399,,,
+All products,Exasol,Customer Experience,8.752364145,,,
+All products,Google BigQuery,Customer Experience,5.631426627,,,
+All products,Informatica EDC,Customer Experience,5.70817721,,,
+All products,Informatica PowerCen.,Customer Experience,6.353507364,,,
+All products,MS Azure Data Factory,Customer Experience,5.574090748,,,
+All products,MS Azure Synapse,Customer Experience,2.580301491,,,
+All products,MS SQL Server,Customer Experience,5.267902875,,,
+All products,MS SSIS,Customer Experience,2.314166636,,,
+All products,Oracle Data Integrator,Customer Experience,5.109530699,,,
+All products,Oracle Database,Customer Experience,5.898968068,,,
+All products,Qlik Data Integration,Customer Experience,6.015470421,,,
+All products,SAP BW/4HANA,Customer Experience,5.461477051,,,
+All products,SAP DI,Customer Experience,4.219306271,,,
+All products,SAP DWC,Customer Experience,5.630568613,,,
+All products,Snowflake CDP,Customer Experience,8.721987222,,,
+All products,Synabi D-QUANTUM,Customer Experience,6.668171901,,,
+All products,Talend DI,Customer Experience,4.480454903,,,
+All products,TimeXtender,Customer Experience,5.946979454,,,
+All products,Peer Group Average,Customer Experience,5.844492368,,,
+All products,Alation Data Catalog,Product Enhancement,8.863121186,,,
+All products,Amazon RedShift,Product Enhancement,9.621621622,,,
+All products,AnalyticsCreator,Product Enhancement,9.173745174,,,
+All products,Collibra DI Cloud,Product Enhancement,4.570570571,,,
+All products,dataspot.,Product Enhancement,10,,,
+All products,Exasol,Product Enhancement,5.545945946,,,
+All products,Google BigQuery,Product Enhancement,8.445945946,,,
+All products,Informatica EDC,Product Enhancement,6.71042471,,,
+All products,Informatica PowerCen.,Product Enhancement,1.783783784,,,
+All products,MS Azure Data Factory,Product Enhancement,6.262548263,,,
+All products,MS Azure Synapse,Product Enhancement,7.158301158,,,
+All products,MS SQL Server,Product Enhancement,4.70990991,,,
+All products,MS SSIS,Product Enhancement,2.903474903,,,
+All products,Oracle Data Integrator,Product Enhancement,1,,,
+All products,Oracle Database,Product Enhancement,3.246846847,,,
+All products,Qlik Data Integration,Product Enhancement,6.660660661,,,
+All products,SAP BW/4HANA,Product Enhancement,4.918918919,,,
+All products,SAP DI,Product Enhancement,4.396396396,,,
+All products,SAP DWC,Product Enhancement,9.8744551,,,
+All products,Snowflake CDP,Product Enhancement,7.158301158,,,
+All products,Synabi D-QUANTUM,Product Enhancement,6.698319942,,,
+All products,Talend DI,Product Enhancement,4.291891892,,,
+All products,TimeXtender,Product Enhancement,4.802802803,,,
+All products,Peer Group Average,Product Enhancement,6.034695082,,,
+All products,Alation Data Catalog,Automation,7.116991643,,,
+All products,Amazon RedShift,Automation,5.291086351,,,
+All products,AnalyticsCreator,Automation,10,,,
+All products,Collibra DI Cloud,Automation,1,,,
+All products,dataspot.,Automation,7.539832869,,,
+All products,Exasol,Automation,9.626904801,,,
+All products,Google BigQuery,Automation,9.038997214,,,
+All products,Informatica EDC,Automation,5.963788301,,,
+All products,Informatica PowerCen.,Automation,2.614007163,,,
+All products,MS Azure Data Factory,Automation,7.885793872,,,
+All products,MS Azure Synapse,Automation,6.18344608,,,
+All products,MS SQL Server,Automation,6.811323288,,,
+All products,MS SSIS,Automation,5.858951633,,,
+All products,Oracle Data Integrator,Automation,5.707520891,,,
+All products,Oracle Database,Automation,5.194986072,,,
+All products,Qlik Data Integration,Automation,9.038997214,,,
+All products,SAP BW/4HANA,Automation,4.791364903,,,
+All products,SAP DI,Automation,7.116991643,,,
+All products,SAP DWC,Automation,6.454231102,,,
+All products,Snowflake CDP,Automation,4.398726622,,,
+All products,Synabi D-QUANTUM,Automation,6.94339114,,,
+All products,Talend DI,Automation,7.373259053,,,
+All products,TimeXtender,Automation,5.945483486,,,
+All products,Peer Group Average,Automation,6.430264145,,,
+All products,Alation Data Catalog,Innovation,7.990056415,,,
+All products,Amazon RedShift,Innovation,7.456353986,,,
+All products,AnalyticsCreator,Innovation,9.586872587,,,
+All products,Collibra DI Cloud,Innovation,2.785285285,,,
+All products,dataspot.,Innovation,8.769916435,,,
+All products,Exasol,Innovation,7.586425373,,,
+All products,Google BigQuery,Innovation,8.74247158,,,
+All products,Informatica EDC,Innovation,6.337106506,,,
+All products,Informatica PowerCen.,Innovation,2.198895473,,,
+All products,MS Azure Data Factory,Innovation,7.074171067,,,
+All products,MS Azure Synapse,Innovation,6.670873619,,,
+All products,MS SQL Server,Innovation,5.760616599,,,
+All products,MS SSIS,Innovation,4.381213268,,,
+All products,Oracle Data Integrator,Innovation,3.353760446,,,
+All products,Oracle Database,Innovation,4.22091646,,,
+All products,Qlik Data Integration,Innovation,7.849828938,,,
+All products,SAP BW/4HANA,Innovation,4.855141911,,,
+All products,SAP DI,Innovation,5.75669402,,,
+All products,SAP DWC,Innovation,8.164343101,,,
+All products,Snowflake CDP,Innovation,5.77851389,,,
+All products,Synabi D-QUANTUM,Innovation,6.820855541,,,
+All products,Talend DI,Innovation,5.832575472,,,
+All products,TimeXtender,Innovation,5.374143144,,,
+All products,Peer Group Average,Innovation,6.232479614,,,
+All products,Alation Data Catalog,Connectivity,7.601898342,,,
+All products,Amazon RedShift,Connectivity,7.50533049,,,
+All products,AnalyticsCreator,Connectivity,10,,,
+All products,Collibra DI Cloud,Connectivity,1,,,
+All products,dataspot.,Connectivity,6.789468805,,,
+All products,Exasol,Connectivity,7.819176009,,,
+All products,Google BigQuery,Connectivity,5.48024583,,,
+All products,Informatica EDC,Connectivity,8.253731343,,,
+All products,Informatica PowerCen.,Connectivity,6.008528785,,,
+All products,MS Azure Data Factory,Connectivity,8.253731343,,,
+All products,MS Azure Synapse,Connectivity,7.291501675,,,
+All products,MS SQL Server,Connectivity,7.384620675,,,
+All products,MS SSIS,Connectivity,4.342733338,,,
+All products,Oracle Data Integrator,Connectivity,8.253731343,,,
+All products,Oracle Database,Connectivity,8.478251599,,,
+All products,Qlik Data Integration,Connectivity,8.253731343,,,
+All products,SAP BW/4HANA,Connectivity,5.858848614,,,
+All products,SAP DI,Connectivity,6.906609808,,,
+All products,SAP DWC,Connectivity,8.464219083,,,
+All products,Snowflake CDP,Connectivity,7.411780384,,,
+All products,Synabi D-QUANTUM,Connectivity,6.979427188,,,
+All products,Talend DI,Connectivity,9.516657783,,,
+All products,TimeXtender,Connectivity,8.927292111,,,
+All products,Peer Group Average,Connectivity,7.251370256,,,
+All products,Alation Data Catalog,Functionality,6.956989247,,,
+All products,Amazon RedShift,Functionality,6.777777778,,,
+All products,AnalyticsCreator,Functionality,7.452380952,,,
+All products,Collibra DI Cloud,Functionality,1.435897436,,,
+All products,dataspot.,Functionality,10,,,
+All products,Exasol,Functionality,8.569892473,,,
+All products,Google BigQuery,Functionality,5.078431373,,,
+All products,Informatica EDC,Functionality,7.541666667,,,
+All products,Informatica PowerCen.,Functionality,7.888888889,,,
+All products,MS Azure Data Factory,Functionality,3,,,
+All products,MS Azure Synapse,Functionality,2.80952381,,,
+All products,MS SQL Server,Functionality,3.583333333,,,
+All products,MS SSIS,Functionality,2.11827957,,,
+All products,Oracle Data Integrator,Functionality,4.416666667,,,
+All products,Oracle Database,Functionality,5.354166667,,,
+All products,Qlik Data Integration,Functionality,3.444444444,,,
+All products,SAP BW/4HANA,Functionality,5.222222222,,,
+All products,SAP DI,Functionality,1,,,
+All products,SAP DWC,Functionality,4.416666667,,,
+All products,Snowflake CDP,Functionality,3.791666667,,,
+All products,Synabi D-QUANTUM,Functionality,5.666666667,,,
+All products,Talend DI,Functionality,8.791666667,,,
+All products,TimeXtender,Functionality,6,,,
+All products,Peer Group Average,Functionality,5.274662095,,,
+All products,Alation Data Catalog,Adaptability,4.52173913,,,
+All products,Amazon RedShift,Adaptability,5.548913043,,,
+All products,AnalyticsCreator,Adaptability,8.630434783,,,
+All products,Collibra DI Cloud,Adaptability,5.035326087,,,
+All products,dataspot.,Adaptability,7.998327759,,,
+All products,Exasol,Adaptability,7.970108696,,,
+All products,Google BigQuery,Adaptability,7.089673913,,,
+All products,Informatica EDC,Adaptability,4.179347826,,,
+All products,Informatica PowerCen.,Adaptability,6.747282609,,,
+All products,MS Azure Data Factory,Adaptability,7.60326087,,,
+All products,MS Azure Synapse,Adaptability,7.60326087,,,
+All products,MS SQL Server,Adaptability,6.119565217,,,
+All products,MS SSIS,Adaptability,4.477079395,,,
+All products,Oracle Data Integrator,Adaptability,5.035326087,,,
+All products,Oracle Database,Adaptability,7.062643021,,,
+All products,Qlik Data Integration,Adaptability,7.032608696,,,
+All products,SAP BW/4HANA,Adaptability,6.319293478,,,
+All products,SAP DI,Adaptability,4.864130435,,,
+All products,SAP DWC,Adaptability,8.245244565,,,
+All products,Snowflake CDP,Adaptability,8.537055336,,,
+All products,Synabi D-QUANTUM,Adaptability,8.158490012,,,
+All products,Talend DI,Adaptability,7.089673913,,,
+All products,TimeXtender,Adaptability,7.301150895,,,
+All products,Peer Group Average,Adaptability,6.659562462,,,
+All products,Alation Data Catalog,Technical Capability,6.360208907,,,
+All products,Amazon RedShift,Technical Capability,6.610673771,,,
+All products,AnalyticsCreator,Technical Capability,8.694271912,,,
+All products,Collibra DI Cloud,Technical Capability,2.490407841,,,
+All products,dataspot.,Technical Capability,8.262598855,,,
+All products,Exasol,Technical Capability,8.119725726,,,
+All products,Google BigQuery,Technical Capability,5.882783705,,,
+All products,Informatica EDC,Technical Capability,6.658248612,,,
+All products,Informatica PowerCen.,Technical Capability,6.881566761,,,
+All products,MS Azure Data Factory,Technical Capability,6.285664071,,,
+All products,MS Azure Synapse,Technical Capability,5.901428785,,,
+All products,MS SQL Server,Technical Capability,5.695839742,,,
+All products,MS SSIS,Technical Capability,3.646030768,,,
+All products,Oracle Data Integrator,Technical Capability,5.901908032,,,
+All products,Oracle Database,Technical Capability,6.965020429,,,
+All products,Qlik Data Integration,Technical Capability,6.243594828,,,
+All products,SAP BW/4HANA,Technical Capability,5.800121438,,,
+All products,SAP DI,Technical Capability,4.256913414,,,
+All products,SAP DWC,Technical Capability,7.042043438,,,
+All products,Snowflake CDP,Technical Capability,6.580167462,,,
+All products,Synabi D-QUANTUM,Technical Capability,6.934861289,,,
+All products,Talend DI,Technical Capability,8.465999454,,,
+All products,TimeXtender,Technical Capability,7.409481002,,,
+All products,Peer Group Average,Technical Capability,6.395198271,,,
+Cloud Data Warehousing,Amazon RedShift,Price to Value,7.700729927,,,
+Cloud Data Warehousing,Google BigQuery,Price to Value,10,,,
+Cloud Data Warehousing,MS Azure Synapse,Price to Value,8.817518248,,,
+Cloud Data Warehousing,SAP DWC,Price to Value,8.044357103,,,
+Cloud Data Warehousing,Snowflake CDP,Price to Value,9.131614964,,,
+Cloud Data Warehousing,Peer Group Average,Price to Value,8.738844048,,,
+Cloud Data Warehousing,Amazon RedShift,Time to Market,5.842180775,,,
+Cloud Data Warehousing,Google BigQuery,Time to Market,6.905561651,,,
+Cloud Data Warehousing,MS Azure Synapse,Time to Market,6.164992826,,,
+Cloud Data Warehousing,SAP DWC,Time to Market,9.909612626,,,
+Cloud Data Warehousing,Snowflake CDP,Time to Market,9.005738881,,,
+Cloud Data Warehousing,Peer Group Average,Time to Market,7.565617352,,,
+Cloud Data Warehousing,Amazon RedShift,Recommendation,1.4,,,
+Cloud Data Warehousing,Google BigQuery,Recommendation,4.811764706,,,
+Cloud Data Warehousing,MS Azure Synapse,Recommendation,2.542857143,,,
+Cloud Data Warehousing,SAP DWC,Recommendation,3.945454545,,,
+Cloud Data Warehousing,Snowflake CDP,Recommendation,8.65,,,
+Cloud Data Warehousing,Peer Group Average,Recommendation,4.270015279,,,
+Cloud Data Warehousing,Amazon RedShift,Product Satisfaction,3.934782609,,,
+Cloud Data Warehousing,Google BigQuery,Product Satisfaction,6.04076087,,,
+Cloud Data Warehousing,MS Azure Synapse,Product Satisfaction,7.184006211,,,
+Cloud Data Warehousing,SAP DWC,Product Satisfaction,4.394268775,,,
+Cloud Data Warehousing,Snowflake CDP,Product Satisfaction,9.147078804,,,
+Cloud Data Warehousing,Peer Group Average,Product Satisfaction,6.140179454,,,
+Cloud Data Warehousing,Amazon RedShift,Support Quality,5.655172414,,,
+Cloud Data Warehousing,Google BigQuery,Support Quality,1,,,
+Cloud Data Warehousing,MS Azure Synapse,Support Quality,4.742393509,,,
+Cloud Data Warehousing,SAP DWC,Support Quality,5.929006085,,,
+Cloud Data Warehousing,Snowflake CDP,Support Quality,5.618661258,,,
+Cloud Data Warehousing,Peer Group Average,Support Quality,4.589046653,,,
+Cloud Data Warehousing,Amazon RedShift,Customer Satisfaction,4.481055903,,,
+Cloud Data Warehousing,Google BigQuery,Customer Satisfaction,6.132793916,,,
+Cloud Data Warehousing,MS Azure Synapse,Customer Satisfaction,5.670399951,,,
+Cloud Data Warehousing,SAP DWC,Customer Satisfaction,6.246184673,,,
+Cloud Data Warehousing,Snowflake CDP,Customer Satisfaction,8.613752656,,,
+Cloud Data Warehousing,Peer Group Average,Customer Satisfaction,6.22883742,,,
+Cloud Data Warehousing,Amazon RedShift,Performance,1.178060413,,,
+Cloud Data Warehousing,Google BigQuery,Performance,5.515103339,,,
+Cloud Data Warehousing,MS Azure Synapse,Performance,5.120826709,,,
+Cloud Data Warehousing,SAP DWC,Performance,3.124801272,,,
+Cloud Data Warehousing,Snowflake CDP,Performance,10,,,
+Cloud Data Warehousing,Peer Group Average,Performance,4.987758347,,,
+Cloud Data Warehousing,Amazon RedShift,Platform Reliability,7.732954545,,,
+Cloud Data Warehousing,Google BigQuery,Platform Reliability,8.926136364,,,
+Cloud Data Warehousing,MS Azure Synapse,Platform Reliability,1,,,
+Cloud Data Warehousing,SAP DWC,Platform Reliability,5.122869318,,,
+Cloud Data Warehousing,Snowflake CDP,Platform Reliability,9.821022727,,,
+Cloud Data Warehousing,Peer Group Average,Platform Reliability,6.520596591,,,
+Cloud Data Warehousing,Amazon RedShift,Development Efficiency,8.899483134,,,
+Cloud Data Warehousing,Google BigQuery,Development Efficiency,4.981821673,,,
+Cloud Data Warehousing,MS Azure Synapse,Development Efficiency,2.410228509,,,
+Cloud Data Warehousing,SAP DWC,Development Efficiency,5.639331289,,,
+Cloud Data Warehousing,Snowflake CDP,Development Efficiency,7.328400435,,,
+Cloud Data Warehousing,Peer Group Average,Development Efficiency,5.851853008,,,
+Cloud Data Warehousing,Amazon RedShift,Usability,8.744565217,,,
+Cloud Data Warehousing,Google BigQuery,Usability,4.75,,,
+Cloud Data Warehousing,MS Azure Synapse,Usability,1,,,
+Cloud Data Warehousing,SAP DWC,Usability,8.381422925,,,
+Cloud Data Warehousing,Snowflake CDP,Usability,8.288043478,,,
+Cloud Data Warehousing,Peer Group Average,Usability,6.232806324,,,
+Cloud Data Warehousing,Amazon RedShift,Customer Experience,6.482453154,,,
+Cloud Data Warehousing,Google BigQuery,Customer Experience,5.631426627,,,
+Cloud Data Warehousing,MS Azure Synapse,Customer Experience,2.580301491,,,
+Cloud Data Warehousing,SAP DWC,Customer Experience,5.630568613,,,
+Cloud Data Warehousing,Snowflake CDP,Customer Experience,8.721987222,,,
+Cloud Data Warehousing,Peer Group Average,Customer Experience,5.809347421,,,
+Cloud Data Warehousing,Amazon RedShift,Product Enhancement,9.621621622,,,
+Cloud Data Warehousing,Google BigQuery,Product Enhancement,8.445945946,,,
+Cloud Data Warehousing,MS Azure Synapse,Product Enhancement,7.158301158,,,
+Cloud Data Warehousing,SAP DWC,Product Enhancement,9.8744551,,,
+Cloud Data Warehousing,Snowflake CDP,Product Enhancement,7.158301158,,,
+Cloud Data Warehousing,Peer Group Average,Product Enhancement,8.451724997,,,
+Cloud Data Warehousing,Amazon RedShift,Automation,5.291086351,,,
+Cloud Data Warehousing,Google BigQuery,Automation,9.038997214,,,
+Cloud Data Warehousing,MS Azure Synapse,Automation,6.18344608,,,
+Cloud Data Warehousing,SAP DWC,Automation,6.454231102,,,
+Cloud Data Warehousing,Snowflake CDP,Automation,4.398726622,,,
+Cloud Data Warehousing,Peer Group Average,Automation,6.273297474,,,
+Cloud Data Warehousing,Amazon RedShift,Innovation,7.456353986,,,
+Cloud Data Warehousing,Google BigQuery,Innovation,8.74247158,,,
+Cloud Data Warehousing,MS Azure Synapse,Innovation,6.670873619,,,
+Cloud Data Warehousing,SAP DWC,Innovation,8.164343101,,,
+Cloud Data Warehousing,Snowflake CDP,Innovation,5.77851389,,,
+Cloud Data Warehousing,Peer Group Average,Innovation,7.362511235,,,
+Cloud Data Warehousing,Amazon RedShift,Connectivity,7.50533049,,,
+Cloud Data Warehousing,Google BigQuery,Connectivity,5.48024583,,,
+Cloud Data Warehousing,MS Azure Synapse,Connectivity,7.291501675,,,
+Cloud Data Warehousing,SAP DWC,Connectivity,8.464219083,,,
+Cloud Data Warehousing,Snowflake CDP,Connectivity,7.411780384,,,
+Cloud Data Warehousing,Peer Group Average,Connectivity,7.230615492,,,
+Cloud Data Warehousing,Amazon RedShift,Functionality,6.777777778,,,
+Cloud Data Warehousing,Google BigQuery,Functionality,5.078431373,,,
+Cloud Data Warehousing,MS Azure Synapse,Functionality,2.80952381,,,
+Cloud Data Warehousing,SAP DWC,Functionality,4.416666667,,,
+Cloud Data Warehousing,Snowflake CDP,Functionality,3.791666667,,,
+Cloud Data Warehousing,Peer Group Average,Functionality,4.574813259,,,
+Cloud Data Warehousing,Amazon RedShift,Adaptability,5.548913043,,,
+Cloud Data Warehousing,Google BigQuery,Adaptability,7.089673913,,,
+Cloud Data Warehousing,MS Azure Synapse,Adaptability,7.60326087,,,
+Cloud Data Warehousing,SAP DWC,Adaptability,8.245244565,,,
+Cloud Data Warehousing,Snowflake CDP,Adaptability,8.537055336,,,
+Cloud Data Warehousing,Peer Group Average,Adaptability,7.404829545,,,
+Cloud Data Warehousing,Amazon RedShift,Technical Capability,6.610673771,,,
+Cloud Data Warehousing,Google BigQuery,Technical Capability,5.882783705,,,
+Cloud Data Warehousing,MS Azure Synapse,Technical Capability,5.901428785,,,
+Cloud Data Warehousing,SAP DWC,Technical Capability,7.042043438,,,
+Cloud Data Warehousing,Snowflake CDP,Technical Capability,6.580167462,,,
+Cloud Data Warehousing,Peer Group Average,Technical Capability,6.403419432,,,
+Data Access Engines,Amazon RedShift,Price to Value,7.700729927,,,
+Data Access Engines,Exasol,Price to Value,9.141747116,,,
+Data Access Engines,Google BigQuery,Price to Value,10,,,
+Data Access Engines,MS Azure Synapse,Price to Value,8.817518248,,,
+Data Access Engines,MS SQL Server,Price to Value,7.732456868,,,
+Data Access Engines,Oracle Database,Price to Value,2.451824818,,,
+Data Access Engines,SAP BW/4HANA,Price to Value,4.270594369,,,
+Data Access Engines,SAP DWC,Price to Value,8.044357103,,,
+Data Access Engines,Snowflake CDP,Price to Value,9.131614964,,,
+Data Access Engines,Peer Group Average,Price to Value,7.476760379,,,
+Data Access Engines,Amazon RedShift,Time to Market,5.842180775,,,
+Data Access Engines,Exasol,Time to Market,8.644189383,,,
+Data Access Engines,Google BigQuery,Time to Market,6.905561651,,,
+Data Access Engines,MS Azure Synapse,Time to Market,6.164992826,,,
+Data Access Engines,MS SQL Server,Time to Market,4.82921882,,,
+Data Access Engines,Oracle Database,Time to Market,2.136298422,,,
+Data Access Engines,SAP BW/4HANA,Time to Market,5.106469587,,,
+Data Access Engines,SAP DWC,Time to Market,9.909612626,,,
+Data Access Engines,Snowflake CDP,Time to Market,9.005738881,,,
+Data Access Engines,Peer Group Average,Time to Market,6.504918108,,,
+Data Access Engines,Amazon RedShift,Recommendation,1.4,,,
+Data Access Engines,Exasol,Recommendation,5.581818182,,,
+Data Access Engines,Google BigQuery,Recommendation,4.811764706,,,
+Data Access Engines,MS Azure Synapse,Recommendation,2.542857143,,,
+Data Access Engines,MS SQL Server,Recommendation,2.039175258,,,
+Data Access Engines,Oracle Database,Recommendation,1.9,,,
+Data Access Engines,SAP BW/4HANA,Recommendation,1.8,,,
+Data Access Engines,SAP DWC,Recommendation,3.945454545,,,
+Data Access Engines,Snowflake CDP,Recommendation,8.65,,,
+Data Access Engines,Peer Group Average,Recommendation,3.63011887,,,
+Data Access Engines,Amazon RedShift,Product Satisfaction,3.934782609,,,
+Data Access Engines,Exasol,Product Satisfaction,7.84041502,,,
+Data Access Engines,Google BigQuery,Product Satisfaction,6.04076087,,,
+Data Access Engines,MS Azure Synapse,Product Satisfaction,7.184006211,,,
+Data Access Engines,MS SQL Server,Product Satisfaction,4.012145075,,,
+Data Access Engines,Oracle Database,Product Satisfaction,3.4609375,,,
+Data Access Engines,SAP BW/4HANA,Product Satisfaction,4.10326087,,,
+Data Access Engines,SAP DWC,Product Satisfaction,4.394268775,,,
+Data Access Engines,Snowflake CDP,Product Satisfaction,9.147078804,,,
+Data Access Engines,Peer Group Average,Product Satisfaction,5.568628415,,,
+Data Access Engines,Amazon RedShift,Support Quality,5.655172414,,,
+Data Access Engines,Exasol,Support Quality,7.132214641,,,
+Data Access Engines,Google BigQuery,Support Quality,1,,,
+Data Access Engines,MS Azure Synapse,Support Quality,4.742393509,,,
+Data Access Engines,MS SQL Server,Support Quality,2.989858012,,,
+Data Access Engines,Oracle Database,Support Quality,4.481599536,,,
+Data Access Engines,SAP BW/4HANA,Support Quality,4.279325187,,,
+Data Access Engines,SAP DWC,Support Quality,5.929006085,,,
+Data Access Engines,Snowflake CDP,Support Quality,5.618661258,,,
+Data Access Engines,Peer Group Average,Support Quality,4.647581182,,,
+Data Access Engines,Amazon RedShift,Customer Satisfaction,4.481055903,,,
+Data Access Engines,Exasol,Customer Satisfaction,7.513037222,,,
+Data Access Engines,Google BigQuery,Customer Satisfaction,6.132793916,,,
+Data Access Engines,MS Azure Synapse,Customer Satisfaction,5.670399951,,,
+Data Access Engines,MS SQL Server,Customer Satisfaction,4.225502531,,,
+Data Access Engines,Oracle Database,Customer Satisfaction,2.627972102,,,
+Data Access Engines,SAP BW/4HANA,Customer Satisfaction,3.663997484,,,
+Data Access Engines,SAP DWC,Customer Satisfaction,6.246184673,,,
+Data Access Engines,Snowflake CDP,Customer Satisfaction,8.613752656,,,
+Data Access Engines,Peer Group Average,Customer Satisfaction,5.46385516,,,
+Data Access Engines,Amazon RedShift,Performance,1.178060413,,,
+Data Access Engines,Exasol,Performance,9.778219396,,,
+Data Access Engines,Google BigQuery,Performance,5.515103339,,,
+Data Access Engines,MS Azure Synapse,Performance,5.120826709,,,
+Data Access Engines,MS SQL Server,Performance,3.790143084,,,
+Data Access Engines,Oracle Database,Performance,4.899046105,,,
+Data Access Engines,SAP BW/4HANA,Performance,4.963116057,,,
+Data Access Engines,SAP DWC,Performance,3.124801272,,,
+Data Access Engines,Snowflake CDP,Performance,10,,,
+Data Access Engines,Peer Group Average,Performance,5.374368486,,,
+Data Access Engines,Amazon RedShift,Platform Reliability,7.732954545,,,
+Data Access Engines,Exasol,Platform Reliability,9.902376033,,,
+Data Access Engines,Google BigQuery,Platform Reliability,8.926136364,,,
+Data Access Engines,MS Azure Synapse,Platform Reliability,1,,,
+Data Access Engines,MS SQL Server,Platform Reliability,7.30415483,,,
+Data Access Engines,Oracle Database,Platform Reliability,9.149857955,,,
+Data Access Engines,SAP BW/4HANA,Platform Reliability,8.210227273,,,
+Data Access Engines,SAP DWC,Platform Reliability,5.122869318,,,
+Data Access Engines,Snowflake CDP,Platform Reliability,9.821022727,,,
+Data Access Engines,Peer Group Average,Platform Reliability,7.463288783,,,
+Data Access Engines,Amazon RedShift,Development Efficiency,8.899483134,,,
+Data Access Engines,Exasol,Development Efficiency,7.592210424,,,
+Data Access Engines,Google BigQuery,Development Efficiency,4.981821673,,,
+Data Access Engines,MS Azure Synapse,Development Efficiency,2.410228509,,,
+Data Access Engines,MS SQL Server,Development Efficiency,4.927644851,,,
+Data Access Engines,Oracle Database,Development Efficiency,5.495103373,,,
+Data Access Engines,SAP BW/4HANA,Development Efficiency,5.639331289,,,
+Data Access Engines,SAP DWC,Development Efficiency,5.639331289,,,
+Data Access Engines,Snowflake CDP,Development Efficiency,7.328400435,,,
+Data Access Engines,Peer Group Average,Development Efficiency,5.879283886,,,
+Data Access Engines,Amazon RedShift,Usability,8.744565217,,,
+Data Access Engines,Exasol,Usability,8.311656672,,,
+Data Access Engines,Google BigQuery,Usability,4.75,,,
+Data Access Engines,MS Azure Synapse,Usability,1,,,
+Data Access Engines,MS SQL Server,Usability,6.067794711,,,
+Data Access Engines,Oracle Database,Usability,5.677309783,,,
+Data Access Engines,SAP BW/4HANA,Usability,4.407608696,,,
+Data Access Engines,SAP DWC,Usability,8.381422925,,,
+Data Access Engines,Snowflake CDP,Usability,8.288043478,,,
+Data Access Engines,Peer Group Average,Usability,6.180933498,,,
+Data Access Engines,Amazon RedShift,Customer Experience,6.482453154,,,
+Data Access Engines,Exasol,Customer Experience,8.752364145,,,
+Data Access Engines,Google BigQuery,Customer Experience,5.631426627,,,
+Data Access Engines,MS Azure Synapse,Customer Experience,2.580301491,,,
+Data Access Engines,MS SQL Server,Customer Experience,5.267902875,,,
+Data Access Engines,Oracle Database,Customer Experience,5.898968068,,,
+Data Access Engines,SAP BW/4HANA,Customer Experience,5.461477051,,,
+Data Access Engines,SAP DWC,Customer Experience,5.630568613,,,
+Data Access Engines,Snowflake CDP,Customer Experience,8.721987222,,,
+Data Access Engines,Peer Group Average,Customer Experience,6.047494361,,,
+Data Access Engines,Amazon RedShift,Product Enhancement,9.621621622,,,
+Data Access Engines,Exasol,Product Enhancement,5.545945946,,,
+Data Access Engines,Google BigQuery,Product Enhancement,8.445945946,,,
+Data Access Engines,MS Azure Synapse,Product Enhancement,7.158301158,,,
+Data Access Engines,MS SQL Server,Product Enhancement,4.70990991,,,
+Data Access Engines,Oracle Database,Product Enhancement,3.246846847,,,
+Data Access Engines,SAP BW/4HANA,Product Enhancement,4.918918919,,,
+Data Access Engines,SAP DWC,Product Enhancement,9.8744551,,,
+Data Access Engines,Snowflake CDP,Product Enhancement,7.158301158,,,
+Data Access Engines,Peer Group Average,Product Enhancement,6.742249623,,,
+Data Access Engines,Amazon RedShift,Automation,5.291086351,,,
+Data Access Engines,Exasol,Automation,9.626904801,,,
+Data Access Engines,Google BigQuery,Automation,9.038997214,,,
+Data Access Engines,MS Azure Synapse,Automation,6.18344608,,,
+Data Access Engines,MS SQL Server,Automation,6.811323288,,,
+Data Access Engines,Oracle Database,Automation,5.194986072,,,
+Data Access Engines,SAP BW/4HANA,Automation,4.791364903,,,
+Data Access Engines,SAP DWC,Automation,6.454231102,,,
+Data Access Engines,Snowflake CDP,Automation,4.398726622,,,
+Data Access Engines,Peer Group Average,Automation,6.421229604,,,
+Data Access Engines,Amazon RedShift,Innovation,7.456353986,,,
+Data Access Engines,Exasol,Innovation,7.586425373,,,
+Data Access Engines,Google BigQuery,Innovation,8.74247158,,,
+Data Access Engines,MS Azure Synapse,Innovation,6.670873619,,,
+Data Access Engines,MS SQL Server,Innovation,5.760616599,,,
+Data Access Engines,Oracle Database,Innovation,4.22091646,,,
+Data Access Engines,SAP BW/4HANA,Innovation,4.855141911,,,
+Data Access Engines,SAP DWC,Innovation,8.164343101,,,
+Data Access Engines,Snowflake CDP,Innovation,5.77851389,,,
+Data Access Engines,Peer Group Average,Innovation,6.581739613,,,
+Data Access Engines,Amazon RedShift,Connectivity,7.50533049,,,
+Data Access Engines,Exasol,Connectivity,7.819176009,,,
+Data Access Engines,Google BigQuery,Connectivity,5.48024583,,,
+Data Access Engines,MS Azure Synapse,Connectivity,7.291501675,,,
+Data Access Engines,MS SQL Server,Connectivity,7.384620675,,,
+Data Access Engines,Oracle Database,Connectivity,8.478251599,,,
+Data Access Engines,SAP BW/4HANA,Connectivity,5.858848614,,,
+Data Access Engines,SAP DWC,Connectivity,8.464219083,,,
+Data Access Engines,Snowflake CDP,Connectivity,7.411780384,,,
+Data Access Engines,Peer Group Average,Connectivity,7.299330484,,,
+Data Access Engines,Amazon RedShift,Functionality,6.777777778,,,
+Data Access Engines,Exasol,Functionality,8.569892473,,,
+Data Access Engines,Google BigQuery,Functionality,5.078431373,,,
+Data Access Engines,MS Azure Synapse,Functionality,2.80952381,,,
+Data Access Engines,MS SQL Server,Functionality,3.583333333,,,
+Data Access Engines,Oracle Database,Functionality,5.354166667,,,
+Data Access Engines,SAP BW/4HANA,Functionality,5.222222222,,,
+Data Access Engines,SAP DWC,Functionality,4.416666667,,,
+Data Access Engines,Snowflake CDP,Functionality,3.791666667,,,
+Data Access Engines,Peer Group Average,Functionality,5.067075665,,,
+Data Access Engines,Amazon RedShift,Adaptability,5.548913043,,,
+Data Access Engines,Exasol,Adaptability,7.970108696,,,
+Data Access Engines,Google BigQuery,Adaptability,7.089673913,,,
+Data Access Engines,MS Azure Synapse,Adaptability,7.60326087,,,
+Data Access Engines,MS SQL Server,Adaptability,6.119565217,,,
+Data Access Engines,Oracle Database,Adaptability,7.062643021,,,
+Data Access Engines,SAP BW/4HANA,Adaptability,6.319293478,,,
+Data Access Engines,SAP DWC,Adaptability,8.245244565,,,
+Data Access Engines,Snowflake CDP,Adaptability,8.537055336,,,
+Data Access Engines,Peer Group Average,Adaptability,7.166195349,,,
+Data Access Engines,Amazon RedShift,Technical Capability,6.610673771,,,
+Data Access Engines,Exasol,Technical Capability,8.119725726,,,
+Data Access Engines,Google BigQuery,Technical Capability,5.882783705,,,
+Data Access Engines,MS Azure Synapse,Technical Capability,5.901428785,,,
+Data Access Engines,MS SQL Server,Technical Capability,5.695839742,,,
+Data Access Engines,Oracle Database,Technical Capability,6.965020429,,,
+Data Access Engines,SAP BW/4HANA,Technical Capability,5.800121438,,,
+Data Access Engines,SAP DWC,Technical Capability,7.042043438,,,
+Data Access Engines,Snowflake CDP,Technical Capability,6.580167462,,,
+Data Access Engines,Peer Group Average,Technical Capability,6.510867166,,,
+Data Governance Products,Alation Data Catalog,Price to Value,7.886861314,,,
+Data Governance Products,Collibra DI Cloud,Price to Value,5.601167883,,,
+Data Governance Products,dataspot.,Price to Value,9.655109489,,,
+Data Governance Products,Informatica EDC,Price to Value,5.467153285,,,
+Data Governance Products,Qlik Data Integration,Price to Value,8.259124088,,,
+Data Governance Products,SAP DI,Price to Value,6.304744526,,,
+Data Governance Products,Synabi D-QUANTUM,Price to Value,8.665228932,,,
+Data Governance Products,Peer Group Average,Price to Value,7.405627074,,,
+Data Governance Products,Alation Data Catalog,Time to Market,6.972022956,,,
+Data Governance Products,Collibra DI Cloud,Time to Market,1,,,
+Data Governance Products,dataspot.,Time to Market,10,,,
+Data Governance Products,Informatica EDC,Time to Market,5.136029412,,,
+Data Governance Products,Qlik Data Integration,Time to Market,7.348637016,,,
+Data Governance Products,SAP DI,Time to Market,6.746054519,,,
+Data Governance Products,Synabi D-QUANTUM,Time to Market,7.599713056,,,
+Data Governance Products,Peer Group Average,Time to Market,6.400350994,,,
+Data Governance Products,Alation Data Catalog,Recommendation,8.8,,,
+Data Governance Products,Collibra DI Cloud,Recommendation,3.4,,,
+Data Governance Products,dataspot.,Recommendation,10,,,
+Data Governance Products,Informatica EDC,Recommendation,3.025,,,
+Data Governance Products,Qlik Data Integration,Recommendation,1.4,,,
+Data Governance Products,SAP DI,Recommendation,1,,,
+Data Governance Products,Synabi D-QUANTUM,Recommendation,5.452631579,,,
+Data Governance Products,Peer Group Average,Recommendation,4.72537594,,,
+Data Governance Products,Alation Data Catalog,Product Satisfaction,6.135869565,,,
+Data Governance Products,Collibra DI Cloud,Product Satisfaction,1.969202899,,,
+Data Governance Products,dataspot.,Product Satisfaction,10,,,
+Data Governance Products,Informatica EDC,Product Satisfaction,1.249660326,,,
+Data Governance Products,Qlik Data Integration,Product Satisfaction,3.092391304,,,
+Data Governance Products,SAP DI,Product Satisfaction,1.227096273,,,
+Data Governance Products,Synabi D-QUANTUM,Product Satisfaction,6.656354515,,,
+Data Governance Products,Peer Group Average,Product Satisfaction,4.332939269,,,
+Data Governance Products,Alation Data Catalog,Support Quality,5.180527383,,,
+Data Governance Products,Collibra DI Cloud,Support Quality,6.034326728,,,
+Data Governance Products,dataspot.,Support Quality,10,,,
+Data Governance Products,Informatica EDC,Support Quality,4.012170385,,,
+Data Governance Products,Qlik Data Integration,Support Quality,1.334685598,,,
+Data Governance Products,SAP DI,Support Quality,2.113590264,,,
+Data Governance Products,Synabi D-QUANTUM,Support Quality,8.739404292,,,
+Data Governance Products,Peer Group Average,Support Quality,5.344957807,,,
+Data Governance Products,Alation Data Catalog,Customer Satisfaction,7.357003505,,,
+Data Governance Products,Collibra DI Cloud,Customer Satisfaction,3.337506829,,,
+Data Governance Products,dataspot.,Customer Satisfaction,9.931021898,,,
+Data Governance Products,Informatica EDC,Customer Satisfaction,3.679285643,,,
+Data Governance Products,Qlik Data Integration,Customer Satisfaction,4.293499041,,,
+Data Governance Products,SAP DI,Customer Satisfaction,3.36693809,,,
+Data Governance Products,Synabi D-QUANTUM,Customer Satisfaction,7.093989203,,,
+Data Governance Products,Peer Group Average,Customer Satisfaction,5.57989203,,,
+Data Governance Products,Alation Data Catalog,Performance,4.411128776,,,
+Data Governance Products,Collibra DI Cloud,Performance,3.806571277,,,
+Data Governance Products,dataspot.,Performance,8.432750397,,,
+Data Governance Products,Informatica EDC,Performance,4.106972519,,,
+Data Governance Products,Qlik Data Integration,Performance,4.33227345,,,
+Data Governance Products,SAP DI,Performance,2.391219274,,,
+Data Governance Products,Synabi D-QUANTUM,Performance,3.813488411,,,
+Data Governance Products,Peer Group Average,Performance,4.470629158,,,
+Data Governance Products,Alation Data Catalog,Platform Reliability,6.957386364,,,
+Data Governance Products,Collibra DI Cloud,Platform Reliability,8.130681818,,,
+Data Governance Products,dataspot.,Platform Reliability,10,,,
+Data Governance Products,Informatica EDC,Platform Reliability,3.914772727,,,
+Data Governance Products,Qlik Data Integration,Platform Reliability,7.732954545,,,
+Data Governance Products,SAP DI,Platform Reliability,5.21875,,,
+Data Governance Products,Synabi D-QUANTUM,Platform Reliability,8.266746411,,,
+Data Governance Products,Peer Group Average,Platform Reliability,7.174470267,,,
+Data Governance Products,Alation Data Catalog,Development Efficiency,7.289367325,,,
+Data Governance Products,Collibra DI Cloud,Development Efficiency,4.596082699,,,
+Data Governance Products,dataspot.,Development Efficiency,10,,,
+Data Governance Products,Informatica EDC,Development Efficiency,8.557943417,,,
+Data Governance Products,Qlik Data Integration,Development Efficiency,6.964091404,,,
+Data Governance Products,SAP DI,Development Efficiency,3.19089072,,,
+Data Governance Products,Synabi D-QUANTUM,Development Efficiency,7.653324707,,,
+Data Governance Products,Peer Group Average,Development Efficiency,6.893100039,,,
+Data Governance Products,Alation Data Catalog,Usability,6.940568022,,,
+Data Governance Products,Collibra DI Cloud,Usability,3.22826087,,,
+Data Governance Products,dataspot.,Usability,10,,,
+Data Governance Products,Informatica EDC,Usability,5.356317935,,,
+Data Governance Products,Qlik Data Integration,Usability,5.891304348,,,
+Data Governance Products,SAP DI,Usability,6.576086957,,,
+Data Governance Products,Synabi D-QUANTUM,Usability,7.738415332,,,
+Data Governance Products,Peer Group Average,Usability,6.532993352,,,
+Data Governance Products,Alation Data Catalog,Customer Experience,6.319930659,,,
+Data Governance Products,Collibra DI Cloud,Customer Experience,4.484644501,,,
+Data Governance Products,dataspot.,Customer Experience,9.552214399,,,
+Data Governance Products,Informatica EDC,Customer Experience,5.70817721,,,
+Data Governance Products,Qlik Data Integration,Customer Experience,6.015470421,,,
+Data Governance Products,SAP DI,Customer Experience,4.219306271,,,
+Data Governance Products,Synabi D-QUANTUM,Customer Experience,6.668171901,,,
+Data Governance Products,Peer Group Average,Customer Experience,6.138273623,,,
+Data Governance Products,Alation Data Catalog,Product Enhancement,8.863121186,,,
+Data Governance Products,Collibra DI Cloud,Product Enhancement,4.570570571,,,
+Data Governance Products,dataspot.,Product Enhancement,10,,,
+Data Governance Products,Informatica EDC,Product Enhancement,6.71042471,,,
+Data Governance Products,Qlik Data Integration,Product Enhancement,6.660660661,,,
+Data Governance Products,SAP DI,Product Enhancement,4.396396396,,,
+Data Governance Products,Synabi D-QUANTUM,Product Enhancement,6.698319942,,,
+Data Governance Products,Peer Group Average,Product Enhancement,6.842784781,,,
+Data Governance Products,Alation Data Catalog,Automation,7.116991643,,,
+Data Governance Products,Collibra DI Cloud,Automation,1,,,
+Data Governance Products,dataspot.,Automation,7.539832869,,,
+Data Governance Products,Informatica EDC,Automation,5.963788301,,,
+Data Governance Products,Qlik Data Integration,Automation,9.038997214,,,
+Data Governance Products,SAP DI,Automation,7.116991643,,,
+Data Governance Products,Synabi D-QUANTUM,Automation,6.94339114,,,
+Data Governance Products,Peer Group Average,Automation,6.388570402,,,
+Data Governance Products,Alation Data Catalog,Innovation,7.990056415,,,
+Data Governance Products,Collibra DI Cloud,Innovation,2.785285285,,,
+Data Governance Products,dataspot.,Innovation,8.769916435,,,
+Data Governance Products,Informatica EDC,Innovation,6.337106506,,,
+Data Governance Products,Qlik Data Integration,Innovation,7.849828938,,,
+Data Governance Products,SAP DI,Innovation,5.75669402,,,
+Data Governance Products,Synabi D-QUANTUM,Innovation,6.820855541,,,
+Data Governance Products,Peer Group Average,Innovation,6.615677591,,,
+Data Governance Products,Alation Data Catalog,Connectivity,7.601898342,,,
+Data Governance Products,Collibra DI Cloud,Connectivity,1,,,
+Data Governance Products,dataspot.,Connectivity,6.789468805,,,
+Data Governance Products,Informatica EDC,Connectivity,8.253731343,,,
+Data Governance Products,Qlik Data Integration,Connectivity,8.253731343,,,
+Data Governance Products,SAP DI,Connectivity,6.906609808,,,
+Data Governance Products,Synabi D-QUANTUM,Connectivity,6.979427188,,,
+Data Governance Products,Peer Group Average,Connectivity,6.540695261,,,
+Data Governance Products,Alation Data Catalog,Functionality,6.956989247,,,
+Data Governance Products,Collibra DI Cloud,Functionality,1.435897436,,,
+Data Governance Products,dataspot.,Functionality,10,,,
+Data Governance Products,Informatica EDC,Functionality,7.541666667,,,
+Data Governance Products,Qlik Data Integration,Functionality,3.444444444,,,
+Data Governance Products,SAP DI,Functionality,1,,,
+Data Governance Products,Synabi D-QUANTUM,Functionality,5.666666667,,,
+Data Governance Products,Peer Group Average,Functionality,5.149380637,,,
+Data Governance Products,Alation Data Catalog,Adaptability,4.52173913,,,
+Data Governance Products,Collibra DI Cloud,Adaptability,5.035326087,,,
+Data Governance Products,dataspot.,Adaptability,7.998327759,,,
+Data Governance Products,Informatica EDC,Adaptability,4.179347826,,,
+Data Governance Products,Qlik Data Integration,Adaptability,7.032608696,,,
+Data Governance Products,SAP DI,Adaptability,4.864130435,,,
+Data Governance Products,Synabi D-QUANTUM,Adaptability,8.158490012,,,
+Data Governance Products,Peer Group Average,Adaptability,5.969995706,,,
+Data Governance Products,Alation Data Catalog,Technical Capability,6.360208907,,,
+Data Governance Products,Collibra DI Cloud,Technical Capability,2.490407841,,,
+Data Governance Products,dataspot.,Technical Capability,8.262598855,,,
+Data Governance Products,Informatica EDC,Technical Capability,6.658248612,,,
+Data Governance Products,Qlik Data Integration,Technical Capability,6.243594828,,,
+Data Governance Products,SAP DI,Technical Capability,4.256913414,,,
+Data Governance Products,Synabi D-QUANTUM,Technical Capability,6.934861289,,,
+Data Governance Products,Peer Group Average,Technical Capability,5.886690535,,,
+Data Intelligence Platforms,Alation Data Catalog,Price to Value,7.886861314,,,
+Data Intelligence Platforms,Collibra DI Cloud,Price to Value,5.601167883,,,
+Data Intelligence Platforms,Informatica EDC,Price to Value,5.467153285,,,
+Data Intelligence Platforms,Qlik Data Integration,Price to Value,8.259124088,,,
+Data Intelligence Platforms,SAP DI,Price to Value,6.304744526,,,
+Data Intelligence Platforms,Peer Group Average,Price to Value,6.703810219,,,
+Data Intelligence Platforms,Alation Data Catalog,Time to Market,6.972022956,,,
+Data Intelligence Platforms,Collibra DI Cloud,Time to Market,1,,,
+Data Intelligence Platforms,Informatica EDC,Time to Market,5.136029412,,,
+Data Intelligence Platforms,Qlik Data Integration,Time to Market,7.348637016,,,
+Data Intelligence Platforms,SAP DI,Time to Market,6.746054519,,,
+Data Intelligence Platforms,Peer Group Average,Time to Market,5.44054878,,,
+Data Intelligence Platforms,Alation Data Catalog,Recommendation,8.8,,,
+Data Intelligence Platforms,Collibra DI Cloud,Recommendation,3.4,,,
+Data Intelligence Platforms,Informatica EDC,Recommendation,3.025,,,
+Data Intelligence Platforms,Qlik Data Integration,Recommendation,1.4,,,
+Data Intelligence Platforms,SAP DI,Recommendation,1,,,
+Data Intelligence Platforms,Peer Group Average,Recommendation,3.525,,,
+Data Intelligence Platforms,Alation Data Catalog,Product Satisfaction,6.135869565,,,
+Data Intelligence Platforms,Collibra DI Cloud,Product Satisfaction,1.969202899,,,
+Data Intelligence Platforms,Informatica EDC,Product Satisfaction,1.249660326,,,
+Data Intelligence Platforms,Qlik Data Integration,Product Satisfaction,3.092391304,,,
+Data Intelligence Platforms,SAP DI,Product Satisfaction,1.227096273,,,
+Data Intelligence Platforms,Peer Group Average,Product Satisfaction,2.734844073,,,
+Data Intelligence Platforms,Alation Data Catalog,Support Quality,5.180527383,,,
+Data Intelligence Platforms,Collibra DI Cloud,Support Quality,6.034326728,,,
+Data Intelligence Platforms,Informatica EDC,Support Quality,4.012170385,,,
+Data Intelligence Platforms,Qlik Data Integration,Support Quality,1.334685598,,,
+Data Intelligence Platforms,SAP DI,Support Quality,2.113590264,,,
+Data Intelligence Platforms,Peer Group Average,Support Quality,3.735060072,,,
+Data Intelligence Platforms,Alation Data Catalog,Customer Satisfaction,7.357003505,,,
+Data Intelligence Platforms,Collibra DI Cloud,Customer Satisfaction,3.337506829,,,
+Data Intelligence Platforms,Informatica EDC,Customer Satisfaction,3.679285643,,,
+Data Intelligence Platforms,Qlik Data Integration,Customer Satisfaction,4.293499041,,,
+Data Intelligence Platforms,SAP DI,Customer Satisfaction,3.36693809,,,
+Data Intelligence Platforms,Peer Group Average,Customer Satisfaction,4.406846622,,,
+Data Intelligence Platforms,Alation Data Catalog,Performance,4.411128776,,,
+Data Intelligence Platforms,Collibra DI Cloud,Performance,3.806571277,,,
+Data Intelligence Platforms,Informatica EDC,Performance,4.106972519,,,
+Data Intelligence Platforms,Qlik Data Integration,Performance,4.33227345,,,
+Data Intelligence Platforms,SAP DI,Performance,2.391219274,,,
+Data Intelligence Platforms,Peer Group Average,Performance,3.809633059,,,
+Data Intelligence Platforms,Alation Data Catalog,Platform Reliability,6.957386364,,,
+Data Intelligence Platforms,Collibra DI Cloud,Platform Reliability,8.130681818,,,
+Data Intelligence Platforms,Informatica EDC,Platform Reliability,3.914772727,,,
+Data Intelligence Platforms,Qlik Data Integration,Platform Reliability,7.732954545,,,
+Data Intelligence Platforms,SAP DI,Platform Reliability,5.21875,,,
+Data Intelligence Platforms,Peer Group Average,Platform Reliability,6.390909091,,,
+Data Intelligence Platforms,Alation Data Catalog,Development Efficiency,7.289367325,,,
+Data Intelligence Platforms,Collibra DI Cloud,Development Efficiency,4.596082699,,,
+Data Intelligence Platforms,Informatica EDC,Development Efficiency,8.557943417,,,
+Data Intelligence Platforms,Qlik Data Integration,Development Efficiency,6.964091404,,,
+Data Intelligence Platforms,SAP DI,Development Efficiency,3.19089072,,,
+Data Intelligence Platforms,Peer Group Average,Development Efficiency,6.119675113,,,
+Data Intelligence Platforms,Alation Data Catalog,Usability,6.940568022,,,
+Data Intelligence Platforms,Collibra DI Cloud,Usability,3.22826087,,,
+Data Intelligence Platforms,Informatica EDC,Usability,5.356317935,,,
+Data Intelligence Platforms,Qlik Data Integration,Usability,5.891304348,,,
+Data Intelligence Platforms,SAP DI,Usability,6.576086957,,,
+Data Intelligence Platforms,Peer Group Average,Usability,5.598507626,,,
+Data Intelligence Platforms,Alation Data Catalog,Customer Experience,6.319930659,,,
+Data Intelligence Platforms,Collibra DI Cloud,Customer Experience,4.484644501,,,
+Data Intelligence Platforms,Informatica EDC,Customer Experience,5.70817721,,,
+Data Intelligence Platforms,Qlik Data Integration,Customer Experience,6.015470421,,,
+Data Intelligence Platforms,SAP DI,Customer Experience,4.219306271,,,
+Data Intelligence Platforms,Peer Group Average,Customer Experience,5.349505812,,,
+Data Intelligence Platforms,Alation Data Catalog,Product Enhancement,8.863121186,,,
+Data Intelligence Platforms,Collibra DI Cloud,Product Enhancement,4.570570571,,,
+Data Intelligence Platforms,Informatica EDC,Product Enhancement,6.71042471,,,
+Data Intelligence Platforms,Qlik Data Integration,Product Enhancement,6.660660661,,,
+Data Intelligence Platforms,SAP DI,Product Enhancement,4.396396396,,,
+Data Intelligence Platforms,Peer Group Average,Product Enhancement,6.240234705,,,
+Data Intelligence Platforms,Alation Data Catalog,Automation,7.116991643,,,
+Data Intelligence Platforms,Collibra DI Cloud,Automation,1,,,
+Data Intelligence Platforms,Informatica EDC,Automation,5.963788301,,,
+Data Intelligence Platforms,Qlik Data Integration,Automation,9.038997214,,,
+Data Intelligence Platforms,SAP DI,Automation,7.116991643,,,
+Data Intelligence Platforms,Peer Group Average,Automation,6.04735376,,,
+Data Intelligence Platforms,Alation Data Catalog,Innovation,7.990056415,,,
+Data Intelligence Platforms,Collibra DI Cloud,Innovation,2.785285285,,,
+Data Intelligence Platforms,Informatica EDC,Innovation,6.337106506,,,
+Data Intelligence Platforms,Qlik Data Integration,Innovation,7.849828938,,,
+Data Intelligence Platforms,SAP DI,Innovation,5.75669402,,,
+Data Intelligence Platforms,Peer Group Average,Innovation,6.143794233,,,
+Data Intelligence Platforms,Alation Data Catalog,Connectivity,7.601898342,,,
+Data Intelligence Platforms,Collibra DI Cloud,Connectivity,1,,,
+Data Intelligence Platforms,Informatica EDC,Connectivity,8.253731343,,,
+Data Intelligence Platforms,Qlik Data Integration,Connectivity,8.253731343,,,
+Data Intelligence Platforms,SAP DI,Connectivity,6.906609808,,,
+Data Intelligence Platforms,Peer Group Average,Connectivity,6.403194167,,,
+Data Intelligence Platforms,Alation Data Catalog,Functionality,6.956989247,,,
+Data Intelligence Platforms,Collibra DI Cloud,Functionality,1.435897436,,,
+Data Intelligence Platforms,Informatica EDC,Functionality,7.541666667,,,
+Data Intelligence Platforms,Qlik Data Integration,Functionality,3.444444444,,,
+Data Intelligence Platforms,SAP DI,Functionality,1,,,
+Data Intelligence Platforms,Peer Group Average,Functionality,4.075799559,,,
+Data Intelligence Platforms,Alation Data Catalog,Adaptability,4.52173913,,,
+Data Intelligence Platforms,Collibra DI Cloud,Adaptability,5.035326087,,,
+Data Intelligence Platforms,Informatica EDC,Adaptability,4.179347826,,,
+Data Intelligence Platforms,Qlik Data Integration,Adaptability,7.032608696,,,
+Data Intelligence Platforms,SAP DI,Adaptability,4.864130435,,,
+Data Intelligence Platforms,Peer Group Average,Adaptability,5.126630435,,,
+Data Intelligence Platforms,Alation Data Catalog,Technical Capability,6.360208907,,,
+Data Intelligence Platforms,Collibra DI Cloud,Technical Capability,2.490407841,,,
+Data Intelligence Platforms,Informatica EDC,Technical Capability,6.658248612,,,
+Data Intelligence Platforms,Qlik Data Integration,Technical Capability,6.243594828,,,
+Data Intelligence Platforms,SAP DI,Technical Capability,4.256913414,,,
+Data Intelligence Platforms,Peer Group Average,Technical Capability,5.20187472,,,
+Data Pipelining Products,Informatica PowerCen.,Price to Value,1,,,
+Data Pipelining Products,MS Azure Data Factory,Price to Value,6.472262774,,,
+Data Pipelining Products,MS SSIS,Price to Value,7.644890511,,,
+Data Pipelining Products,Oracle Data Integrator,Price to Value,3.791970803,,,
+Data Pipelining Products,Qlik Data Integration,Price to Value,8.259124088,,,
+Data Pipelining Products,SAP DI,Price to Value,6.304744526,,,
+Data Pipelining Products,Talend DI,Price to Value,9.894421272,,,
+Data Pipelining Products,Peer Group Average,Price to Value,6.195344853,,,
+Data Pipelining Products,Informatica PowerCen.,Time to Market,3.864956958,,,
+Data Pipelining Products,MS Azure Data Factory,Time to Market,5.842180775,,,
+Data Pipelining Products,MS SSIS,Time to Market,4.93830703,,,
+Data Pipelining Products,Oracle Data Integrator,Time to Market,3.864956958,,,
+Data Pipelining Products,Qlik Data Integration,Time to Market,7.348637016,,,
+Data Pipelining Products,SAP DI,Time to Market,6.746054519,,,
+Data Pipelining Products,Talend DI,Time to Market,5.842180775,,,
+Data Pipelining Products,Peer Group Average,Time to Market,5.492467719,,,
+Data Pipelining Products,Informatica PowerCen.,Recommendation,7.4,,,
+Data Pipelining Products,MS Azure Data Factory,Recommendation,1,,,
+Data Pipelining Products,MS SSIS,Recommendation,2.625806452,,,
+Data Pipelining Products,Oracle Data Integrator,Recommendation,1.9,,,
+Data Pipelining Products,Qlik Data Integration,Recommendation,1.4,,,
+Data Pipelining Products,SAP DI,Recommendation,1,,,
+Data Pipelining Products,Talend DI,Recommendation,4.15,,,
+Data Pipelining Products,Peer Group Average,Recommendation,2.782258065,,,
+Data Pipelining Products,Informatica PowerCen.,Product Satisfaction,1.407608696,,,
+Data Pipelining Products,MS Azure Data Factory,Product Satisfaction,4.945652174,,,
+Data Pipelining Products,MS SSIS,Product Satisfaction,1,,,
+Data Pipelining Products,Oracle Data Integrator,Product Satisfaction,4.882472826,,,
+Data Pipelining Products,Qlik Data Integration,Product Satisfaction,3.092391304,,,
+Data Pipelining Products,SAP DI,Product Satisfaction,1.227096273,,,
+Data Pipelining Products,Talend DI,Product Satisfaction,5.356317935,,,
+Data Pipelining Products,Peer Group Average,Product Satisfaction,3.130219887,,,
+Data Pipelining Products,Informatica PowerCen.,Support Quality,5.229208925,,,
+Data Pipelining Products,MS Azure Data Factory,Support Quality,4.211322146,,,
+Data Pipelining Products,MS SSIS,Support Quality,1.631008025,,,
+Data Pipelining Products,Oracle Data Integrator,Support Quality,3.464503043,,,
+Data Pipelining Products,Qlik Data Integration,Support Quality,1.334685598,,,
+Data Pipelining Products,SAP DI,Support Quality,2.113590264,,,
+Data Pipelining Products,Talend DI,Support Quality,5.472616633,,,
+Data Pipelining Products,Peer Group Average,Support Quality,3.350990662,,,
+Data Pipelining Products,Informatica PowerCen.,Customer Satisfaction,3.997434023,,,
+Data Pipelining Products,MS Azure Data Factory,Customer Satisfaction,4.173151359,,,
+Data Pipelining Products,MS SSIS,Customer Satisfaction,3.667482246,,,
+Data Pipelining Products,Oracle Data Integrator,Customer Satisfaction,3.424330422,,,
+Data Pipelining Products,Qlik Data Integration,Customer Satisfaction,4.293499041,,,
+Data Pipelining Products,SAP DI,Customer Satisfaction,3.36693809,,,
+Data Pipelining Products,Talend DI,Customer Satisfaction,6.01084566,,,
+Data Pipelining Products,Peer Group Average,Customer Satisfaction,4.133382977,,,
+Data Pipelining Products,Informatica PowerCen.,Performance,4.33227345,,,
+Data Pipelining Products,MS Azure Data Factory,Performance,4.174562798,,,
+Data Pipelining Products,MS SSIS,Performance,1,,,
+Data Pipelining Products,Oracle Data Integrator,Performance,5.120826709,,,
+Data Pipelining Products,Qlik Data Integration,Performance,4.33227345,,,
+Data Pipelining Products,SAP DI,Performance,2.391219274,,,
+Data Pipelining Products,Talend DI,Performance,2.459459459,,,
+Data Pipelining Products,Peer Group Average,Performance,3.401516449,,,
+Data Pipelining Products,Informatica PowerCen.,Platform Reliability,7.136363636,,,
+Data Pipelining Products,MS Azure Data Factory,Platform Reliability,7.136363636,,,
+Data Pipelining Products,MS SSIS,Platform Reliability,6.270344575,,,
+Data Pipelining Products,Oracle Data Integrator,Platform Reliability,7.136363636,,,
+Data Pipelining Products,Qlik Data Integration,Platform Reliability,7.732954545,,,
+Data Pipelining Products,SAP DI,Platform Reliability,5.21875,,,
+Data Pipelining Products,Talend DI,Platform Reliability,6.129616477,,,
+Data Pipelining Products,Peer Group Average,Platform Reliability,6.680108072,,,
+Data Pipelining Products,Informatica PowerCen.,Development Efficiency,7.874863983,,,
+Data Pipelining Products,MS Azure Data Factory,Development Efficiency,5.532877351,,,
+Data Pipelining Products,MS SSIS,Development Efficiency,1,,,
+Data Pipelining Products,Oracle Data Integrator,Development Efficiency,4.801006529,,,
+Data Pipelining Products,Qlik Data Integration,Development Efficiency,6.964091404,,,
+Data Pipelining Products,SAP DI,Development Efficiency,3.19089072,,,
+Data Pipelining Products,Talend DI,Development Efficiency,4.801006529,,,
+Data Pipelining Products,Peer Group Average,Development Efficiency,4.880676645,,,
+Data Pipelining Products,Informatica PowerCen.,Usability,6.461956522,,,
+Data Pipelining Products,MS Azure Data Factory,Usability,6.233695652,,,
+Data Pipelining Products,MS SSIS,Usability,2.96441094,,,
+Data Pipelining Products,Oracle Data Integrator,Usability,4.393342391,,,
+Data Pipelining Products,Qlik Data Integration,Usability,5.891304348,,,
+Data Pipelining Products,SAP DI,Usability,6.576086957,,,
+Data Pipelining Products,Talend DI,Usability,5.356317935,,,
+Data Pipelining Products,Peer Group Average,Usability,5.411016392,,,
+Data Pipelining Products,Informatica PowerCen.,Customer Experience,6.353507364,,,
+Data Pipelining Products,MS Azure Data Factory,Customer Experience,5.574090748,,,
+Data Pipelining Products,MS SSIS,Customer Experience,2.314166636,,,
+Data Pipelining Products,Oracle Data Integrator,Customer Experience,5.109530699,,,
+Data Pipelining Products,Qlik Data Integration,Customer Experience,6.015470421,,,
+Data Pipelining Products,SAP DI,Customer Experience,4.219306271,,,
+Data Pipelining Products,Talend DI,Customer Experience,4.480454903,,,
+Data Pipelining Products,Peer Group Average,Customer Experience,4.86664672,,,
+Data Pipelining Products,Informatica PowerCen.,Product Enhancement,1.783783784,,,
+Data Pipelining Products,MS Azure Data Factory,Product Enhancement,6.262548263,,,
+Data Pipelining Products,MS SSIS,Product Enhancement,2.903474903,,,
+Data Pipelining Products,Oracle Data Integrator,Product Enhancement,1,,,
+Data Pipelining Products,Qlik Data Integration,Product Enhancement,6.660660661,,,
+Data Pipelining Products,SAP DI,Product Enhancement,4.396396396,,,
+Data Pipelining Products,Talend DI,Product Enhancement,4.291891892,,,
+Data Pipelining Products,Peer Group Average,Product Enhancement,3.899822271,,,
+Data Pipelining Products,Informatica PowerCen.,Automation,2.614007163,,,
+Data Pipelining Products,MS Azure Data Factory,Automation,7.885793872,,,
+Data Pipelining Products,MS SSIS,Automation,5.858951633,,,
+Data Pipelining Products,Oracle Data Integrator,Automation,5.707520891,,,
+Data Pipelining Products,Qlik Data Integration,Automation,9.038997214,,,
+Data Pipelining Products,SAP DI,Automation,7.116991643,,,
+Data Pipelining Products,Talend DI,Automation,7.373259053,,,
+Data Pipelining Products,Peer Group Average,Automation,6.513645924,,,
+Data Pipelining Products,Informatica PowerCen.,Innovation,2.198895473,,,
+Data Pipelining Products,MS Azure Data Factory,Innovation,7.074171067,,,
+Data Pipelining Products,MS SSIS,Innovation,4.381213268,,,
+Data Pipelining Products,Oracle Data Integrator,Innovation,3.353760446,,,
+Data Pipelining Products,Qlik Data Integration,Innovation,7.849828938,,,
+Data Pipelining Products,SAP DI,Innovation,5.75669402,,,
+Data Pipelining Products,Talend DI,Innovation,5.832575472,,,
+Data Pipelining Products,Peer Group Average,Innovation,5.206734098,,,
+Data Pipelining Products,Informatica PowerCen.,Connectivity,6.008528785,,,
+Data Pipelining Products,MS Azure Data Factory,Connectivity,8.253731343,,,
+Data Pipelining Products,MS SSIS,Connectivity,4.342733338,,,
+Data Pipelining Products,Oracle Data Integrator,Connectivity,8.253731343,,,
+Data Pipelining Products,Qlik Data Integration,Connectivity,8.253731343,,,
+Data Pipelining Products,SAP DI,Connectivity,6.906609808,,,
+Data Pipelining Products,Talend DI,Connectivity,9.516657783,,,
+Data Pipelining Products,Peer Group Average,Connectivity,7.362246249,,,
+Data Pipelining Products,Informatica PowerCen.,Functionality,7.888888889,,,
+Data Pipelining Products,MS Azure Data Factory,Functionality,3,,,
+Data Pipelining Products,MS SSIS,Functionality,2.11827957,,,
+Data Pipelining Products,Oracle Data Integrator,Functionality,4.416666667,,,
+Data Pipelining Products,Qlik Data Integration,Functionality,3.444444444,,,
+Data Pipelining Products,SAP DI,Functionality,1,,,
+Data Pipelining Products,Talend DI,Functionality,8.791666667,,,
+Data Pipelining Products,Peer Group Average,Functionality,4.37999232,,,
+Data Pipelining Products,Informatica PowerCen.,Adaptability,6.747282609,,,
+Data Pipelining Products,MS Azure Data Factory,Adaptability,7.60326087,,,
+Data Pipelining Products,MS SSIS,Adaptability,4.477079395,,,
+Data Pipelining Products,Oracle Data Integrator,Adaptability,5.035326087,,,
+Data Pipelining Products,Qlik Data Integration,Adaptability,7.032608696,,,
+Data Pipelining Products,SAP DI,Adaptability,4.864130435,,,
+Data Pipelining Products,Talend DI,Adaptability,7.089673913,,,
+Data Pipelining Products,Peer Group Average,Adaptability,6.121337429,,,
+Data Pipelining Products,Informatica PowerCen.,Technical Capability,6.881566761,,,
+Data Pipelining Products,MS Azure Data Factory,Technical Capability,6.285664071,,,
+Data Pipelining Products,MS SSIS,Technical Capability,3.646030768,,,
+Data Pipelining Products,Oracle Data Integrator,Technical Capability,5.901908032,,,
+Data Pipelining Products,Qlik Data Integration,Technical Capability,6.243594828,,,
+Data Pipelining Products,SAP DI,Technical Capability,4.256913414,,,
+Data Pipelining Products,Talend DI,Technical Capability,8.465999454,,,
+Data Pipelining Products,Peer Group Average,Technical Capability,5.954525333,,,
+Products to Support DW Automation,AnalyticsCreator,Price to Value,9.473024437,,,
+Products to Support DW Automation,Informatica PowerCen.,Price to Value,1,,,
+Products to Support DW Automation,MS Azure Data Factory,Price to Value,6.472262774,,,
+Products to Support DW Automation,MS SSIS,Price to Value,7.644890511,,,
+Products to Support DW Automation,Oracle Data Integrator,Price to Value,3.791970803,,,
+Products to Support DW Automation,Qlik Data Integration,Price to Value,8.259124088,,,
+Products to Support DW Automation,SAP BW/4HANA,Price to Value,4.270594369,,,
+Products to Support DW Automation,SAP DI,Price to Value,6.304744526,,,
+Products to Support DW Automation,Talend DI,Price to Value,9.894421272,,,
+Products to Support DW Automation,TimeXtender,Price to Value,9.018540146,,,
+Products to Support DW Automation,Peer Group Average,Price to Value,6.612957292,,,
+Products to Support DW Automation,AnalyticsCreator,Time to Market,9.926994813,,,
+Products to Support DW Automation,Informatica PowerCen.,Time to Market,3.864956958,,,
+Products to Support DW Automation,MS Azure Data Factory,Time to Market,5.842180775,,,
+Products to Support DW Automation,MS SSIS,Time to Market,4.93830703,,,
+Products to Support DW Automation,Oracle Data Integrator,Time to Market,3.864956958,,,
+Products to Support DW Automation,Qlik Data Integration,Time to Market,7.348637016,,,
+Products to Support DW Automation,SAP BW/4HANA,Time to Market,5.106469587,,,
+Products to Support DW Automation,SAP DI,Time to Market,6.746054519,,,
+Products to Support DW Automation,Talend DI,Time to Market,5.842180775,,,
+Products to Support DW Automation,TimeXtender,Time to Market,7.634344234,,,
+Products to Support DW Automation,Peer Group Average,Time to Market,6.111508267,,,
+Products to Support DW Automation,AnalyticsCreator,Recommendation,7.685714286,,,
+Products to Support DW Automation,Informatica PowerCen.,Recommendation,7.4,,,
+Products to Support DW Automation,MS Azure Data Factory,Recommendation,1,,,
+Products to Support DW Automation,MS SSIS,Recommendation,2.625806452,,,
+Products to Support DW Automation,Oracle Data Integrator,Recommendation,1.9,,,
+Products to Support DW Automation,Qlik Data Integration,Recommendation,1.4,,,
+Products to Support DW Automation,SAP BW/4HANA,Recommendation,1.8,,,
+Products to Support DW Automation,SAP DI,Recommendation,1,,,
+Products to Support DW Automation,Talend DI,Recommendation,4.15,,,
+Products to Support DW Automation,TimeXtender,Recommendation,8.8,,,
+Products to Support DW Automation,Peer Group Average,Recommendation,3.776152074,,,
+Products to Support DW Automation,AnalyticsCreator,Product Satisfaction,5.288625776,,,
+Products to Support DW Automation,Informatica PowerCen.,Product Satisfaction,1.407608696,,,
+Products to Support DW Automation,MS Azure Data Factory,Product Satisfaction,4.945652174,,,
+Products to Support DW Automation,MS SSIS,Product Satisfaction,1,,,
+Products to Support DW Automation,Oracle Data Integrator,Product Satisfaction,4.882472826,,,
+Products to Support DW Automation,Qlik Data Integration,Product Satisfaction,3.092391304,,,
+Products to Support DW Automation,SAP BW/4HANA,Product Satisfaction,4.10326087,,,
+Products to Support DW Automation,SAP DI,Product Satisfaction,1.227096273,,,
+Products to Support DW Automation,Talend DI,Product Satisfaction,5.356317935,,,
+Products to Support DW Automation,TimeXtender,Product Satisfaction,6.967391304,,,
+Products to Support DW Automation,Peer Group Average,Product Satisfaction,3.827081716,,,
+Products to Support DW Automation,AnalyticsCreator,Support Quality,8.562022156,,,
+Products to Support DW Automation,Informatica PowerCen.,Support Quality,5.229208925,,,
+Products to Support DW Automation,MS Azure Data Factory,Support Quality,4.211322146,,,
+Products to Support DW Automation,MS SSIS,Support Quality,1.631008025,,,
+Products to Support DW Automation,Oracle Data Integrator,Support Quality,3.464503043,,,
+Products to Support DW Automation,Qlik Data Integration,Support Quality,1.334685598,,,
+Products to Support DW Automation,SAP BW/4HANA,Support Quality,4.279325187,,,
+Products to Support DW Automation,SAP DI,Support Quality,2.113590264,,,
+Products to Support DW Automation,Talend DI,Support Quality,5.472616633,,,
+Products to Support DW Automation,TimeXtender,Support Quality,6.689655172,,,
+Products to Support DW Automation,Peer Group Average,Support Quality,4.298793715,,,
+Products to Support DW Automation,AnalyticsCreator,Customer Satisfaction,8.099645507,,,
+Products to Support DW Automation,Informatica PowerCen.,Customer Satisfaction,3.997434023,,,
+Products to Support DW Automation,MS Azure Data Factory,Customer Satisfaction,4.173151359,,,
+Products to Support DW Automation,MS SSIS,Customer Satisfaction,3.667482246,,,
+Products to Support DW Automation,Oracle Data Integrator,Customer Satisfaction,3.424330422,,,
+Products to Support DW Automation,Qlik Data Integration,Customer Satisfaction,4.293499041,,,
+Products to Support DW Automation,SAP BW/4HANA,Customer Satisfaction,3.663997484,,,
+Products to Support DW Automation,SAP DI,Customer Satisfaction,3.36693809,,,
+Products to Support DW Automation,Talend DI,Customer Satisfaction,6.01084566,,,
+Products to Support DW Automation,TimeXtender,Customer Satisfaction,8.033020654,,,
+Products to Support DW Automation,Peer Group Average,Customer Satisfaction,4.873034449,,,
+Products to Support DW Automation,AnalyticsCreator,Performance,4.867363161,,,
+Products to Support DW Automation,Informatica PowerCen.,Performance,4.33227345,,,
+Products to Support DW Automation,MS Azure Data Factory,Performance,4.174562798,,,
+Products to Support DW Automation,MS SSIS,Performance,1,,,
+Products to Support DW Automation,Oracle Data Integrator,Performance,5.120826709,,,
+Products to Support DW Automation,Qlik Data Integration,Performance,4.33227345,,,
+Products to Support DW Automation,SAP BW/4HANA,Performance,4.963116057,,,
+Products to Support DW Automation,SAP DI,Performance,2.391219274,,,
+Products to Support DW Automation,Talend DI,Performance,2.459459459,,,
+Products to Support DW Automation,TimeXtender,Performance,1.694698756,,,
+Products to Support DW Automation,Peer Group Average,Performance,3.533579311,,,
+Products to Support DW Automation,AnalyticsCreator,Platform Reliability,7.711647727,,,
+Products to Support DW Automation,Informatica PowerCen.,Platform Reliability,7.136363636,,,
+Products to Support DW Automation,MS Azure Data Factory,Platform Reliability,7.136363636,,,
+Products to Support DW Automation,MS SSIS,Platform Reliability,6.270344575,,,
+Products to Support DW Automation,Oracle Data Integrator,Platform Reliability,7.136363636,,,
+Products to Support DW Automation,Qlik Data Integration,Platform Reliability,7.732954545,,,
+Products to Support DW Automation,SAP BW/4HANA,Platform Reliability,8.210227273,,,
+Products to Support DW Automation,SAP DI,Platform Reliability,5.21875,,,
+Products to Support DW Automation,Talend DI,Platform Reliability,6.129616477,,,
+Products to Support DW Automation,TimeXtender,Platform Reliability,7.494318182,,,
+Products to Support DW Automation,Peer Group Average,Platform Reliability,7.017694969,,,
+Products to Support DW Automation,AnalyticsCreator,Development Efficiency,9.045857298,,,
+Products to Support DW Automation,Informatica PowerCen.,Development Efficiency,7.874863983,,,
+Products to Support DW Automation,MS Azure Data Factory,Development Efficiency,5.532877351,,,
+Products to Support DW Automation,MS SSIS,Development Efficiency,1,,,
+Products to Support DW Automation,Oracle Data Integrator,Development Efficiency,4.801006529,,,
+Products to Support DW Automation,Qlik Data Integration,Development Efficiency,6.964091404,,,
+Products to Support DW Automation,SAP BW/4HANA,Development Efficiency,5.639331289,,,
+Products to Support DW Automation,SAP DI,Development Efficiency,3.19089072,,,
+Products to Support DW Automation,Talend DI,Development Efficiency,4.801006529,,,
+Products to Support DW Automation,TimeXtender,Development Efficiency,7.592210424,,,
+Products to Support DW Automation,Peer Group Average,Development Efficiency,5.644213553,,,
+Products to Support DW Automation,AnalyticsCreator,Usability,7.60326087,,,
+Products to Support DW Automation,Informatica PowerCen.,Usability,6.461956522,,,
+Products to Support DW Automation,MS Azure Data Factory,Usability,6.233695652,,,
+Products to Support DW Automation,MS SSIS,Usability,2.96441094,,,
+Products to Support DW Automation,Oracle Data Integrator,Usability,4.393342391,,,
+Products to Support DW Automation,Qlik Data Integration,Usability,5.891304348,,,
+Products to Support DW Automation,SAP BW/4HANA,Usability,4.407608696,,,
+Products to Support DW Automation,SAP DI,Usability,6.576086957,,,
+Products to Support DW Automation,Talend DI,Usability,5.356317935,,,
+Products to Support DW Automation,TimeXtender,Usability,7.78035982,,,
+Products to Support DW Automation,Peer Group Average,Usability,5.766834413,,,
+Products to Support DW Automation,AnalyticsCreator,Customer Experience,7.249230055,,,
+Products to Support DW Automation,Informatica PowerCen.,Customer Experience,6.353507364,,,
+Products to Support DW Automation,MS Azure Data Factory,Customer Experience,5.574090748,,,
+Products to Support DW Automation,MS SSIS,Customer Experience,2.314166636,,,
+Products to Support DW Automation,Oracle Data Integrator,Customer Experience,5.109530699,,,
+Products to Support DW Automation,Qlik Data Integration,Customer Experience,6.015470421,,,
+Products to Support DW Automation,SAP BW/4HANA,Customer Experience,5.461477051,,,
+Products to Support DW Automation,SAP DI,Customer Experience,4.219306271,,,
+Products to Support DW Automation,Talend DI,Customer Experience,4.480454903,,,
+Products to Support DW Automation,TimeXtender,Customer Experience,5.946979454,,,
+Products to Support DW Automation,Peer Group Average,Customer Experience,5.27242136,,,
+Products to Support DW Automation,AnalyticsCreator,Product Enhancement,9.173745174,,,
+Products to Support DW Automation,Informatica PowerCen.,Product Enhancement,1.783783784,,,
+Products to Support DW Automation,MS Azure Data Factory,Product Enhancement,6.262548263,,,
+Products to Support DW Automation,MS SSIS,Product Enhancement,2.903474903,,,
+Products to Support DW Automation,Oracle Data Integrator,Product Enhancement,1,,,
+Products to Support DW Automation,Qlik Data Integration,Product Enhancement,6.660660661,,,
+Products to Support DW Automation,SAP BW/4HANA,Product Enhancement,4.918918919,,,
+Products to Support DW Automation,SAP DI,Product Enhancement,4.396396396,,,
+Products to Support DW Automation,Talend DI,Product Enhancement,4.291891892,,,
+Products to Support DW Automation,TimeXtender,Product Enhancement,4.802802803,,,
+Products to Support DW Automation,Peer Group Average,Product Enhancement,4.619422279,,,
+Products to Support DW Automation,AnalyticsCreator,Automation,10,,,
+Products to Support DW Automation,Informatica PowerCen.,Automation,2.614007163,,,
+Products to Support DW Automation,MS Azure Data Factory,Automation,7.885793872,,,
+Products to Support DW Automation,MS SSIS,Automation,5.858951633,,,
+Products to Support DW Automation,Oracle Data Integrator,Automation,5.707520891,,,
+Products to Support DW Automation,Qlik Data Integration,Automation,9.038997214,,,
+Products to Support DW Automation,SAP BW/4HANA,Automation,4.791364903,,,
+Products to Support DW Automation,SAP DI,Automation,7.116991643,,,
+Products to Support DW Automation,Talend DI,Automation,7.373259053,,,
+Products to Support DW Automation,TimeXtender,Automation,5.945483486,,,
+Products to Support DW Automation,Peer Group Average,Automation,6.633236986,,,
+Products to Support DW Automation,AnalyticsCreator,Innovation,9.586872587,,,
+Products to Support DW Automation,Informatica PowerCen.,Innovation,2.198895473,,,
+Products to Support DW Automation,MS Azure Data Factory,Innovation,7.074171067,,,
+Products to Support DW Automation,MS SSIS,Innovation,4.381213268,,,
+Products to Support DW Automation,Oracle Data Integrator,Innovation,3.353760446,,,
+Products to Support DW Automation,Qlik Data Integration,Innovation,7.849828938,,,
+Products to Support DW Automation,SAP BW/4HANA,Innovation,4.855141911,,,
+Products to Support DW Automation,SAP DI,Innovation,5.75669402,,,
+Products to Support DW Automation,Talend DI,Innovation,5.832575472,,,
+Products to Support DW Automation,TimeXtender,Innovation,5.374143144,,,
+Products to Support DW Automation,Peer Group Average,Innovation,5.626329633,,,
+Products to Support DW Automation,AnalyticsCreator,Connectivity,10,,,
+Products to Support DW Automation,Informatica PowerCen.,Connectivity,6.008528785,,,
+Products to Support DW Automation,MS Azure Data Factory,Connectivity,8.253731343,,,
+Products to Support DW Automation,MS SSIS,Connectivity,4.342733338,,,
+Products to Support DW Automation,Oracle Data Integrator,Connectivity,8.253731343,,,
+Products to Support DW Automation,Qlik Data Integration,Connectivity,8.253731343,,,
+Products to Support DW Automation,SAP BW/4HANA,Connectivity,5.858848614,,,
+Products to Support DW Automation,SAP DI,Connectivity,6.906609808,,,
+Products to Support DW Automation,Talend DI,Connectivity,9.516657783,,,
+Products to Support DW Automation,TimeXtender,Connectivity,8.927292111,,,
+Products to Support DW Automation,Peer Group Average,Connectivity,7.632186447,,,
+Products to Support DW Automation,AnalyticsCreator,Functionality,7.452380952,,,
+Products to Support DW Automation,Informatica PowerCen.,Functionality,7.888888889,,,
+Products to Support DW Automation,MS Azure Data Factory,Functionality,3,,,
+Products to Support DW Automation,MS SSIS,Functionality,2.11827957,,,
+Products to Support DW Automation,Oracle Data Integrator,Functionality,4.416666667,,,
+Products to Support DW Automation,Qlik Data Integration,Functionality,3.444444444,,,
+Products to Support DW Automation,SAP BW/4HANA,Functionality,5.222222222,,,
+Products to Support DW Automation,SAP DI,Functionality,1,,,
+Products to Support DW Automation,Talend DI,Functionality,8.791666667,,,
+Products to Support DW Automation,TimeXtender,Functionality,6,,,
+Products to Support DW Automation,Peer Group Average,Functionality,4.933454941,,,
+Products to Support DW Automation,AnalyticsCreator,Adaptability,8.630434783,,,
+Products to Support DW Automation,Informatica PowerCen.,Adaptability,6.747282609,,,
+Products to Support DW Automation,MS Azure Data Factory,Adaptability,7.60326087,,,
+Products to Support DW Automation,MS SSIS,Adaptability,4.477079395,,,
+Products to Support DW Automation,Oracle Data Integrator,Adaptability,5.035326087,,,
+Products to Support DW Automation,Qlik Data Integration,Adaptability,7.032608696,,,
+Products to Support DW Automation,SAP BW/4HANA,Adaptability,6.319293478,,,
+Products to Support DW Automation,SAP DI,Adaptability,4.864130435,,,
+Products to Support DW Automation,Talend DI,Adaptability,7.089673913,,,
+Products to Support DW Automation,TimeXtender,Adaptability,7.301150895,,,
+Products to Support DW Automation,Peer Group Average,Adaptability,6.510024116,,,
+Products to Support DW Automation,AnalyticsCreator,Technical Capability,8.694271912,,,
+Products to Support DW Automation,Informatica PowerCen.,Technical Capability,6.881566761,,,
+Products to Support DW Automation,MS Azure Data Factory,Technical Capability,6.285664071,,,
+Products to Support DW Automation,MS SSIS,Technical Capability,3.646030768,,,
+Products to Support DW Automation,Oracle Data Integrator,Technical Capability,5.901908032,,,
+Products to Support DW Automation,Qlik Data Integration,Technical Capability,6.243594828,,,
+Products to Support DW Automation,SAP BW/4HANA,Technical Capability,5.800121438,,,
+Products to Support DW Automation,SAP DI,Technical Capability,4.256913414,,,
+Products to Support DW Automation,Talend DI,Technical Capability,8.465999454,,,
+Products to Support DW Automation,TimeXtender,Technical Capability,7.409481002,,,
+Products to Support DW Automation,Peer Group Average,Technical Capability,6.358555168,,,
+Business Software Generalists,Amazon RedShift,Price to Value,7.700729927,,,
+Business Software Generalists,Google BigQuery,Price to Value,10,,,
+Business Software Generalists,MS Azure Data Factory,Price to Value,6.472262774,,,
+Business Software Generalists,MS Azure Synapse,Price to Value,8.817518248,,,
+Business Software Generalists,MS SQL Server,Price to Value,7.732456868,,,
+Business Software Generalists,MS SSIS,Price to Value,7.644890511,,,
+Business Software Generalists,Oracle Data Integrator,Price to Value,3.791970803,,,
+Business Software Generalists,Oracle Database,Price to Value,2.451824818,,,
+Business Software Generalists,SAP BW/4HANA,Price to Value,4.270594369,,,
+Business Software Generalists,SAP DI,Price to Value,6.304744526,,,
+Business Software Generalists,SAP DWC,Price to Value,8.044357103,,,
+Business Software Generalists,Peer Group Average,Price to Value,6.65739545,,,
+Business Software Generalists,Amazon RedShift,Time to Market,5.842180775,,,
+Business Software Generalists,Google BigQuery,Time to Market,6.905561651,,,
+Business Software Generalists,MS Azure Data Factory,Time to Market,5.842180775,,,
+Business Software Generalists,MS Azure Synapse,Time to Market,6.164992826,,,
+Business Software Generalists,MS SQL Server,Time to Market,4.82921882,,,
+Business Software Generalists,MS SSIS,Time to Market,4.93830703,,,
+Business Software Generalists,Oracle Data Integrator,Time to Market,3.864956958,,,
+Business Software Generalists,Oracle Database,Time to Market,2.136298422,,,
+Business Software Generalists,SAP BW/4HANA,Time to Market,5.106469587,,,
+Business Software Generalists,SAP DI,Time to Market,6.746054519,,,
+Business Software Generalists,SAP DWC,Time to Market,9.909612626,,,
+Business Software Generalists,Peer Group Average,Time to Market,5.662348544,,,
+Business Software Generalists,Amazon RedShift,Recommendation,1.4,,,
+Business Software Generalists,Google BigQuery,Recommendation,4.811764706,,,
+Business Software Generalists,MS Azure Data Factory,Recommendation,1,,,
+Business Software Generalists,MS Azure Synapse,Recommendation,2.542857143,,,
+Business Software Generalists,MS SQL Server,Recommendation,2.039175258,,,
+Business Software Generalists,MS SSIS,Recommendation,2.625806452,,,
+Business Software Generalists,Oracle Data Integrator,Recommendation,1.9,,,
+Business Software Generalists,Oracle Database,Recommendation,1.9,,,
+Business Software Generalists,SAP BW/4HANA,Recommendation,1.8,,,
+Business Software Generalists,SAP DI,Recommendation,1,,,
+Business Software Generalists,SAP DWC,Recommendation,3.945454545,,,
+Business Software Generalists,Peer Group Average,Recommendation,2.269550737,,,
+Business Software Generalists,Amazon RedShift,Product Satisfaction,3.934782609,,,
+Business Software Generalists,Google BigQuery,Product Satisfaction,6.04076087,,,
+Business Software Generalists,MS Azure Data Factory,Product Satisfaction,4.945652174,,,
+Business Software Generalists,MS Azure Synapse,Product Satisfaction,7.184006211,,,
+Business Software Generalists,MS SQL Server,Product Satisfaction,4.012145075,,,
+Business Software Generalists,MS SSIS,Product Satisfaction,1,,,
+Business Software Generalists,Oracle Data Integrator,Product Satisfaction,4.882472826,,,
+Business Software Generalists,Oracle Database,Product Satisfaction,3.4609375,,,
+Business Software Generalists,SAP BW/4HANA,Product Satisfaction,4.10326087,,,
+Business Software Generalists,SAP DI,Product Satisfaction,1.227096273,,,
+Business Software Generalists,SAP DWC,Product Satisfaction,4.394268775,,,
+Business Software Generalists,Peer Group Average,Product Satisfaction,4.107762107,,,
+Business Software Generalists,Amazon RedShift,Support Quality,5.655172414,,,
+Business Software Generalists,Google BigQuery,Support Quality,1,,,
+Business Software Generalists,MS Azure Data Factory,Support Quality,4.211322146,,,
+Business Software Generalists,MS Azure Synapse,Support Quality,4.742393509,,,
+Business Software Generalists,MS SQL Server,Support Quality,2.989858012,,,
+Business Software Generalists,MS SSIS,Support Quality,1.631008025,,,
+Business Software Generalists,Oracle Data Integrator,Support Quality,3.464503043,,,
+Business Software Generalists,Oracle Database,Support Quality,4.481599536,,,
+Business Software Generalists,SAP BW/4HANA,Support Quality,4.279325187,,,
+Business Software Generalists,SAP DI,Support Quality,2.113590264,,,
+Business Software Generalists,SAP DWC,Support Quality,5.929006085,,,
+Business Software Generalists,Peer Group Average,Support Quality,3.681616202,,,
+Business Software Generalists,Amazon RedShift,Customer Satisfaction,4.481055903,,,
+Business Software Generalists,Google BigQuery,Customer Satisfaction,6.132793916,,,
+Business Software Generalists,MS Azure Data Factory,Customer Satisfaction,4.173151359,,,
+Business Software Generalists,MS Azure Synapse,Customer Satisfaction,5.670399951,,,
+Business Software Generalists,MS SQL Server,Customer Satisfaction,4.225502531,,,
+Business Software Generalists,MS SSIS,Customer Satisfaction,3.667482246,,,
+Business Software Generalists,Oracle Data Integrator,Customer Satisfaction,3.424330422,,,
+Business Software Generalists,Oracle Database,Customer Satisfaction,2.627972102,,,
+Business Software Generalists,SAP BW/4HANA,Customer Satisfaction,3.663997484,,,
+Business Software Generalists,SAP DI,Customer Satisfaction,3.36693809,,,
+Business Software Generalists,SAP DWC,Customer Satisfaction,6.246184673,,,
+Business Software Generalists,Peer Group Average,Customer Satisfaction,4.334528062,,,
+Business Software Generalists,Amazon RedShift,Performance,1.178060413,,,
+Business Software Generalists,Google BigQuery,Performance,5.515103339,,,
+Business Software Generalists,MS Azure Data Factory,Performance,4.174562798,,,
+Business Software Generalists,MS Azure Synapse,Performance,5.120826709,,,
+Business Software Generalists,MS SQL Server,Performance,3.790143084,,,
+Business Software Generalists,MS SSIS,Performance,1,,,
+Business Software Generalists,Oracle Data Integrator,Performance,5.120826709,,,
+Business Software Generalists,Oracle Database,Performance,4.899046105,,,
+Business Software Generalists,SAP BW/4HANA,Performance,4.963116057,,,
+Business Software Generalists,SAP DI,Performance,2.391219274,,,
+Business Software Generalists,SAP DWC,Performance,3.124801272,,,
+Business Software Generalists,Peer Group Average,Performance,3.752518705,,,
+Business Software Generalists,Amazon RedShift,Platform Reliability,7.732954545,,,
+Business Software Generalists,Google BigQuery,Platform Reliability,8.926136364,,,
+Business Software Generalists,MS Azure Data Factory,Platform Reliability,7.136363636,,,
+Business Software Generalists,MS Azure Synapse,Platform Reliability,1,,,
+Business Software Generalists,MS SQL Server,Platform Reliability,7.30415483,,,
+Business Software Generalists,MS SSIS,Platform Reliability,6.270344575,,,
+Business Software Generalists,Oracle Data Integrator,Platform Reliability,7.136363636,,,
+Business Software Generalists,Oracle Database,Platform Reliability,9.149857955,,,
+Business Software Generalists,SAP BW/4HANA,Platform Reliability,8.210227273,,,
+Business Software Generalists,SAP DI,Platform Reliability,5.21875,,,
+Business Software Generalists,SAP DWC,Platform Reliability,5.122869318,,,
+Business Software Generalists,Peer Group Average,Platform Reliability,6.655274739,,,
+Business Software Generalists,Amazon RedShift,Development Efficiency,8.899483134,,,
+Business Software Generalists,Google BigQuery,Development Efficiency,4.981821673,,,
+Business Software Generalists,MS Azure Data Factory,Development Efficiency,5.532877351,,,
+Business Software Generalists,MS Azure Synapse,Development Efficiency,2.410228509,,,
+Business Software Generalists,MS SQL Server,Development Efficiency,4.927644851,,,
+Business Software Generalists,MS SSIS,Development Efficiency,1,,,
+Business Software Generalists,Oracle Data Integrator,Development Efficiency,4.801006529,,,
+Business Software Generalists,Oracle Database,Development Efficiency,5.495103373,,,
+Business Software Generalists,SAP BW/4HANA,Development Efficiency,5.639331289,,,
+Business Software Generalists,SAP DI,Development Efficiency,3.19089072,,,
+Business Software Generalists,SAP DWC,Development Efficiency,5.639331289,,,
+Business Software Generalists,Peer Group Average,Development Efficiency,4.774338065,,,
+Business Software Generalists,Amazon RedShift,Usability,8.744565217,,,
+Business Software Generalists,Google BigQuery,Usability,4.75,,,
+Business Software Generalists,MS Azure Data Factory,Usability,6.233695652,,,
+Business Software Generalists,MS Azure Synapse,Usability,1,,,
+Business Software Generalists,MS SQL Server,Usability,6.067794711,,,
+Business Software Generalists,MS SSIS,Usability,2.96441094,,,
+Business Software Generalists,Oracle Data Integrator,Usability,4.393342391,,,
+Business Software Generalists,Oracle Database,Usability,5.677309783,,,
+Business Software Generalists,SAP BW/4HANA,Usability,4.407608696,,,
+Business Software Generalists,SAP DI,Usability,6.576086957,,,
+Business Software Generalists,SAP DWC,Usability,8.381422925,,,
+Business Software Generalists,Peer Group Average,Usability,5.381476116,,,
+Business Software Generalists,Amazon RedShift,Customer Experience,6.482453154,,,
+Business Software Generalists,Google BigQuery,Customer Experience,5.631426627,,,
+Business Software Generalists,MS Azure Data Factory,Customer Experience,5.574090748,,,
+Business Software Generalists,MS Azure Synapse,Customer Experience,2.580301491,,,
+Business Software Generalists,MS SQL Server,Customer Experience,5.267902875,,,
+Business Software Generalists,MS SSIS,Customer Experience,2.314166636,,,
+Business Software Generalists,Oracle Data Integrator,Customer Experience,5.109530699,,,
+Business Software Generalists,Oracle Database,Customer Experience,5.898968068,,,
+Business Software Generalists,SAP BW/4HANA,Customer Experience,5.461477051,,,
+Business Software Generalists,SAP DI,Customer Experience,4.219306271,,,
+Business Software Generalists,SAP DWC,Customer Experience,5.630568613,,,
+Business Software Generalists,Peer Group Average,Customer Experience,4.92456293,,,
+Business Software Generalists,Amazon RedShift,Product Enhancement,9.621621622,,,
+Business Software Generalists,Google BigQuery,Product Enhancement,8.445945946,,,
+Business Software Generalists,MS Azure Data Factory,Product Enhancement,6.262548263,,,
+Business Software Generalists,MS Azure Synapse,Product Enhancement,7.158301158,,,
+Business Software Generalists,MS SQL Server,Product Enhancement,4.70990991,,,
+Business Software Generalists,MS SSIS,Product Enhancement,2.903474903,,,
+Business Software Generalists,Oracle Data Integrator,Product Enhancement,1,,,
+Business Software Generalists,Oracle Database,Product Enhancement,3.246846847,,,
+Business Software Generalists,SAP BW/4HANA,Product Enhancement,4.918918919,,,
+Business Software Generalists,SAP DI,Product Enhancement,4.396396396,,,
+Business Software Generalists,SAP DWC,Product Enhancement,9.8744551,,,
+Business Software Generalists,Peer Group Average,Product Enhancement,5.685310824,,,
+Business Software Generalists,Amazon RedShift,Automation,5.291086351,,,
+Business Software Generalists,Google BigQuery,Automation,9.038997214,,,
+Business Software Generalists,MS Azure Data Factory,Automation,7.885793872,,,
+Business Software Generalists,MS Azure Synapse,Automation,6.18344608,,,
+Business Software Generalists,MS SQL Server,Automation,6.811323288,,,
+Business Software Generalists,MS SSIS,Automation,5.858951633,,,
+Business Software Generalists,Oracle Data Integrator,Automation,5.707520891,,,
+Business Software Generalists,Oracle Database,Automation,5.194986072,,,
+Business Software Generalists,SAP BW/4HANA,Automation,4.791364903,,,
+Business Software Generalists,SAP DI,Automation,7.116991643,,,
+Business Software Generalists,SAP DWC,Automation,6.454231102,,,
+Business Software Generalists,Peer Group Average,Automation,6.394063005,,,
+Business Software Generalists,Amazon RedShift,Innovation,7.456353986,,,
+Business Software Generalists,Google BigQuery,Innovation,8.74247158,,,
+Business Software Generalists,MS Azure Data Factory,Innovation,7.074171067,,,
+Business Software Generalists,MS Azure Synapse,Innovation,6.670873619,,,
+Business Software Generalists,MS SQL Server,Innovation,5.760616599,,,
+Business Software Generalists,MS SSIS,Innovation,4.381213268,,,
+Business Software Generalists,Oracle Data Integrator,Innovation,3.353760446,,,
+Business Software Generalists,Oracle Database,Innovation,4.22091646,,,
+Business Software Generalists,SAP BW/4HANA,Innovation,4.855141911,,,
+Business Software Generalists,SAP DI,Innovation,5.75669402,,,
+Business Software Generalists,SAP DWC,Innovation,8.164343101,,,
+Business Software Generalists,Peer Group Average,Innovation,6.039686914,,,
+Business Software Generalists,Amazon RedShift,Connectivity,7.50533049,,,
+Business Software Generalists,Google BigQuery,Connectivity,5.48024583,,,
+Business Software Generalists,MS Azure Data Factory,Connectivity,8.253731343,,,
+Business Software Generalists,MS Azure Synapse,Connectivity,7.291501675,,,
+Business Software Generalists,MS SQL Server,Connectivity,7.384620675,,,
+Business Software Generalists,MS SSIS,Connectivity,4.342733338,,,
+Business Software Generalists,Oracle Data Integrator,Connectivity,8.253731343,,,
+Business Software Generalists,Oracle Database,Connectivity,8.478251599,,,
+Business Software Generalists,SAP BW/4HANA,Connectivity,5.858848614,,,
+Business Software Generalists,SAP DI,Connectivity,6.906609808,,,
+Business Software Generalists,SAP DWC,Connectivity,8.464219083,,,
+Business Software Generalists,Peer Group Average,Connectivity,7.110893073,,,
+Business Software Generalists,Amazon RedShift,Functionality,6.777777778,,,
+Business Software Generalists,Google BigQuery,Functionality,5.078431373,,,
+Business Software Generalists,MS Azure Data Factory,Functionality,3,,,
+Business Software Generalists,MS Azure Synapse,Functionality,2.80952381,,,
+Business Software Generalists,MS SQL Server,Functionality,3.583333333,,,
+Business Software Generalists,MS SSIS,Functionality,2.11827957,,,
+Business Software Generalists,Oracle Data Integrator,Functionality,4.416666667,,,
+Business Software Generalists,Oracle Database,Functionality,5.354166667,,,
+Business Software Generalists,SAP BW/4HANA,Functionality,5.222222222,,,
+Business Software Generalists,SAP DI,Functionality,1,,,
+Business Software Generalists,SAP DWC,Functionality,4.416666667,,,
+Business Software Generalists,Peer Group Average,Functionality,3.979733462,,,
+Business Software Generalists,Amazon RedShift,Adaptability,5.548913043,,,
+Business Software Generalists,Google BigQuery,Adaptability,7.089673913,,,
+Business Software Generalists,MS Azure Data Factory,Adaptability,7.60326087,,,
+Business Software Generalists,MS Azure Synapse,Adaptability,7.60326087,,,
+Business Software Generalists,MS SQL Server,Adaptability,6.119565217,,,
+Business Software Generalists,MS SSIS,Adaptability,4.477079395,,,
+Business Software Generalists,Oracle Data Integrator,Adaptability,5.035326087,,,
+Business Software Generalists,Oracle Database,Adaptability,7.062643021,,,
+Business Software Generalists,SAP BW/4HANA,Adaptability,6.319293478,,,
+Business Software Generalists,SAP DI,Adaptability,4.864130435,,,
+Business Software Generalists,SAP DWC,Adaptability,8.245244565,,,
+Business Software Generalists,Peer Group Average,Adaptability,6.360762809,,,
+Business Software Generalists,Amazon RedShift,Technical Capability,6.610673771,,,
+Business Software Generalists,Google BigQuery,Technical Capability,5.882783705,,,
+Business Software Generalists,MS Azure Data Factory,Technical Capability,6.285664071,,,
+Business Software Generalists,MS Azure Synapse,Technical Capability,5.901428785,,,
+Business Software Generalists,MS SQL Server,Technical Capability,5.695839742,,,
+Business Software Generalists,MS SSIS,Technical Capability,3.646030768,,,
+Business Software Generalists,Oracle Data Integrator,Technical Capability,5.901908032,,,
+Business Software Generalists,Oracle Database,Technical Capability,6.965020429,,,
+Business Software Generalists,SAP BW/4HANA,Technical Capability,5.800121438,,,
+Business Software Generalists,SAP DI,Technical Capability,4.256913414,,,
+Business Software Generalists,SAP DWC,Technical Capability,7.042043438,,,
+Business Software Generalists,Peer Group Average,Technical Capability,5.817129781,,,
